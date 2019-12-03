@@ -46,4 +46,34 @@ public class Solution1_10 {
         result[1] = list.get(b).getKey();
         return result;
     }
+
+    public static class ListNode{
+        int val;
+        ListNode next;
+        ListNode(int val){this.val = val;}
+    }
+    public static ListNode Test2S1(ListNode l1, ListNode l2){
+        int flag = 0; //标志位，标志所在位数是否进1
+        boolean isFirst = true; //标志位，标志是否第一次进入循环
+        ListNode sumNode = new ListNode(0);
+        ListNode resultNode = sumNode;
+
+        while(l1.next != null || l2.next != null){
+            int sum = l1.val + l2.val + flag;
+
+            if(isFirst){
+                sumNode.val = sum % 10;
+                isFirst = false;
+            }else{
+                sumNode.next = new ListNode(sum % 10);
+                sumNode = sumNode.next;
+            }
+
+            l1 = l1.next;
+            l2 = l2.next;
+            flag = sum / 10;
+
+        }
+        return resultNode;
+    }
 }
