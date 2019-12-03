@@ -6,12 +6,19 @@ import java.util.*;
 
 /**
  * @program: LeeCode
- * @description: 题目1-10的解决方案
+ * @description: 题目1-10的解决方案，命名规则Test+题目编号+S+解决方案编号
  * @author: DBC
  * @create: 2019-12-01 22:46
  **/
 public class Solution1_10 {
-    public static int[] Test1(int[] nums, int target){
+
+    /*
+    * int nums[] = {2,20,3,4,7,11,15};//{3,3}
+    * int target = 9;
+    * int result[] = Solution1_10.Test1S1(nums, target);
+    * System.out.println(result[0] + " , " + result[1]);
+    * */
+    public static int[] Test1S1(int[] nums, int target){
         int a = 0;
         int b = nums.length - 1;
         int result[] = new int[2];
