@@ -50,11 +50,28 @@ public class Solution4 {
         int index2 = 0;
 
         while(index1 != size1 || index2 != size2){
+            if(index1 == size1){
+                for (int i = index2; i < size2; i++){
+                    array.add(nums2[i]);
+                }
+                break;
+            }else if (index2 == size2){
+                for (int i = index1; i < size1; i++){
+                    array.add(nums1[i]);
+                }
+                break;
+            }
             array.add(nums1[index1] < nums2[index2] ? nums1[index1] : nums2[index2]);
+            /*System.out.println("ss");
             System.out.println(index1);
-            System.out.println(index2);
-            if(nums1[index1] < nums2[index2] && index1 < size1) index1++;
-            if(nums1[index1] > nums2[index2] && index2 < size2) index2++;
+            System.out.println(index2);*/
+            if(nums1[index1] < nums2[index2]){
+                if(index1 < size1)
+                    index1++;
+            }
+            else{
+                if(index2 < size2) index2++;
+            }
         }
 
         int sizeArray = array.size() / 2;
