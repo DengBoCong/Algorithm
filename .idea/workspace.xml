@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1cc0232b-5d6f-462d-b9f7-d792edd54c56" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeeCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeeCode/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/com/dbc/leecode/Algorithm/Solution1_10/Solution4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeeCode/com/dbc/leecode/Algorithm/Solution1_10/Solution4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/Solution4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dbc/leecode/Reclass/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Reclass/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/FindMedianSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/FindMedianSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/Solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/LongestPalindrome.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,28 +14,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="171">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/Solution4.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/FindMedianSortedArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state relative-caret-position="399">
+              <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,10 +40,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/Solution5.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/LongestPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -82,6 +73,8 @@
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/Solution3.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/Solution4.java" />
+        <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/LongestPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/FindMedianSortedArrays.java" />
       </list>
     </option>
   </component>
@@ -97,35 +90,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="LeeCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeeCode" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorithmProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmProject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeeCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeeCode" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorithmProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeeCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeeCode" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorithmProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeeCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeeCode" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorithmProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="Reclass" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeeCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeeCode" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorithmProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="Solution1_10" type="462c0819:PsiDirectoryNode" />
@@ -135,7 +127,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -167,53 +159,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="AlgorithmProject" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="AlgorithmProject" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -235,6 +180,8 @@
       <workItem from="1575424251060" duration="7805000" />
       <workItem from="1575443913773" duration="6971000" />
       <workItem from="1575533952089" duration="313000" />
+      <workItem from="1575612581210" duration="6000" />
+      <workItem from="1575613118888" duration="1041000" />
     </task>
     <task id="LOCAL-00001" summary="题目一的第一种解答">
       <created>1575215586100</created>
@@ -247,7 +194,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31685000" />
+    <option name="totallyTimeSpent" value="33287000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -260,8 +207,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17803837" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18123667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -270,7 +218,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -370,27 +318,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/Solution5.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/LongestPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/Solution4.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/FindMedianSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

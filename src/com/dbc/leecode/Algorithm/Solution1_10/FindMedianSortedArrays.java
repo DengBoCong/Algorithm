@@ -10,47 +10,28 @@ import java.util.List;
  * @create: 2019-12-04 12:18
  **/
 public class FindMedianSortedArrays {
-    private static int kMinNum(int K, int[] nums1, int[] nums2){
-        /*int result = 0; //记录结果第K小数
-        int firstIndex = K / 2 - 1; //记录第一个数组的当前索引
-        int secondIndex = K / 2 - 1; //记录第二个数组的当前索引
-        while (K > 0){
-            if(K == 1){
-                result =  nums1[firstIndex] > nums2[secondIndex] ? nums1[firstIndex] : nums2[secondIndex];
-                break;
-            }
+    private static int kMinNum(int start1, int end1, int[] nums1, int start2, int end2, int[] nums2, int k){
+        int len1 = end1 - start1 + 1;
+        int len2 = end2 - start2 + 1;
+        if(len1 > len2) return kMinNum(start2, end2, nums2, start1, end1, nums1, k);
+        if(len1 == 0) return nums2[start2 + k - 1];
+        if(k == 1) return Math.min(nums1[start1], nums2[start2]);
+        int i = start1 + Math.min(len1, k / 2) - 1;
+        int j = start2 + Math.min(len2, k / 2) - 1;
 
-            if(nums1[firstIndex] > nums2[secondIndex]){
-                if(secondIndex == nums2.length - 1){
-
-                }
-                firstIndex = K / 2 - 1;
-                secondIndex = secondIndex + K / 2;
-            }else {
-                firstIndex = firstIndex + K / 2;
-                secondIndex = K / 2 - 1;
-            }
-
-            if(firstIndex > nums1.length - 1) firstIndex = nums1.length - 1;
-            if(secondIndex > nums2.length - 1) secondIndex = nums2.length - 1;
-
-            K = K - K / 2;
+        if(nums1[i] > nums2[j]){
+            return kMinNum(start1, end1, nums1, j + 1, end2, nums2,k - (j - start2 + 1));
+        }else{
+            return kMinNum(i + 1, end1, nums1, start2, end2, nums2, k - (i - start1 + 1));
         }
-        return result;*/
-        /*int n = nums1.length;
-        int m = nums2.length;*/
-        return 0;
     }
 
     public static double Test4S1(int[] nums1, int[] nums2) {
-        //K最小数解决方案
-        int allSize = nums1.length + nums2.length;
-        if(allSize % 2 == 0){
-            int sum = kMinNum(allSize / 2 - 1, nums1, nums2) + kMinNum(allSize / 2, nums1, nums2);
-            return sum / 2.00;
-        }else{
-            return kMinNum(allSize / 2, nums1, nums2);
-        }
+        int n = nums1.length;
+        int m = nums2.length;
+        int left = (n + m + 1) / 2;
+        int right = (n + m + 2) / 2;
+        return (kMinNum(0, n - 1, nums1, 0, m - 1, nums2, left) + kMinNum(0, n - 1, nums1, 0, m - 1, nums2, right)) * 0.5;
     }
 
     public static double Test4S2(int[] nums1, int[] nums2) {

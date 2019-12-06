@@ -1,4 +1,4 @@
 package com.dbc.leecode.Algorithm.Solution1_10;
 
-public class Solution5 {
+public class LongestPalindrome {
 }
