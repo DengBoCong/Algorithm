@@ -1,6 +1,6 @@
 package com.dbc.leecode.Algorithm.Solution1_10;
 
-import com.dbc.leecode.Reclass.ListNode;
+import com.dbc.leecode.Algorithm.Reclass.ListNode;
 
 /**
  * @program: LeeCode

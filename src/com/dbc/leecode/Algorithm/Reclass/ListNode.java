@@ -1,4 +1,4 @@
-package com.dbc.leecode.Reclass;
+package com.dbc.leecode.Algorithm.Reclass;
 
 /**
  * @program: LeeCode
