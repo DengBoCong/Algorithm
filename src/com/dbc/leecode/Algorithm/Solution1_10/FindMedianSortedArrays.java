@@ -5,7 +5,13 @@ import java.util.List;
 
 /**
  * @program: LeeCode
- * @description:
+ * @description:给定两个大小为 m 和 n 的有序数组 nums1 和 nums2。
+ * 请你找出这两个有序数组的中位数，并且要求算法的时间复杂度为 O(log(m + n))。
+ * 你可以假设 nums1 和 nums2 不会同时为空。
+ * nums1 = [1, 3]
+ * nums2 = [2]
+ * 则中位数是 2.0
+ *
  * @author: DBC
  * @create: 2019-12-04 12:18
  **/
@@ -67,6 +73,40 @@ public class FindMedianSortedArrays {
         int sizeArray = array.size() / 2;
         if(array.size() % 2 == 0) return (array.get(sizeArray - 1) + array.get(sizeArray)) / 2.00;
         else return array.get(sizeArray);
+    }
+
+    public static double Test4S3(int[] nums1, int[] nums2) {
+        int m = nums1.length;
+        int n = nums2.length;
+        if (m > n) {
+            return Test4S3(nums2,nums1); // 保证 m <= n
+        }
+        int iMin = 0, iMax = m;
+        while (iMin <= iMax) {
+            int i = (iMin + iMax) / 2;
+            int j = (m + n + 1) / 2 - i;
+            if (j != 0 && i != m && nums2[j-1] > nums1[i]){ // i 需要增大
+                iMin = i + 1;
+            }
+            else if (i != 0 && j != n && nums1[i-1] > nums2[j]) { // i 需要减小
+                iMax = i - 1;
+            }
+            else { // 达到要求，并且将边界条件列出来单独考虑
+                int maxLeft = 0;
+                if (i == 0) { maxLeft = nums2[j-1]; }
+                else if (j == 0) { maxLeft = nums1[i-1]; }
+                else { maxLeft = Math.max(nums1[i-1], nums2[j-1]); }
+                if ( (m + n) % 2 == 1 ) { return maxLeft; } // 奇数的话不需要考虑右半部分
+
+                int minRight = 0;
+                if (i == m) { minRight = nums2[j]; }
+                else if (j == n) { minRight = nums1[i]; }
+                else { minRight = Math.min(nums2[j], nums1[i]); }
+
+                return (maxLeft + minRight) / 2.0; //如果是偶数的话返回结果
+            }
+        }
+        return 0.0;
     }
 
 }
