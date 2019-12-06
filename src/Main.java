@@ -1,9 +1,9 @@
 import com.dbc.leecode.Algorithm.Solution1_10.FindMedianSortedArrays;
+import com.dbc.leecode.Algorithm.Solution1_10.LongestPalindrome;
 
 public class Main {
     public static void main(String[] args) {
-        int[] nums1 = new int[]{3};
-        int[] nums2 = new int[]{-2,-1};
-        System.out.println(FindMedianSortedArrays.Test4S3(nums1, nums2));
+        String s = "baaa";
+        System.out.println(LongestPalindrome.longestPalindromeS1(s));
     }
 }
