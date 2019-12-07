@@ -50,7 +50,7 @@ public class LongestPalindrome {
         else return s.substring(left1, right1);
     }
 
-    /*public static String longOalindromeS1(int leftIndex, int rightIndex, String s){
-        int
-    }*/
+    public static String longestPalindromeS2(String s) {
+        return "";
+    }
 }
