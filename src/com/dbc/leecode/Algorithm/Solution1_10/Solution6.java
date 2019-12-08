@@ -11,7 +11,7 @@ import java.util.List;
  * @author: DBC
  * @create: 2019-12-07 22:15
  **/
-public class LargestNumber {
+public class Solution6 {
     public static String largestNumberS1(int[] nums) {
         int length = nums.length;
         Integer[] numVote = new Integer[length];

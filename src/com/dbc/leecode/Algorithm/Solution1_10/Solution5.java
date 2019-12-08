@@ -1,6 +1,6 @@
 package com.dbc.leecode.Algorithm.Solution1_10;
 
-public class LongestPalindrome {
+public class Solution5 {
     /*
     * 使用中心扩展法
     * */
