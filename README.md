@@ -79,7 +79,7 @@ nums2 = [3, 4]
 说明: 输出结果可能非常大，所以你需要返回一个字符串而不是整数。
 
 
-*******7、Z字形变换*******  测试地方：https://leetcode-cn.com/problems/zigzag-conversion/submissions/
+*******7、Z字形变换*******  测试地址：https://leetcode-cn.com/problems/zigzag-conversion/submissions/
 将一个给定字符串根据给定的行数，以从上往下、从左到右进行 Z 字形排列。
 比如输入字符串为 "LEETCODEISHIRING" 行数为 3 时，排列如下：
 L   C   I   R
@@ -99,3 +99,18 @@ L     D     R
 E   O E   I I
 E C   I H   N
 T     S     G
+
+
+*******8、整数反转*******  测试地址：https://leetcode-cn.com/problems/reverse-integer/
+给出一个 32 位的有符号整数，你需要将这个整数中每位上的数字进行反转。
+示例 1:
+输入: 123
+输出: 321
+ 示例 2:
+输入: -123
+输出: -321
+示例 3:
+输入: 120
+输出: 21
+注意:
+假设我们的环境只能存储得下 32 位的有符号整数，则其数值范围为 [−231,  231 − 1]。请根据这个假设，如果反转后整数溢出那么就返回 0。
