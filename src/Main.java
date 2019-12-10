@@ -1,9 +1,10 @@
-import com.dbc.leecode.Algorithm.Solution1_10.FindMedianSortedArrays;
+import com.dbc.leecode.Algorithm.Solution1_10.Solution5;
+import com.dbc.leecode.Algorithm.Solution1_10.Solution7;
+import com.dbc.leecode.Algorithm.Solution1_10.Solution8;
 
 public class Main {
     public static void main(String[] args) {
-        int[] nums1 = new int[]{3};
-        int[] nums2 = new int[]{-2,-1};
-        System.out.println(FindMedianSortedArrays.Test4S3(nums1, nums2));
+        String s = "AB";
+        System.out.println(Solution8.reverseS1(1534236469));
     }
 }

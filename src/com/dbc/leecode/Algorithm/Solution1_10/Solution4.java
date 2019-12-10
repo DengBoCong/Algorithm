@@ -15,7 +15,7 @@ import java.util.List;
  * @author: DBC
  * @create: 2019-12-04 12:18
  **/
-public class FindMedianSortedArrays {
+public class Solution4 {
     private static int kMinNum(int start1, int end1, int[] nums1, int start2, int end2, int[] nums2, int k){
         int len1 = end1 - start1 + 1;
         int len2 = end2 - start2 + 1;
