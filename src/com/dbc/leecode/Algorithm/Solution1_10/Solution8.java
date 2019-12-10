@@ -12,7 +12,11 @@ public class Solution8 {
         StringBuffer s = new StringBuffer();
         s.append(y);
         s.reverse();
-        y = Integer.parseInt(s.toString());
+        try {
+            y = Integer.parseInt(s.toString());
+        }catch (NumberFormatException e){
+            return 0;
+        }
         if (x < 0) return -y;
         else return y;
     }
