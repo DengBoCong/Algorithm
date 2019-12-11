@@ -22,19 +22,50 @@ public class Solution9 {
                     flag = true;
                     continue;
                 }
+                if(str.charAt(i) == '-' || str.charAt(i) == '+') break;
                 if(flag) right = i;
                 if((str.charAt(i) == '-' && str.charAt(i - 1) == '+') || str.charAt(i) == '+' && str.charAt(i - 1) == '-')
                     return 0;
-            }else if(str.charAt(i) == ' ') continue;
+            }else if(str.charAt(i) == ' ' && !flag) continue;
             else break;
         }
-        if(left == -1 || (left == right && (str.charAt(0) == '-' || str.charAt(0) == '+'))) return 0;
+        if(left == -1 || (left == right && (str.charAt(left) == '-' || str.charAt(left) == '+'))) return 0;
         try {
             result = Integer.parseInt(str.substring(left, right + 1));
         }catch (NumberFormatException e){
-            if(str.charAt(0) == '-') return -Integer.MIN_VALUE;
-            else return Integer.MIN_VALUE;
+            if(str.charAt(left) == '-') return -Integer.MIN_VALUE;
+            else return Integer.MIN_VALUE - 1;
         }
         return result;
+    }
+
+    public static int myAtoiS2(String str){
+        if(str.isEmpty()) return 0;
+        char[] mychar=str.toCharArray();
+        long ans=0;
+        int i=0,sign=1,n=str.length();
+        while(i<n&&mychar[i]==' ') {
+            i++;
+        }
+        if(i < n &&mychar[i]=='+') {
+            i++;
+        }
+        else if(i < n &&mychar[i]=='-') {
+            i++;
+            sign =-1;
+        }
+        //重点：只管是数字的时候，其余取0
+        while(i<n&&(mychar[i]>='0'&&mychar[i]<='9')) {
+            if(ans!=(int)ans) {
+                return (sign==1)?Integer.MAX_VALUE:Integer.MIN_VALUE;
+            }
+            ans=ans*10+mychar[i++]-'0';
+        }
+
+        if(ans!=(int)ans) {
+            return (sign==1)?Integer.MAX_VALUE:Integer.MIN_VALUE;
+        }
+
+        return (int)(ans*sign);
     }
 }
