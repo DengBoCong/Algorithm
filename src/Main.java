@@ -1,11 +1,9 @@
-import com.dbc.leecode.Algorithm.Solution1_10.Solution5;
-import com.dbc.leecode.Algorithm.Solution1_10.Solution7;
-import com.dbc.leecode.Algorithm.Solution1_10.Solution8;
-import com.dbc.leecode.Algorithm.Solution1_10.Solution9;
+import com.dbc.leecode.Algorithm.Solution11_20.Solution11;
+import com.dbc.leecode.Algorithm.Solution1_10.*;
 
 public class Main {
     public static void main(String[] args) {
-        String s = "+-";
-        System.out.println(Solution9.myAtoiS1(s));
+        String s = "      -11919730356x";
+        System.out.println(Solution11.isMatchS4("ab", ".*c"));
     }
 }
