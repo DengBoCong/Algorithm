@@ -44,3 +44,6 @@
 
 
 *******15、最长公共前缀*******     测试地址：https://leetcode-cn.com/problems/longest-common-prefix/
+
+
+*******16、三数之和*******     测试地址：https://leetcode-cn.com/problems/3sum/submissions/
