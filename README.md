@@ -47,3 +47,9 @@
 
 
 *******16、三数之和*******     测试地址：https://leetcode-cn.com/problems/3sum/submissions/
+
+
+*******17、最近接近的三数之和*******     测试地址：https://leetcode-cn.com/problems/3sum-closest/
+
+
+*******18、电话号码的字母组合*******     测试地址：https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
