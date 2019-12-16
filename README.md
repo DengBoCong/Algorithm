@@ -53,3 +53,9 @@
 
 
 *******18、电话号码的字母组合*******     测试地址：https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
+
+
+*******19、四数之和*******     测试地址：https://leetcode-cn.com/problems/4sum/
+
+
+*******20、删除链表的第N个节点*******     测试地址：https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
