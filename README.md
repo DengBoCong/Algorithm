@@ -65,3 +65,6 @@
 
 
 *******22、合并两个有序链表*******     测试地址：https://leetcode-cn.com/problems/merge-two-sorted-lists/
+
+
+*******23、括号生成*******     测试地址：https://leetcode-cn.com/problems/generate-parentheses/
