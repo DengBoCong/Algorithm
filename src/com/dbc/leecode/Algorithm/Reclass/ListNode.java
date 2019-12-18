@@ -10,4 +10,15 @@ public class ListNode {
     public int val;
     public ListNode next;
     public ListNode(int x){ this.val = x;}
+
+    @Override
+    public String toString() {
+        String s = "";
+        ListNode listNode = this;
+        while (listNode != null){
+            s += listNode.val;
+            listNode = listNode.next;
+        }
+        return s;
+    }
 }

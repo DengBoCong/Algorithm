@@ -68,3 +68,12 @@
 
 
 *******23、括号生成*******     测试地址：https://leetcode-cn.com/problems/generate-parentheses/
+
+
+*******24、合成K个排序链表*******     测试地址：https://leetcode-cn.com/problems/merge-k-sorted-lists/
+
+
+*******25、两两交换链表中的节点*******     测试地址：https://leetcode-cn.com/problems/swap-nodes-in-pairs/
+
+
+*******26、K个一组翻转链表*******     测试地址：https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
