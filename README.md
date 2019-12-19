@@ -77,3 +77,13 @@
 
 
 *******26、K个一组翻转链表*******     测试地址：https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
+
+
+*******27、删除排序数组中的重复项*******    测试地址：https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
+
+
+*******28、移出元素*******     测试地址：https://leetcode-cn.com/problems/remove-element/
+
+
+*******29、实现strStr()*******     测试地址：https://leetcode-cn.com/problems/implement-strstr/
+
