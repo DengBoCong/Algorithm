@@ -2,6 +2,7 @@ import com.dbc.leecode.Algorithm.Reclass.ListNode;
 import com.dbc.leecode.Algorithm.Solution11_20.*;
 import com.dbc.leecode.Algorithm.Solution1_10.*;
 import com.dbc.leecode.Algorithm.Solution21_30.*;
+import com.dbc.leecode.Algorithm.Solution31_40.Solution31;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,7 +19,8 @@ public class Main {
         listNode3.next = listNode4;
         listNode4.next = listNode5;
 
-        int s[] = new int[]{1, 0, -1, 0, -2, 2};
-        System.out.println(Solution30.divide(-2147483648,-1));
+        int s[] = new int[]{1,2,3};
+        Solution31.nextPermutation(s);
+        System.out.println(s.toString());
     }
 }

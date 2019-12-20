@@ -87,3 +87,11 @@
 
 *******29、实现strStr()*******     测试地址：https://leetcode-cn.com/problems/implement-strstr/
 
+
+*******30、两数相除*******     测试地址：https://leetcode-cn.com/problems/divide-two-integers/
+
+
+*******31、下一个队列*******     测试地址：https://leetcode-cn.com/problems/next-permutation/
+
+
+*******32、串联所有单词的子串*******     测试地址：https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/

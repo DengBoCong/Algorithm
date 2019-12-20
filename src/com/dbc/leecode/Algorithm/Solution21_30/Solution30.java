@@ -2,15 +2,27 @@ package com.dbc.leecode.Algorithm.Solution21_30;
 
 public class Solution30 {
     public static int divide(int dividend, int divisor) {
-        int dividend1 = Math.abs(dividend);
-        int divisor1 = Math.abs(divisor);
-        int sum = 0;
-        for (int i = 0; i <= Integer.MAX_VALUE; i++) {
-            sum += divisor1;
-            if(sum > dividend1 && dividend < 0 && divisor > 0) return -i;
-            if(sum > dividend1 && dividend > 0 && divisor < 0) return -i;
-            if(sum > dividend1) return i;
+        boolean sign = (dividend > 0) ^ (divisor > 0);
+        int result = 0;
+        if(dividend>0) {
+            dividend = -dividend;
         }
-        return Integer.MAX_VALUE - 1;
+        if(divisor>0) divisor = -divisor;
+        while(dividend <= divisor) {
+            int temp_result = -1;
+            int temp_divisor = divisor;
+            while(dividend <= (temp_divisor << 1)) {
+                if(temp_divisor <= (Integer.MIN_VALUE >> 1))break;
+                temp_result = temp_result << 1;
+                temp_divisor = temp_divisor << 1;
+            }
+            dividend = dividend - temp_divisor;
+            result += temp_result;
+        }
+        if(!sign) {
+            if(result <= Integer.MIN_VALUE) return Integer.MAX_VALUE;
+            result = - result;
+        }
+        return result;
     }
 }
