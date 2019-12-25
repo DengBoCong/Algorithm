@@ -4,6 +4,8 @@ import com.dbc.leecode.Algorithm.Solution1_10.*;
 import com.dbc.leecode.Algorithm.Solution21_30.*;
 import com.dbc.leecode.Algorithm.Solution31_40.Solution31;
 import com.dbc.leecode.Algorithm.Solution31_40.Solution36;
+import com.dbc.leecode.Algorithm.Solution31_40.Solution38;
+import com.dbc.leecode.Algorithm.Solution31_40.Solution39;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -23,6 +25,8 @@ public class Main {
         int s[] = new int[]{1,2,3};
         /*Solution31.nextPermutation(s);
         System.out.println(s.toString());*/
-        System.out.println(Solution36.searchInsert(new int[]{1,3,5,6}, 5));
+        System.out.println(Solution39.countAndSay(4));
+        int[] candidates = {2, 3, 6, 7};
+        int target = 7;
     }
 }
