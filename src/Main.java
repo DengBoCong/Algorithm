@@ -6,6 +6,8 @@ import com.dbc.leecode.Algorithm.Solution31_40.Solution31;
 import com.dbc.leecode.Algorithm.Solution31_40.Solution36;
 import com.dbc.leecode.Algorithm.Solution31_40.Solution38;
 import com.dbc.leecode.Algorithm.Solution31_40.Solution39;
+import com.dbc.leecode.Algorithm.Solution41_50.Solution41;
+import com.dbc.leecode.Algorithm.Solution41_50.Solution42;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -22,11 +24,9 @@ public class Main {
         listNode3.next = listNode4;
         listNode4.next = listNode5;
 
-        int s[] = new int[]{1,2,3};
-        /*Solution31.nextPermutation(s);
-        System.out.println(s.toString());*/
-        System.out.println(Solution39.countAndSay(4));
-        int[] candidates = {2, 3, 6, 7};
-        int target = 7;
+        int[] candidates = {10, 1, 2, 7, 6, 1, 5};
+        int target = 8;
+        List<List<Integer>> combinationSum2 = Solution41.combinationSum2(candidates, target);
+        System.out.println(Solution42.firstMissingPositive(new int[]{1,2,0}));
     }
 }
