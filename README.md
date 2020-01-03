@@ -127,3 +127,9 @@
 *******42、缺失的第一个正数*******     测试地址：https://leetcode-cn.com/problems/first-missing-positive/
 
 
+*******43、接雨水*******     测试地址：https://leetcode-cn.com/problems/trapping-rain-water/
+
+
+*******44、字符串相乘*******     测试地址：https://leetcode-cn.com/problems/multiply-strings/
+
+
