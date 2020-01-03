@@ -121,3 +121,9 @@
 *******40、组合总和*******     测试地址：https://leetcode-cn.com/problems/combination-sum/
 
 
+*******41、组合总和2*******     测试地址：https://leetcode-cn.com/problems/combination-sum-ii/
+
+
+*******42、缺失的第一个正数*******     测试地址：https://leetcode-cn.com/problems/first-missing-positive/
+
+
