@@ -136,5 +136,9 @@
 *******45、通配符匹配*******     测试地址：https://leetcode-cn.com/problems/wildcard-matching/
 
 
+*******46、跳跃游戏2*******     测试地址：https://leetcode-cn.com/problems/jump-game-ii/
+
+
+*******47、全排列*******     测试地址：https://leetcode-cn.com/problems/permutations/
 
 
