@@ -142,3 +142,8 @@
 *******47、全排列*******     测试地址：https://leetcode-cn.com/problems/permutations/
 
 
+*******48、全排列2*******     测试地址：https://leetcode-cn.com/problems/permutations-ii/
+
+
+*******49、旋转图片*******     测试地址：https://leetcode-cn.com/problems/rotate-image/
+
