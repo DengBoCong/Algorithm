@@ -147,3 +147,9 @@
 
 *******49、旋转图片*******     测试地址：https://leetcode-cn.com/problems/rotate-image/
 
+
+*******49、字母异位词分组*******     测试地址：https://leetcode-cn.com/problems/group-anagrams/
+
+
+*******50、Pow(x,n)*******     测试地址：https://leetcode-cn.com/problems/powx-n/
+
