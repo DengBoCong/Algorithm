@@ -153,3 +153,9 @@
 
 *******50、Pow(x,n)*******     测试地址：https://leetcode-cn.com/problems/powx-n/
 
+
+*******51、N皇后*******     测试地址：https://leetcode-cn.com/problems/n-queens/
+
+
+*******52、N皇后2*******     测试地址：https://leetcode-cn.com/problems/n-queens-ii/
+
