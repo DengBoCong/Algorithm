@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cc0232b-5d6f-462d-b9f7-d792edd54c56" name="Default" comment="" />
+    <list default="true" id="1cc0232b-5d6f-462d-b9f7-d792edd54c56" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,26 +28,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution51_60/Solution52.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution51_60/Solution53.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution51_60/Solution54.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+            <state relative-caret-position="435">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
               <folding>
-                <element signature="e#2739#2740#0" expanded="true" />
-                <element signature="e#2789#2790#0" expanded="true" />
+                <element signature="e#1373#1374#0" expanded="true" />
+                <element signature="e#1428#1429#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,7 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10.java" />
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/Solution2.java" />
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/Solution1_10.java" />
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/Solution.java" />
@@ -127,10 +116,11 @@
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution51_60/Solution51.java" />
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution51_60/Solution52.java" />
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution51_60/Solution53.java" />
+        <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution51_60/Solution54.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -149,11 +139,6 @@
             <path>
               <item name="AlgorithmProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmProject" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmProject" type="b2602c69:ProjectViewProjectNode" />
@@ -239,6 +224,10 @@
       <workItem from="1576507648716" duration="2150000" />
       <workItem from="1578455431276" duration="593000" />
       <workItem from="1578470312997" duration="2340000" />
+      <workItem from="1578565391502" duration="595000" />
+      <workItem from="1578644357901" duration="4000" />
+      <workItem from="1578644549768" duration="463000" />
+      <workItem from="1578645053691" duration="3145000" />
     </task>
     <task id="LOCAL-00001" summary="题目一的第一种解答">
       <created>1575215586100</created>
@@ -251,7 +240,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176068000" />
+    <option name="totallyTimeSpent" value="181612000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -263,10 +252,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19989339" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20842217" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -282,7 +271,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49946696" weight="0.3275488" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3275488" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3275488" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32978722" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -388,13 +377,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution1_10/Solution4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Java Tools/JDK/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -760,6 +742,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution51_60/Solution53.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution51_60/Solution52.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -770,23 +769,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution51_60/Solution52.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution51_60/Solution54.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+        <state relative-caret-position="435">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution51_60/Solution53.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
-          <folding>
-            <element signature="e#2739#2740#0" expanded="true" />
-            <element signature="e#2789#2790#0" expanded="true" />
+            <element signature="e#1373#1374#0" expanded="true" />
+            <element signature="e#1428#1429#0" expanded="true" />
           </folding>
         </state>
       </provider>
