@@ -165,3 +165,9 @@
 
 *******54、螺旋矩阵*******     测试地址：https://leetcode-cn.com/problems/spiral-matrix/
 
+
+*******55、跳跃游戏*******     测试地址：https://leetcode-cn.com/problems/jump-game/
+
+
+*******56、合并区间*******     测试地址：https://leetcode-cn.com/problems/merge-intervals/
+
