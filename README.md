@@ -195,3 +195,12 @@
 
 *******64、最小路径和*******     测试地址：https://leetcode-cn.com/problems/minimum-path-sum/
 
+
+*******65、有效数字*******     测试地址：https://leetcode-cn.com/problems/valid-number/
+
+
+*******66、加一*******     测试地址：https://leetcode-cn.com/problems/plus-one/
+
+
+*******67、二进制求和*******     测试地址：https://leetcode-cn.com/problems/add-binary/
+
