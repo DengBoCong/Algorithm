@@ -204,3 +204,12 @@
 
 *******67、二进制求和*******     测试地址：https://leetcode-cn.com/problems/add-binary/
 
+
+*******68、文本左右对齐*******     测试地址：https://leetcode-cn.com/problems/text-justification/
+
+
+*******69、x的平方根*******     测试地址：https://leetcode-cn.com/problems/sqrtx/
+
+
+*******70、爬楼梯*******     测试地址：https://leetcode-cn.com/problems/climbing-stairs/
+
