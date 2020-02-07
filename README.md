@@ -213,3 +213,12 @@
 
 *******70、爬楼梯*******     测试地址：https://leetcode-cn.com/problems/climbing-stairs/
 
+
+*******71、简化路径*******     测试地址：https://leetcode-cn.com/problems/simplify-path/
+
+
+*******72、编辑距离*******     测试地址：https://leetcode-cn.com/problems/edit-distance/
+
+
+*******73、矩阵置零*******     测试地址：https://leetcode-cn.com/problems/set-matrix-zeroes/
+
