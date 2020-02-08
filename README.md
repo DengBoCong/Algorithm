@@ -222,3 +222,12 @@
 
 *******73、矩阵置零*******     测试地址：https://leetcode-cn.com/problems/set-matrix-zeroes/
 
+
+*******74、搜索二维矩阵*******     测试地址：https://leetcode-cn.com/problems/search-a-2d-matrix/
+
+
+*******75、颜色分类*******     测试地址：https://leetcode-cn.com/problems/sort-colors/
+
+
+*******76、最小覆盖子串*******     测试地址：https://leetcode-cn.com/problems/minimum-window-substring/
+
