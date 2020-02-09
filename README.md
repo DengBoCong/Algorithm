@@ -231,3 +231,12 @@
 
 *******76、最小覆盖子串*******     测试地址：https://leetcode-cn.com/problems/minimum-window-substring/
 
+
+*******77、组合*******     测试地址：https://leetcode-cn.com/problems/combinations/
+
+
+*******78、子集*******     测试地址：https://leetcode-cn.com/problems/subsets/
+
+
+*******79、单词搜索*******     测试地址：https://leetcode-cn.com/problems/word-search/
+
