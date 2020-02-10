@@ -5,3 +5,12 @@
 
 
 *******83、删除排序链表中的重复元素*******     测试地址：https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/
+
+
+*******84、柱状图中最大的矩形*******     测试地址：https://leetcode-cn.com/problems/largest-rectangle-in-histogram/
+
+
+*******85、最大矩形*******     测试地址：https://leetcode-cn.com/problems/maximal-rectangle/
+
+
+*******86、分隔链表*******     测试地址：https://leetcode-cn.com/problems/partition-list/
