@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1cc0232b-5d6f-462d-b9f7-d792edd54c56" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution81_90/Solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution81_90/Solution.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,45 +20,29 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="266">
+              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution90.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution81_90/Solution90.java">
+      <file leaf-file-name="Solution93.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution91_100/Solution93.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="28" column="20" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="28" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#639#648#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="737">
+              <caret line="78" column="20" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="78" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution91.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution91_100/Solution91.java">
+      <file leaf-file-name="Solution94.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution91_100/Solution94.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+            <state relative-caret-position="414">
+              <caret line="51" column="17" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution81_90/Solution.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="191">
-                <caret line="24" column="74" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -89,10 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution31_40/Solution36.java" />
-        <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution31_40/Solution37.java" />
-        <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution31_40/Solution38.java" />
-        <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution31_40/Solution39.java" />
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution31_40/Solution40.java" />
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution41_50/Solution41.java" />
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution41_50/Solution42.java" />
@@ -103,7 +82,6 @@
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution61_70/Solution63.java" />
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution61_70/Solution64.java" />
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution61_70/Solution65.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution61_70/Solution66.java" />
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution61_70/Solution67.java" />
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution61_70/Solution68.java" />
@@ -140,6 +118,11 @@
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution81_90/Solution90.java" />
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution91_100/Solution91.java" />
         <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution81_90/Solution.md" />
+        <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution91_100/Solution.md" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution91_100/Solution92.java" />
+        <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution91_100/Solution93.java" />
+        <option value="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution91_100/Solution94.java" />
       </list>
     </option>
   </component>
@@ -153,8 +136,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="424" />
+    <option name="y" value="6" />
     <option name="width" value="936" />
-    <option name="height" value="1031" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -162,6 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,13 +171,6 @@
               <item name="AlgorithmProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution81_90" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="Solution91_100" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -202,9 +181,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,7 +246,8 @@
       <workItem from="1581128984903" duration="10933000" />
       <workItem from="1581212463937" duration="17808000" />
       <workItem from="1581300874494" duration="7018000" />
-      <workItem from="1581388875653" duration="7227000" />
+      <workItem from="1581388875653" duration="9049000" />
+      <workItem from="1581489861894" duration="3823000" />
     </task>
     <task id="LOCAL-00001" summary="题目一的第一种解答">
       <created>1575215586100</created>
@@ -281,7 +260,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="267946000" />
+    <option name="totallyTimeSpent" value="273591000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -293,7 +272,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="624" height="687" extended-state="0" />
+    <frame x="0" y="0" width="624" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -306,10 +285,10 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31344903" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49946696" weight="0.3275488" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32553956" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32553956" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24734983" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25618374" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -321,11 +300,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Maven" order="9" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,34 +386,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution51_60/Solution57.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution51_60/Solution58.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="43" column="27" lean-forward="true" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution51_60/Solution60.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution51_60/Solution59.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution61_70/Solution61.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -760,21 +711,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution81_90/Solution90.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="28" column="20" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="28" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#639#648#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -782,19 +722,57 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution81_90/Solution.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="191">
-            <caret line="24" column="74" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
+          <first_editor relative-caret-position="372">
+            <caret line="24" column="74" lean-forward="true" selection-start-line="18" selection-end-line="24" selection-end-column="74" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution91_100/Solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret column="74" lean-forward="true" selection-end-column="74" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution91_100/Solution92.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="38" column="36" lean-forward="true" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution91_100/Solution93.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="78" column="20" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="78" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution91_100/Solution94.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

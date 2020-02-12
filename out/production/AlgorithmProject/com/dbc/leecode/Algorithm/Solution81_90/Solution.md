@@ -14,3 +14,12 @@
 
 
 *******86、分隔链表*******     测试地址：https://leetcode-cn.com/problems/partition-list/
+
+
+*******88、扰乱字符串*******     测试地址：https://leetcode-cn.com/problems/scramble-string/
+
+
+*******89、合并两个有序数组*******     测试地址：https://leetcode-cn.com/problems/merge-sorted-array/
+
+
+*******90、格雷编码*******     测试地址：https://leetcode-cn.com/problems/gray-code/
