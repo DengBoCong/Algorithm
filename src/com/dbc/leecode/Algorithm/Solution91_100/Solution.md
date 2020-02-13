@@ -9,3 +9,12 @@
 
 *******94、复制IP地址*******     测试地址：https://leetcode-cn.com/problems/restore-ip-addresses/
 
+
+*******95、二叉树的中序遍历*******     测试地址：https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
+
+
+*******96、不同的二叉搜索树2*******     测试地址：https://leetcode-cn.com/problems/unique-binary-search-trees-ii/
+
+
+*******97、不同的二叉搜索树2*******     测试地址：https://leetcode-cn.com/problems/unique-binary-search-trees/
+
