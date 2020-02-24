@@ -19,3 +19,12 @@
 *******127、单词接龙*******     测试地址：https://leetcode-cn.com/problems/word-ladder/
 
 
+*******128、单词接龙2*******     测试地址：https://leetcode-cn.com/problems/word-ladder-ii/
+
+
+*******129、最长连续序列*******     测试地址：https://leetcode-cn.com/problems/longest-consecutive-sequence/
+
+
+*******130、求根到叶子节点数字之和*******     测试地址：https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/
+
+
