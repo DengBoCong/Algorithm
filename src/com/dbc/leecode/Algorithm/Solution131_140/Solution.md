@@ -15,3 +15,13 @@
 
 *******136、分发糖果*******     测试地址：https://leetcode-cn.com/problems/candy/
 
+
+*******137、只出现一次的数字*******     测试地址：https://leetcode-cn.com/problems/single-number/
+
+
+*******138、只出现一次的数字2*******     测试地址：https://leetcode-cn.com/problems/single-number-ii/
+
+
+*******139、复制带随机指针的链表*******     测试地址：https://leetcode-cn.com/problems/copy-list-with-random-pointer/
+
+
