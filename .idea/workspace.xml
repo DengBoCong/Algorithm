@@ -38,7 +38,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ubiquity" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -71,7 +72,8 @@
       <workItem from="1583148070036" duration="987000" />
       <workItem from="1583203218638" duration="661000" />
       <workItem from="1583204089871" duration="5372000" />
-      <workItem from="1583288112365" duration="2595000" />
+      <workItem from="1583288112365" duration="6558000" />
+      <workItem from="1583370773316" duration="1608000" />
     </task>
     <servers />
   </component>
@@ -83,10 +85,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1583123120648" />
-    <state x="168" y="88" key="FileChooserDialogImpl" timestamp="1583124126107">
+    <state x="168" y="88" key="FileChooserDialogImpl" timestamp="1583318667368">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="168" y="88" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583124126107" />
+    <state x="168" y="88" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583318667368" />
     <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1583123151778">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -103,17 +105,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583123151777" />
-    <state x="144" y="0" key="SettingsEditor" timestamp="1583206284982">
+    <state x="144" y="0" key="SettingsEditor" timestamp="1583318254871">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583206284982" />
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583318254871" />
     <state x="336" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1583288117248">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="336" y="167" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1583288117248" />
-    <state x="23" y="38" key="new project wizard" timestamp="1583248486711">
+    <state x="41" y="44" width="1224" height="599" key="new project wizard" timestamp="1583318612929">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="23" y="38" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1583248486711" />
+    <state x="41" y="44" width="1224" height="599" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1583318612929" />
   </component>
 </project>
