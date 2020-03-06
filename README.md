@@ -469,3 +469,12 @@
 *******156、相交链表*******     测试地址：https://leetcode-cn.com/problems/intersection-of-two-linked-lists/
 
 
+*******157、寻找峰值*******     测试地址：https://leetcode-cn.com/problems/find-peak-element/
+
+
+*******158、最大间距*******     测试地址：https://leetcode-cn.com/problems/maximum-gap/
+
+
+*******159、比较版本号*******     测试地址：https://leetcode-cn.com/problems/compare-version-numbers/
+
+
