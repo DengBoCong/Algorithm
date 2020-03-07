@@ -478,3 +478,12 @@
 *******159、比较版本号*******     测试地址：https://leetcode-cn.com/problems/compare-version-numbers/
 
 
+*******160、分数到小数*******     测试地址：https://leetcode-cn.com/problems/fraction-to-recurring-decimal/
+
+
+*******161、两数之和2-输入有序数组*******     测试地址：https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
+
+
+*******162、Excel表列名称*******     测试地址：https://leetcode-cn.com/problems/excel-sheet-column-title/
+
+
