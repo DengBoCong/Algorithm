@@ -21,3 +21,9 @@
 
 *******168、组合两个表*******     测试地址：https://leetcode-cn.com/problems/combine-two-tables/
 
+
+*******169、第二高的薪水*******     测试地址：https://leetcode-cn.com/problems/second-highest-salary/
+
+
+*******170、第N高的薪水*******     测试地址：https://leetcode-cn.com/problems/nth-highest-salary/
+

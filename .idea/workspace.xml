@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c69c10a5-1994-4d43-866e-7de20a7c97a3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution161_170/Solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution161_170/Solution.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +78,8 @@
       <workItem from="1583460876356" duration="2612000" />
       <workItem from="1583548154664" duration="2062000" />
       <workItem from="1583634107254" duration="2603000" />
-      <workItem from="1583716834642" duration="1875000" />
+      <workItem from="1583716834642" duration="2230000" />
+      <workItem from="1583803793446" duration="1225000" />
     </task>
     <servers />
   </component>
