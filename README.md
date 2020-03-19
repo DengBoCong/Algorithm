@@ -537,3 +537,13 @@
 
 *******179、买卖股票的最佳时机*******     测试地址：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/
 
+
+*******180、旋转数组*******     测试地址：https://leetcode-cn.com/problems/rotate-array/
+
+
+*******181、颠倒二进制位*******     测试地址：https://leetcode-cn.com/problems/reverse-bits/
+
+
+*******182、位1的个数*******     测试地址：https://leetcode-cn.com/problems/number-of-1-bits/
+
+
