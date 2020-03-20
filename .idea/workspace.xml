@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c69c10a5-1994-4d43-866e-7de20a7c97a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution181_190/Solution181.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution181_190/Solution182.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution181_190/Solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution181_190/Solution.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,9 @@
       <workItem from="1583891284659" duration="1196000" />
       <workItem from="1584416576230" duration="1487000" />
       <workItem from="1584497555335" duration="2945000" />
-      <workItem from="1584584957691" duration="1805000" />
+      <workItem from="1584584957691" duration="2074000" />
+      <workItem from="1584587094631" duration="121000" />
+      <workItem from="1584668883433" duration="571000" />
     </task>
     <servers />
   </component>
