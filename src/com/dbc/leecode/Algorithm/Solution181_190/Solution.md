@@ -11,3 +11,12 @@
 
 
 *******185、转置文件*******     测试地址：https://leetcode-cn.com/problems/transpose-file/
+
+
+*******186、第十行*******     测试地址：https://leetcode-cn.com/problems/tenth-line/
+
+
+*******187、删除重复的电子邮箱*******     测试地址：https://leetcode-cn.com/problems/delete-duplicate-emails/
+
+
+*******188、上升的温度*******     测试地址：https://leetcode-cn.com/problems/rising-temperature/
