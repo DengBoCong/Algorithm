@@ -11,13 +11,3 @@
 
 
 *******185、转置文件*******     测试地址：https://leetcode-cn.com/problems/transpose-file/
-
-
-*******186、直线上最多的点数*******     测试地址：https://leetcode-cn.com/problems/max-points-on-a-line/
-
-
-*******187、打家劫舍*******     测试地址：https://leetcode-cn.com/problems/house-robber/
-
-
-*******188、二叉树右视图*******     测试地址：https://leetcode-cn.com/problems/binary-tree-right-side-view/
-
