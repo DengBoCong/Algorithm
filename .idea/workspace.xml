@@ -5,6 +5,13 @@
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmProject/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmProject/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmProject/com/dbc/leecode/Algorithm/Solution141_150/Solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmProject/com/dbc/leecode/Algorithm/Solution141_150/Solution.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution181_190/Solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution181_190/Solution.md" afterDir="false" />
+>>>>>>> local
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,8 +94,14 @@
       <workItem from="1584497555335" duration="2945000" />
       <workItem from="1584584957691" duration="2074000" />
       <workItem from="1584587094631" duration="121000" />
+<<<<<<< HEAD
       <workItem from="1584668883433" duration="804000" />
       <workItem from="1584757761556" duration="1725000" />
+=======
+      <workItem from="1584668883433" duration="571000" />
+      <workItem from="1585208189967" duration="5229000" />
+      <workItem from="1585387340653" duration="6118000" />
+>>>>>>> local
     </task>
     <servers />
   </component>
@@ -117,22 +130,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="168" y="88" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583318667368" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1583123151778">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1585233902989">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583123151778" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1583123151777">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585233902989" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1585233902989">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583123151777" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1583123151776">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585233902989" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1585233902989">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583123151776" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1583123151777">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585233902989" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1585233902989">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583123151777" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585233902989" />
     <state x="144" y="0" key="SettingsEditor" timestamp="1583318254871">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
