@@ -576,3 +576,12 @@
 >>>>>>> local
 
 
+*******189、岛屿数量*******     测试地址：https://leetcode-cn.com/problems/number-of-islands/
+
+
+*******190、数字范围按位与*******     测试地址：https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/
+
+
+*******191、快乐数*******     测试地址：https://leetcode-cn.com/problems/happy-number/
+
+

@@ -4,6 +4,7 @@
     <list default="true" id="c69c10a5-1994-4d43-866e-7de20a7c97a3" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
 <<<<<<< HEAD
 =======
@@ -11,6 +12,8 @@
       <change beforePath="$PROJECT_DIR$/out/production/AlgorithmProject/com/dbc/leecode/Algorithm/Solution141_150/Solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmProject/com/dbc/leecode/Algorithm/Solution141_150/Solution.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution181_190/Solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution181_190/Solution.md" afterDir="false" />
+>>>>>>> local
+=======
 >>>>>>> local
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +103,12 @@
 =======
       <workItem from="1584668883433" duration="571000" />
       <workItem from="1585208189967" duration="5229000" />
+<<<<<<< HEAD
       <workItem from="1585387340653" duration="6118000" />
+>>>>>>> local
+=======
+      <workItem from="1585387340653" duration="6307000" />
+      <workItem from="1585447686929" duration="5578000" />
 >>>>>>> local
     </task>
     <servers />
