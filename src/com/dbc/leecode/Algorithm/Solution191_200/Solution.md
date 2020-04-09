@@ -10,4 +10,8 @@
 *******194、同构字符串*******     测试地址：https://leetcode-cn.com/problems/isomorphic-strings/
 
 
+*******197、反转链表*******     测试地址：https://leetcode-cn.com/problems/reverse-linked-list/
+
+
+*******198、课程表*******     测试地址：https://leetcode-cn.com/problems/course-schedule/
 
