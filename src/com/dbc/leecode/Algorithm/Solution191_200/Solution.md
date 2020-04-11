@@ -15,3 +15,10 @@
 
 *******198、课程表*******     测试地址：https://leetcode-cn.com/problems/course-schedule/
 
+
+*******199、实现Trie（前缀树）*******     测试地址：https://leetcode-cn.com/problems/implement-trie-prefix-tree/
+
+
+*******200、长度最小的子数组*******     测试地址：https://leetcode-cn.com/problems/minimum-size-subarray-sum/
+
+
