@@ -7,3 +7,9 @@
 *******203、单词搜索2*******     测试地址：https://leetcode-cn.com/problems/word-search-ii/
 
 
+*******204、打家劫舍2*******     测试地址：https://leetcode-cn.com/problems/house-robber-ii/
+
+
+*******205、最短回文串*******     测试地址：https://leetcode-cn.com/problems/shortest-palindrome/
+
+
