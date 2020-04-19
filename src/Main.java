@@ -21,7 +21,10 @@ import java.util.stream.Stream;
 
 public class Main {
     public static String res = "";
-    public static void main(String[] args) {
-        Solution207.combinationSum3(2, 6);
+    public static void main(String[] args) throws ParseException {
+//        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("")
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        System.out.println(simpleDateFormat.parse("2018-10-3 00:00:00").getTime());
+        System.out.println(simpleDateFormat.parse("2018-10-4 00:00:00").getTime());
     }
 }
