@@ -22,3 +22,9 @@
 *******218、基本计算器2*******     测试地址：https://leetcode-cn.com/problems/basic-calculator-ii/
 
 
+*******219、汇总区间*******     测试地址：https://leetcode-cn.com/problems/summary-ranges/
+
+
+*******220、求众数2*******     测试地址：https://leetcode-cn.com/problems/majority-element-ii/
+
+
