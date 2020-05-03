@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c69c10a5-1994-4d43-866e-7de20a7c97a3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmProject/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmProject/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmProject/com/dbc/leecode/Algorithm/Solution201_210/Solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmProject/com/dbc/leecode/Algorithm/Solution201_210/Solution.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +118,7 @@
       <workItem from="1588149128365" duration="592000" />
       <workItem from="1588325547263" duration="604000" />
       <workItem from="1588406396158" duration="7360000" />
+      <workItem from="1588478192430" duration="8321000" />
     </task>
     <servers />
   </component>
@@ -189,10 +187,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="116" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585824586373" />
-    <state x="336" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1588406395131">
+    <state x="336" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1588478349905">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="167" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588406395130" />
+    <state x="336" y="167" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588478349905" />
     <state x="41" y="44" width="1224" height="599" key="new project wizard" timestamp="1583318612929">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
