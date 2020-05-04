@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="c69c10a5-1994-4d43-866e-7de20a7c97a3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmProject/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmProject/com/dbc/leecode/Algorithm/Solution181_190/Solution186.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmProject/com/dbc/leecode/Algorithm/Solution181_190/Solution187.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmProject/com/dbc/leecode/Algorithm/Solution181_190/Solution188.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmProject/com/dbc/leecode/Algorithm/Solution201_210/Solution205.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmProject/com/dbc/leecode/Algorithm/Solution211_220/Solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmProject/com/dbc/leecode/Algorithm/Solution211_220/Solution.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,9 +201,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="41" y="44" width="1224" height="599" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1583318612929" />
-    <state x="559" y="153" key="run.anything.popup" timestamp="1587112095750">
+    <state x="559" y="153" key="run.anything.popup" timestamp="1588582841277">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="559" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1587112095750" />
+    <state x="559" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1588582841277" />
   </component>
 </project>
