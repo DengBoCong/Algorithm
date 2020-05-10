@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c69c10a5-1994-4d43-866e-7de20a7c97a3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution221_230/Solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dbc/leecode/Algorithm/Solution221_230/Solution.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +119,9 @@
       <workItem from="1588325547263" duration="604000" />
       <workItem from="1588406396158" duration="7360000" />
       <workItem from="1588478192430" duration="8321000" />
-      <workItem from="1588665267647" duration="16650000" />
+      <workItem from="1588665267647" duration="17474000" />
+      <workItem from="1588823420467" duration="1340000" />
+      <workItem from="1589092874852" duration="5107000" />
     </task>
     <servers />
   </component>
@@ -189,10 +190,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="116" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585824586373" />
-    <state x="336" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1588665761671">
+    <state x="336" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1589093554088">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="167" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588665761671" />
+    <state x="336" y="167" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589093554088" />
     <state x="41" y="44" width="1224" height="599" key="new project wizard" timestamp="1583318612929">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
