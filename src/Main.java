@@ -1,32 +1,53 @@
-import com.dbc.leecode.Algorithm.Reclass.ListNode;
-import com.dbc.leecode.Algorithm.Solution11_20.*;
-import com.dbc.leecode.Algorithm.Solution1_10.*;
-import com.dbc.leecode.Algorithm.Solution21_30.*;
-import com.dbc.leecode.Algorithm.Solution31_40.Solution31;
-import com.dbc.leecode.Algorithm.Solution31_40.Solution36;
-import com.dbc.leecode.Algorithm.Solution31_40.Solution38;
-import com.dbc.leecode.Algorithm.Solution31_40.Solution39;
-import com.dbc.leecode.Algorithm.Solution41_50.Solution41;
-import com.dbc.leecode.Algorithm.Solution41_50.Solution42;
 
-import java.util.ArrayList;
-import java.util.List;
+
+import com.dbc.leecode.Algorithm.Reclass.ListNode;
+import com.dbc.leecode.Algorithm.Solution191_200.Solution195;
+import com.dbc.leecode.Algorithm.Solution191_200.Solution197;
+import com.dbc.leecode.Algorithm.Solution201_210.Solution204;
+import com.dbc.leecode.Algorithm.Solution201_210.Solution205;
+import com.dbc.leecode.Algorithm.Solution201_210.Solution207;
+
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.time.LocalDate;
+import java.time.Month;
+import java.time.YearMonth;
+import java.time.format.DateTimeFormatter;
+import java.util.*;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.locks.ReentrantLock;
+import java.util.stream.Stream;
 
 public class Main {
-    public static void main(String[] args) {
-        ListNode listNode1 = new ListNode(1);
-        ListNode listNode2 = new ListNode(2);
-        ListNode listNode3 = new ListNode(3);
-        ListNode listNode4 = new ListNode(4);
-        ListNode listNode5 = new ListNode(5);
-        listNode1.next = listNode2;
-        listNode2.next = listNode3;
-        listNode3.next = listNode4;
-        listNode4.next = listNode5;
+    public static String res = "";
+    public static void main(String[] args) throws ParseException {
+//        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("")
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        System.out.println(simpleDateFormat.parse("2018-10-3 00:00:00").getTime());
+        System.out.println(simpleDateFormat.parse("2018-10-4 00:00:00").getTime());
 
-        int[] candidates = {10, 1, 2, 7, 6, 1, 5};
-        int target = 8;
-        List<List<Integer>> combinationSum2 = Solution41.combinationSum2(candidates, target);
-        System.out.println(Solution42.firstMissingPositive(new int[]{1,2,0}));
+        Long time = 1538528319845L;
+        Long time1 = 1538528510170L;
+
+        Long time2 = 1538528632558L;
+        Long time3 = 1538530180824L;
+
+        Long time4 = 1538530184125L;
+        Long time5 = 1538530715461L;
+        String res = simpleDateFormat.format(new Date(Long.parseLong(String.valueOf(time))));
+        String res1 = simpleDateFormat.format(new Date(Long.parseLong(String.valueOf(time1))));
+
+        String res2 = simpleDateFormat.format(new Date(Long.parseLong(String.valueOf(time2))));
+        String res3 = simpleDateFormat.format(new Date(Long.parseLong(String.valueOf(time3))));
+
+        String res4 = simpleDateFormat.format(new Date(Long.parseLong(String.valueOf(time4))));
+        String res5 = simpleDateFormat.format(new Date(Long.parseLong(String.valueOf(time5))));
+        System.out.println(res);
+        System.out.println(res1);
+        System.out.println(res2);
+        System.out.println(res3);
+        System.out.println(res4);
+        System.out.println(res5);
     }
 }
