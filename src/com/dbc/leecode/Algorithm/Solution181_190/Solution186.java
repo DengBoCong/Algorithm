@@ -1,9 +1,6 @@
 package com.dbc.leecode.Algorithm.Solution181_190;
 
-<<<<<<< HEAD
-public class Solution186 {
-//    awk 'NR==10' file.txt
-=======
+
 import java.util.HashMap;
 
 public class Solution186 {
@@ -90,5 +87,4 @@ public class Solution186 {
         }
         return res;
     }
->>>>>>> local
 }

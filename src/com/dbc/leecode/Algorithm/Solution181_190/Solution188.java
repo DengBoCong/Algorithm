@@ -1,12 +1,5 @@
 package com.dbc.leecode.Algorithm.Solution181_190;
 
-<<<<<<< HEAD
-public class Solution188 {
-//    select a.ID, a.date
-//    from weather as a cross join weather as b
-//    on timestampdiff(day, a.date, b.date) = -1
-//    where a.temp > b.temp;
-=======
 import com.dbc.leecode.Algorithm.Reclass.TreeNode;
 
 import java.util.*;
@@ -42,5 +35,4 @@ public class Solution188 {
         }
         return rightView;
     }
->>>>>>> local
 }

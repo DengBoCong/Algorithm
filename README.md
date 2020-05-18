@@ -705,4 +705,14 @@
 *******233、有效的字母异位词*******     测试地址：https://leetcode-cn.com/problems/valid-anagram/
 
 
+*******234、二叉树的所有路径*******     测试地址：https://leetcode-cn.com/problems/binary-tree-paths/
+
+
+*******235、各位相加*******     测试地址：https://leetcode-cn.com/problems/add-digits/
+
+
+*******236、只出现一次的数字3*******     测试地址：https://leetcode-cn.com/problems/single-number-iii/
+
+
+
 
