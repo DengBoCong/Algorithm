@@ -15,3 +15,11 @@
 
 *******236、只出现一次的数字3*******     测试地址：https://leetcode-cn.com/problems/single-number-iii/
 
+
+*******237、丑数*******     测试地址：https://leetcode-cn.com/problems/ugly-number/
+
+
+*******238、丑数2*******     测试地址：https://leetcode-cn.com/problems/ugly-number-ii/
+
+
+*******239、缺失数字*******     测试地址：https://leetcode-cn.com/problems/missing-number/
