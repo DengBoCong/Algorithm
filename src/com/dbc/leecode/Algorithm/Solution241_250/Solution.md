@@ -12,3 +12,8 @@
 
 *******245、给表达式添加运算符*******     测试地址：https://leetcode-cn.com/problems/expression-add-operators/
 
+
+*******246、移动零*******     测试地址：https://leetcode-cn.com/problems/move-zeroes/
+
+
+*******247、顶端迭代器*******     测试地址：https://leetcode-cn.com/problems/peeking-iterator/
