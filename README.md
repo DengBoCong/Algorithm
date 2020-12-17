@@ -1,5 +1,16 @@
-# AlgorithmProject
-记录各种算法题的解法，大部分题目包含多种解法。
+Algorithm | Still work
+========================
+记录LeetCode、牛客上各种算法题的解法，尽可能的对每道题实现多种解法，在过程中学习思路以及解题过程。使用Java和Python两种语言编写题解，力求得心应手。(本项目只包含题解代码，如有精彩的题目将同步更新题解说明文章到[CSDN](https://dengbocong.blog.csdn.net/)、[知乎](https://www.zhihu.com/people/dengbocong))
+
+
+**Java题解**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/java)
+
+**Python题解**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/python)
+
+**保存题目的截图**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/python)
+
+
+# Subject List | 题目列表
 
 ********1、两数之和********    测试地址：https://leetcode-cn.com/problems/two-sum/
 
