@@ -3,11 +3,14 @@ Algorithm | Still work
 记录LeetCode、牛客上各种算法题的解法，尽可能的对每道题实现多种解法，在过程中学习思路以及解题过程。使用Java和Python两种语言编写题解，力求得心应手。(本项目只包含题解代码，如有精彩的题目将同步更新题解说明文章到[CSDN](https://dengbocong.blog.csdn.net/)、[知乎](https://www.zhihu.com/people/dengbocong))
 
 
-**Java题解**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/java)
+**Java题解**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/Java)
 
-**Python题解**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/python)
+**Python题解**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/Python)
 
-**保存题目的截图**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/python)
+**保存题目的截图**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/Subject)
+
+# Daily Subject List | 每日一题列表
+1. [LeetCode：使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Python/MinCostClimbingStairs.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/min_cost_climbing_stairs.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/MinCostClimbingStairs.java)
 
 
 # Subject List | 题目列表
