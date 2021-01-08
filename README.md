@@ -10,7 +10,9 @@ Algorithm | Still work
 **保存题目的截图**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/Subject)
 
 # Daily Subject List | 每日一题列表
-1. [LeetCode：使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Python/MinCostClimbingStairs.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/daily/min_cost_climbing_stairs.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/MinCostClimbingStairs.java)
+1. [LeetCode：使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinCostClimbingStairs.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/daily/min_cost_climbing_stairs.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/MinCostClimbingStairs.java)
+
+2. [LeetCode：省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FindCircleNum.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/daily/findCircleNum.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/FindCircleNum.java)
 
 
 # Subject List | 题目列表
