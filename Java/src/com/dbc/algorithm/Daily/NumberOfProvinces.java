@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class FindCircleNum {
+public class NumberOfProvinces {
 
     public static int find(int[] provinces, int row) {
         if (provinces[row] != row)

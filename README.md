@@ -10,9 +10,15 @@ Algorithm | Still work
 **保存题目的截图**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/Subject)
 
 # Daily Subject List | 每日一题列表
-1. [LeetCode：使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinCostClimbingStairs.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/daily/min_cost_climbing_stairs.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/MinCostClimbingStairs.java)
+1. [LeetCode：使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinCostClimbingStairs.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/min_cost_climbing_stairs.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/MinCostClimbingStairs.java)
 
-2. [LeetCode：省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FindCircleNum.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/daily/findCircleNum.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/FindCircleNum.java)
+2. [LeetCode：省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOfProvinces.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/number_of_provinces.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/NumberOfProvinces.java)
+
+3. [LeetCode：买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BestTimeToBuyAndSellStock.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/best_time_to_buy_and_sell_stock.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/BestTimeToBuyAndSellStock.java)
+
+4. [LeetCode：买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BestTimeToBuyAndSellStockII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/best_time_to_buy_and_sell_stock_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/BestTimeToBuyAndSellStockII.java)
+
+5. [LeetCode：买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BestTimeToBuyAndSellStockIII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/best_time_to_buy_and_sell_stock_iii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/BestTimeToBuyAndSellStockIII.java)
 
 
 # Subject List | 题目列表
