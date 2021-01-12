@@ -1,9 +1,10 @@
 package com.dbc.algorithm;
 import com.dbc.algorithm.Daily.BestTimeToBuyAndSellStockIII;
+import com.dbc.algorithm.Daily.BestTimeToBuyAndSellStockIV;
 
 public class Main {
     public static void main(String args[]) {
-        int profit = BestTimeToBuyAndSellStockIII.maxProfit(new int[]{2,1,4,5,2,9,7});
+        int profit = BestTimeToBuyAndSellStockIV.maxProfitWqsBinary(2, new int[]{2,4,1});
         System.out.println(profit);
     }
 }
