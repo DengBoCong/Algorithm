@@ -1,9 +1,10 @@
 package com.dbc.algorithm;
 import com.dbc.algorithm.Daily.BestTimeToBuyAndSellStockWithCoolDown;
+import com.dbc.algorithm.Daily.BestTimeToBuyAndSellStockWithTransactionFee;
 
 public class Main {
     public static void main(String args[]) {
-        int profit = BestTimeToBuyAndSellStockWithCoolDown.maxProfit_memo_recursion(new int[]{1,2,3,0,2});
+        int profit = BestTimeToBuyAndSellStockWithTransactionFee.maxProfit(new int[]{1, 3, 2, 8, 4, 9}, 2);
         System.out.println(profit);
     }
 }
