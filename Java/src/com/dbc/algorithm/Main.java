@@ -1,10 +1,11 @@
 package com.dbc.algorithm;
-import com.dbc.algorithm.Daily.BestTimeToBuyAndSellStockWithCoolDown;
-import com.dbc.algorithm.Daily.BestTimeToBuyAndSellStockWithTransactionFee;
+import com.dbc.algorithm.Daily.RedundantConnection;
+
+import java.util.Arrays;
 
 public class Main {
     public static void main(String args[]) {
-        int profit = BestTimeToBuyAndSellStockWithTransactionFee.maxProfit(new int[]{1, 3, 2, 8, 4, 9}, 2);
-        System.out.println(profit);
+        int[] profit = RedundantConnection.findRedundantConnection(new int[][]{{1,2}, {2,3}, {3,4}, {1,4}, {1,5}});
+        System.out.println(Arrays.toString(profit));
     }
 }

@@ -26,6 +26,8 @@ Algorithm | Still work
 
 8. [LeetCode：买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BestTimeToBuyAndSellStockWithTransactionFee.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/best_time_to_buy_and_sell_stock_with_transaction_fee.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/BestTimeToBuyAndSellStockWithTransactionFee.java)
 
+9. [LeetCode：冗余连接](https://leetcode-cn.com/problems/redundant-connection/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RedundantConnection.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/redundant_connection.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/RedundantConnection.java)
+
 
 # Subject List | 题目列表
 
