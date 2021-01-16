@@ -28,6 +28,8 @@ Algorithm | Still work
 
 9. [LeetCode：冗余连接](https://leetcode-cn.com/problems/redundant-connection/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RedundantConnection.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/redundant_connection.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/RedundantConnection.java)
 
+10. [LeetCode：冗余连接 II](https://leetcode-cn.com/problems/redundant-connection-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RedundantConnectionII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/redundant_connection_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/RedundantConnectionII.java)
+
 
 # Subject List | 题目列表
 
