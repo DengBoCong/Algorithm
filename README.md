@@ -30,6 +30,8 @@ Algorithm | Still work
 
 10. [LeetCode：冗余连接 II](https://leetcode-cn.com/problems/redundant-connection-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RedundantConnectionII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/redundant_connection_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/RedundantConnectionII.java)
 
+11. [LeetCode：打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BricksFallingWhenHit.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/bricks_falling_when_hit.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/BricksFallingWhenHit.java)
+
 
 # Subject List | 题目列表
 
