@@ -32,6 +32,8 @@ Algorithm | Still work
 
 11. [LeetCode：打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BricksFallingWhenHit.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/bricks_falling_when_hit.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/BricksFallingWhenHit.java)
 
+12. [LeetCode：缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/CheckIfItIsAStraightLine.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/check_if_it_is_a_straight_line.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/CheckIfItIsAStraightLine.java)
+
 
 # Subject List | 题目列表
 
