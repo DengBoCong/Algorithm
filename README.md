@@ -36,6 +36,8 @@ Algorithm | Still work
 
 13. [LeetCode：解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/DecodeXoredArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/decode_xored_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/DecodeXoredArray.java)
 
+14. [LeetCode：交换链表中的节点](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SwappingNodesInALinkedList.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/swapping_nodes_in_a_linked_list.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/SwappingNodesInALinkedList.java)
+
 
 # Subject List | 题目列表
 
