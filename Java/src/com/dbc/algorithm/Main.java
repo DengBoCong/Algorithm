@@ -1,10 +1,12 @@
 package com.dbc.algorithm;
 
-import com.dbc.algorithm.Daily.CheckIfItIsAStraightLine;
+import com.dbc.algorithm.Daily.DecodeXoredArray;
+
+import java.util.Arrays;
 
 public class Main {
     public static void main(String args[]) {
-        boolean profit = CheckIfItIsAStraightLine.checkStraightLine(new int[][]{{1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}});
-        System.out.println(profit);
+        int[] profit = DecodeXoredArray.decode(new int[]{1,2,3}, 1);
+        System.out.println(Arrays.toString(profit));
     }
 }

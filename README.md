@@ -34,6 +34,8 @@ Algorithm | Still work
 
 12. [LeetCode：缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/CheckIfItIsAStraightLine.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/check_if_it_is_a_straight_line.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/CheckIfItIsAStraightLine.java)
 
+13. [LeetCode：解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/DecodeXoredArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/decode_xored_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/DecodeXoredArray.java)
+
 
 # Subject List | 题目列表
 
