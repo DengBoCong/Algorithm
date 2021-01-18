@@ -40,6 +40,8 @@ Algorithm | Still work
 
 15. [LeetCode：账户合并](https://leetcode-cn.com/problems/accounts-merge/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/AccountsMerge.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/accounts_merge.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/AccountsMerge.java)
 
+16. [LeetCode：移除最多的同行或同列石头](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MostStonesRemovedWithSameRowOrColumn.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/most_stones_removed_with_same_row_or_column.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/MostStonesRemovedWithSameRowOrColumn.java)
+
 
 # Subject List | 题目列表
 
