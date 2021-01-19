@@ -42,6 +42,8 @@ Algorithm | Still work
 
 16. [LeetCode：移除最多的同行或同列石头](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MostStonesRemovedWithSameRowOrColumn.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/most_stones_removed_with_same_row_or_column.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/MostStonesRemovedWithSameRowOrColumn.java)
 
+17. [LeetCode：连接所有点的最小费用](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinCostToConnectAllPoints.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/min_cost_to_connect_all_points.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/MinCostToConnectAllPoints.java)
+
 
 # Subject List | 题目列表
 
