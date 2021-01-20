@@ -44,6 +44,8 @@ Algorithm | Still work
 
 17. [LeetCode：连接所有点的最小费用](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinCostToConnectAllPoints.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/min_cost_to_connect_all_points.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/MinCostToConnectAllPoints.java)
 
+18. [LeetCode：三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MaximumProductOfThreeNumbers.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/maximum_product_of_three_numbers.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/MaximumProductOfThreeNumbers.java)
+
 
 # Subject List | 题目列表
 
