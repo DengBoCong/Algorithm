@@ -48,6 +48,8 @@ Algorithm | Still work
 
 19. [LeetCode：可被 5 整除的二进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BinaryPrefixDivisibleBy5.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/binary_prefix_divisible_by_5.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/BinaryPrefixDivisibleBy5.java)
 
+20. [LeetCode：找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/binary_prefix_divisible_by_5.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.java)
+
 
 # Subject List | 题目列表
 
