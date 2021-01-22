@@ -52,6 +52,8 @@ Algorithm | Still work
 
 21. [LeetCode：数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/AddToArrayFormOfInteger.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/add_to_array_form_of_integer.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/AddToArrayFormOfInteger.java)
 
+22. [LeetCode：种花问题](https://leetcode-cn.com/problems/can-place-flowers/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/CanPlaceFlowers.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/can_place_flowers.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/CanPlaceFlowers.java)
+
 
 # Subject List | 题目列表
 
