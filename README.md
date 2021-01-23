@@ -54,6 +54,8 @@ Algorithm | Still work
 
 22. [LeetCode：种花问题](https://leetcode-cn.com/problems/can-place-flowers/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/CanPlaceFlowers.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/can_place_flowers.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/CanPlaceFlowers.java)
 
+23. [LeetCode：连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOfOperationsToMakeNetworkConnected.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/number_of_operations_to_make_network_connected.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/NumberOfOperationsToMakeNetworkConnected.java)
+
 
 # Subject List | 题目列表
 
