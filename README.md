@@ -58,6 +58,8 @@ Algorithm | Still work
 
 24. [LeetCode：最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LongestContinuousIncreasingSubsequence.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/longest_continuous_increasing_subsequence.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/LongestContinuousIncreasingSubsequence.java)
 
+25. [LeetCode：最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOfLongestIncreasingSubsequence.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/number_of_longest_increasing_subsequence.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/NumberOfLongestIncreasingSubsequence.java)
+
 
 # Subject List | 题目列表
 
