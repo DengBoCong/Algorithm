@@ -56,6 +56,8 @@ Algorithm | Still work
 
 23. [LeetCode：连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOfOperationsToMakeNetworkConnected.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/number_of_operations_to_make_network_connected.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/NumberOfOperationsToMakeNetworkConnected.java)
 
+24. [LeetCode：最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LongestContinuousIncreasingSubsequence.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/longest_continuous_increasing_subsequence.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/LongestContinuousIncreasingSubsequence.java)
+
 
 # Subject List | 题目列表
 
