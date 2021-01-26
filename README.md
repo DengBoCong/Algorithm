@@ -60,6 +60,8 @@ Algorithm | Still work
 
 25. [LeetCode：最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOfLongestIncreasingSubsequence.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/number_of_longest_increasing_subsequence.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/NumberOfLongestIncreasingSubsequence.java)
 
+26. [LeetCode：由斜杠划分区域](https://leetcode-cn.com/problems/regions-cut-by-slashes/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RegionsCutBySlashes.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/regions_cut_by_slashes.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Daily/RegionsCutBySlashes.java)
+
 
 # Subject List | 题目列表
 

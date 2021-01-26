@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String args[]) {
-        int result = NumberOfLongestIncreasingSubsequence.findNumberOfLISDp(new int[]{1,3,5,4,7});
+        int result = RegionsCutBySlashes.regionsBySlashes(new String[]{" /","  "});
         System.out.println(result);
     }
 }
