@@ -2,12 +2,24 @@ Algorithm | Still work
 ========================
 记录LeetCode、牛客上各种算法题的解法，尽可能的对每道题实现多种解法，在过程中学习思路以及解题过程。使用Java和Python两种语言编写题解，力求得心应手。(本项目只包含题解代码，如有精彩的题目将同步更新题解说明文章到[CSDN](https://dengbocong.blog.csdn.net/)、[知乎](https://www.zhihu.com/people/dengbocong))
 
+# 项目结构 
 
-**Java题解**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/Java)
++ **Java题解**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/Java)
 
-**Python题解**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/Python)
++ **Python题解**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/Python)
 
-**保存题目的截图**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/Subject)
++ **保存题目的截图**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/Subject)
+
+# 题目类别
+
+- [动态规划](#动态规划)：
+- [并查集](#并查集)
+- [队列](#队列)
+- [数学](#数学)
+- [位运算](#位运算)
+- [链表](#链表)
+- [数组](#数组)
+- [指针](#指针)
 
 
 # 动态规划
@@ -82,6 +94,9 @@ Algorithm | Still work
 
 5. [LeetCode：等价多米诺骨牌对的数量](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOfEquivalentDominoPairs.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/number_of_equivalent_domino_pairs.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/NumberOfEquivalentDominoPairs.java)
 
+# 指针
+
+1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
 
 
 # Subject List | 题目列表
