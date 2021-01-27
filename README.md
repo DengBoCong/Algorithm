@@ -51,6 +51,8 @@ Algorithm | Still work
 
 10. [LeetCode：由斜杠划分区域](https://leetcode-cn.com/problems/regions-cut-by-slashes/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RegionsCutBySlashes.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/union-find-sets/regions_cut_by_slashes.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/UnionFindSets/RegionsCutBySlashes.java)
 
+11. [LeetCode：保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/union-find-sets/remove_max_number_of_edges_to_keep_graph_fully_traversable.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/UnionFindSets/RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.java)
+
 # 队列
 
 1. [LeetCode：滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RegionsCutBySlashes.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/queue/sliding_window_maximum.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Queue/SlidingWindowMaximum.java)
