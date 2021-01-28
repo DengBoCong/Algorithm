@@ -94,6 +94,8 @@ Algorithm | Still work
 
 5. [LeetCode：等价多米诺骨牌对的数量](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOfEquivalentDominoPairs.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/number_of_equivalent_domino_pairs.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/NumberOfEquivalentDominoPairs.java)
 
+6. [LeetCode：寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FindPivotIndex.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/find_pivot_index.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/FindPivotIndex.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
