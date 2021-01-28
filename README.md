@@ -98,6 +98,8 @@ Algorithm | Still work
 
 7. [LeetCode：和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SubarraySumEqualsK.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/subarray_sum_equals_k.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/SubarraySumEqualsK.java)
 
+8. [LeetCode：连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ContinuousSubarraySum.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/continuous_subarray_sum.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/ContinuousSubarraySum.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
