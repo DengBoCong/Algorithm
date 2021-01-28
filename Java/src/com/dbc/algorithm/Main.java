@@ -1,15 +1,12 @@
 package com.dbc.algorithm;
 
-import com.dbc.algorithm.Array.FindPivotIndex;
-import com.dbc.algorithm.Pointer.MinimumWindowSubstring;
-import com.dbc.algorithm.Queue.SlidingWindowMaximum;
-import com.dbc.algorithm.UnionFindSets.RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable;
+import com.dbc.algorithm.Array.SubarraySumEqualsK;
 
 import java.util.*;
 
 public class Main {
     public static void main(String args[]) {
-        int result = FindPivotIndex.pivotIndex(new int[]{1, 7, 3, 6, 5, 6});
+        int result = SubarraySumEqualsK.subarraySum(new int[]{1,1,1}, 2);
         System.out.println(result);
     }
 }
