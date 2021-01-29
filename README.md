@@ -14,6 +14,7 @@ Algorithm | Still work
 
 - [动态规划](#动态规划)：
 - [并查集](#并查集)
+- [路径](#路径)
 - [队列](#队列)
 - [数学](#数学)
 - [位运算](#位运算)
@@ -64,6 +65,13 @@ Algorithm | Still work
 10. [LeetCode：由斜杠划分区域](https://leetcode-cn.com/problems/regions-cut-by-slashes/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RegionsCutBySlashes.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/union-find-sets/regions_cut_by_slashes.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/UnionFindSets/RegionsCutBySlashes.java)
 
 11. [LeetCode：保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/union-find-sets/remove_max_number_of_edges_to_keep_graph_fully_traversable.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/UnionFindSets/RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.java)
+
+12. [LeetCode：最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PathWithMinimumEffort.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/union-find-sets/path_with_minimum_effort.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/UnionFindSets/PathWithMinimumEffort.java)
+
+# 路径
+
+1. [LeetCode：最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PathWithMinimumEffort.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/route/path_with_minimum_effort.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Route/PathWithMinimumEffort.java)
+
 
 # 队列
 
