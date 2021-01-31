@@ -7,7 +7,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String args[]) {
-        int result = PathWithMinimumEffort.minimumEffortPathDijkstra(new int[][]{{1,2,2},{3,8,2},{5,3,5}});
+        int result = SwimInRisingWater.swimInWaterDijkstra(new int[][]{{0,2},{1,3}});
         System.out.println(result);
     }
 }

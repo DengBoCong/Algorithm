@@ -68,9 +68,13 @@ Algorithm | Still work
 
 12. [LeetCode：最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PathWithMinimumEffort.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/union-find-sets/path_with_minimum_effort.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/UnionFindSets/PathWithMinimumEffort.java)
 
+13. [LeetCode：水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SwimInRisingWater.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/union-find-sets/swim_in_rising_water.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/UnionFindSets/SwimInRisingWater.java)
+
 # 路径
 
 1. [LeetCode：最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PathWithMinimumEffort.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/route/path_with_minimum_effort.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Route/PathWithMinimumEffort.java)
+
+2. [LeetCode：水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SwimInRisingWater.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/route/swim_in_rising_water.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Route/SwimInRisingWater.java)
 
 
 # 队列
