@@ -7,7 +7,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String args[]) {
-        int result = SwimInRisingWater.swimInWaterDijkstra(new int[][]{{0,2},{1,3}});
+        int result = SimilarStringGroups.numSimilarGroups(new String[]{"tars","rats","arts","star"});
         System.out.println(result);
     }
 }
