@@ -122,7 +122,9 @@ Algorithm | Still work
 
 # 树
 
-1. [LeetCode：二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SearchInABinarySearchTree.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/search_in_a_binary_search_tree.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/SearchInABinarySearchTree.java)
+1. [LeetCode：二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SearchInABinarySearchTree.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/search_in_a_binary_search_tree.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/SearchInABinarySearchTree.java)
+
+2. [LeetCode：寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FindDuplicateSubtrees.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/find_duplicate_subtrees.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/FindDuplicateSubtrees.java)
 
 
 # Subject List | 题目列表
