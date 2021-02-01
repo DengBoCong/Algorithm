@@ -114,6 +114,8 @@ Algorithm | Still work
 
 8. [LeetCode：连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ContinuousSubarraySum.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/continuous_subarray_sum.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/ContinuousSubarraySum.java)
 
+9. [LeetCode：公平的糖果棒交换](https://leetcode-cn.com/problems/fair-candy-swap/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FairCandySwap.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/fair_candy_swap.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/FairCandySwap.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)

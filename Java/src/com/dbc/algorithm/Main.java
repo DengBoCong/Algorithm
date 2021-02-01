@@ -7,7 +7,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String args[]) {
-        int result = SimilarStringGroups.numSimilarGroups(new String[]{"tars","rats","arts","star"});
-        System.out.println(result);
+        int[] result = FairCandySwap.fairCandySwap(new int[]{1,1}, new int[]{2,2});
+        System.out.println(Arrays.toString(result));
     }
 }
