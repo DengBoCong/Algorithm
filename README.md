@@ -116,6 +116,10 @@ Algorithm | Still work
 
 9. [LeetCode：公平的糖果棒交换](https://leetcode-cn.com/problems/fair-candy-swap/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FairCandySwap.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/fair_candy_swap.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/FairCandySwap.java)
 
+10. [LeetCode：最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MaxConsecutiveOnes.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/max_consecutive_ones.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/MaxConsecutiveOnes.java)
+
+10. [LeetCode：最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MaxConsecutiveOnesIII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/max_consecutive_ones_iii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/MaxConsecutiveOnesIII.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)

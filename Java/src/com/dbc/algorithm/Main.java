@@ -8,7 +8,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String args[]) {
-        int result = LongestRepeatingCharacterReplacement.characterReplacement("ABAA", 0);
+        int result = MaxConsecutiveOnesIII.longestOnes(new int[]{1,1,1,0,0,0,1,1,1,1,0}, 2);
         System.out.println(result);
     }
 }
