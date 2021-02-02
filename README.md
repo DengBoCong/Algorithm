@@ -120,6 +120,8 @@ Algorithm | Still work
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
 
+2. [LeetCode：替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LongestRepeatingCharacterReplacement.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/longest_repeating_character_replacement.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/LongestRepeatingCharacterReplacement.java)
+
 # 树
 
 1. [LeetCode：二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SearchInABinarySearchTree.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/search_in_a_binary_search_tree.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/SearchInABinarySearchTree.java)
