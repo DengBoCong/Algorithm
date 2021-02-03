@@ -83,6 +83,8 @@ Algorithm | Still work
 
 1. [LeetCode：滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RegionsCutBySlashes.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/queue/sliding_window_maximum.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Queue/SlidingWindowMaximum.java)
 
+2. [LeetCode：滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SlidingWindowMedian.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/queue/sliding_window_median.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Queue/SlidingWindowMedian.java)
+
 # 数学
 
 1. [LeetCode：缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/CheckIfItIsAStraightLine.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/check_if_it_is_a_straight_line.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/CheckIfItIsAStraightLine.java)
