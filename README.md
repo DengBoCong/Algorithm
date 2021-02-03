@@ -85,6 +85,8 @@ Algorithm | Still work
 
 2. [LeetCode：滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SlidingWindowMedian.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/queue/sliding_window_median.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Queue/SlidingWindowMedian.java)
 
+3. [LeetCode：数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FindMedianFromDataStream.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/queue/find_median_from_data_stream.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Queue/FindMedianFromDataStream.java)
+
 # 数学
 
 1. [LeetCode：缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/CheckIfItIsAStraightLine.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/check_if_it_is_a_straight_line.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/CheckIfItIsAStraightLine.java)
