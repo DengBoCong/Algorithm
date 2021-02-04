@@ -126,6 +126,10 @@ Algorithm | Still work
 
 11. [LeetCode：子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MaximumAverageSubarrayI.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/maximum_average_subarray_i.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/MaximumAverageSubarrayI.java)
 
+12. [LeetCode：盒子中小球的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balls-in-a-box/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MaximumNumberOfBallsInABox.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/maximum_number_of_balls_in_a_box.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/MaximumNumberOfBallsInABox.java)
+
+13. [LeetCode：从相邻元素对还原数组](https://leetcode-cn.com/problems/restore-the-array-from-adjacent-pairs/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RestoreTheArrayFromAdjacentPairs.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/restore_the_array_from_adjacent_pairs.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/RestoreTheArrayFromAdjacentPairs.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
