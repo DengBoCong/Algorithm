@@ -8,7 +8,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String args[]) {
-        int result = MaxConsecutiveOnesIII.longestOnes(new int[]{1,1,1,0,0,0,1,1,1,1,0}, 2);
+        double result = MaximumAverageSubarrayI.findMaxAverage(new int[]{1,12,-5,-6,50,3}, 4);
         System.out.println(result);
     }
 }

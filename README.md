@@ -124,6 +124,8 @@ Algorithm | Still work
 
 10. [LeetCode：最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MaxConsecutiveOnesIII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/max_consecutive_ones_iii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/MaxConsecutiveOnesIII.java)
 
+11. [LeetCode：子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MaximumAverageSubarrayI.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/maximum_average_subarray_i.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/MaximumAverageSubarrayI.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
