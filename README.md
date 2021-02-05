@@ -132,6 +132,8 @@ Algorithm | Still work
 
 15. [LeetCode：尽可能使字符串相等](https://leetcode-cn.com/problems/get-equal-substrings-within-budget/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/GetEqualSubstringsWithinBudget.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/get_equal_substrings_within_budget.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/GetEqualSubstringsWithinBudget.java)
 
+16. [LeetCode：连续数组](https://leetcode-cn.com/problems/contiguous-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ContiguousArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/contiguous_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/ContiguousArray.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)

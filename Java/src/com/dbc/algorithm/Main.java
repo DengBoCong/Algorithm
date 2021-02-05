@@ -8,7 +8,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String args[]) {
-        int result = GetEqualSubstringsWithinBudget.equalSubstring("abcd", "bcdf", 3);
+        int result = ContiguousArray.findMaxLength(new int[]{0,1});
         System.out.println(result);
     }
 }
