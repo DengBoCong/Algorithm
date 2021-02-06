@@ -8,7 +8,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String args[]) {
-        int result = ContiguousArray.findMaxLength(new int[]{0,1});
+        int result = MaximumPointsYouCanObtainFromCards.maxScoreSlid(new int[]{1,2,3,4,5,6,1}, 3);
         System.out.println(result);
     }
 }

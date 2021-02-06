@@ -134,6 +134,8 @@ Algorithm | Still work
 
 16. [LeetCode：连续数组](https://leetcode-cn.com/problems/contiguous-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ContiguousArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/contiguous_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/ContiguousArray.java)
 
+17. [LeetCode：可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MaximumPointsYouCanObtainFromCards.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/maximum_points_you_can_obtain_from_cards.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/MaximumPointsYouCanObtainFromCards.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
