@@ -136,6 +136,8 @@ Algorithm | Still work
 
 17. [LeetCode：可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MaximumPointsYouCanObtainFromCards.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/maximum_points_you_can_obtain_from_cards.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/MaximumPointsYouCanObtainFromCards.java)
 
+18. [LeetCode：车队](https://leetcode-cn.com/problems/car-fleet/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/CarFleet.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/car_fleet.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/CarFleet.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)

@@ -8,7 +8,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String args[]) {
-        int result = MaximumPointsYouCanObtainFromCards.maxScoreSlid(new int[]{1,2,3,4,5,6,1}, 3);
+        int result = CarFleet.carFleet(12, new int[]{10,8,0,5,3}, new int[]{2,4,1,1,3});
         System.out.println(result);
     }
 }
