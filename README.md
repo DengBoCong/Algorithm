@@ -41,6 +41,8 @@ Algorithm | Still work
 
 8. [LeetCode：最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOfLongestIncreasingSubsequence.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/number_of_longest_increasing_subsequence.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/NumberOfLongestIncreasingSubsequence.java)
 
+9. [LeetCode：最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LongestTurbulentSubarray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/longest_turbulent_subarray.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/LongestTurbulentSubarray.java)
+
 # 并查集
 
 1. [LeetCode：省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOfProvinces.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/union-find-sets/number_of_provinces.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/UnionFindSets/NumberOfProvinces.java)
