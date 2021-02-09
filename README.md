@@ -146,6 +146,8 @@ Algorithm | Still work
 
 20. [LeetCode：K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SubarraysWithKDifferentIntegers.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/subarrays_with_k_different_integers.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/SubarraysWithKDifferentIntegers.java)
 
+21. [LeetCode：无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LongestSubstringWithoutRepeatingCharacters.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/longest_substring_without_repeating_characters.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/LongestSubstringWithoutRepeatingCharacters.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
