@@ -8,7 +8,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String args[]) {
-        boolean result = NonDecreasingArray.checkPossibility(new int[]{4,2,3});
+        int result = SubarraysWithKDifferentIntegers.subarraysWithKDistinct(new int[]{1,2,1,2,3}, 2);
         System.out.println(result);
     }
 }

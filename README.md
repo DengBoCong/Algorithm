@@ -144,6 +144,8 @@ Algorithm | Still work
 
 19. [LeetCode：非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NonDecreasingArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/non_decreasing_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/NonDecreasingArray.java)
 
+20. [LeetCode：K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SubarraysWithKDifferentIntegers.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/subarrays_with_k_different_integers.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/SubarraysWithKDifferentIntegers.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
