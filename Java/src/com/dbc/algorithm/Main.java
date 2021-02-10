@@ -8,7 +8,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String args[]) {
-        int result = LongestSubstringWithoutRepeatingCharacters.lengthOfLongestSubstring("pwwkew");
+        boolean result = PermutationInString.checkInclusion("ab", "eidboaoo");
         System.out.println(result);
     }
 }

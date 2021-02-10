@@ -148,6 +148,8 @@ Algorithm | Still work
 
 21. [LeetCode：无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LongestSubstringWithoutRepeatingCharacters.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/longest_substring_without_repeating_characters.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/LongestSubstringWithoutRepeatingCharacters.java)
 
+22. [LeetCode：字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PermutationInString.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/permutation_in_string.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/PermutationInString.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
