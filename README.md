@@ -21,6 +21,7 @@ Algorithm | Still work
 - [链表](#链表)
 - [数组](#数组)
 - [指针](#指针)
+- [堆](#堆)
 
 
 # 动态规划
@@ -163,6 +164,11 @@ Algorithm | Still work
 1. [LeetCode：二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SearchInABinarySearchTree.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/search_in_a_binary_search_tree.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/SearchInABinarySearchTree.java)
 
 2. [LeetCode：寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FindDuplicateSubtrees.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/find_duplicate_subtrees.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/FindDuplicateSubtrees.java)
+
+
+# 堆
+
+1. [LeetCode：数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/KthLargestElementInAStream.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/heap/kth_largest_element_in_a_stream.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Heap/KthLargestElementInAStream.java)
 
 
 # Subject List | 题目列表
