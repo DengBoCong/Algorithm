@@ -22,6 +22,7 @@ Algorithm | Still work
 - [数组](#数组)
 - [指针](#指针)
 - [堆](#堆)
+- [排序](#排序)
 
 
 # 动态规划
@@ -174,6 +175,10 @@ Algorithm | Still work
 
 1. [LeetCode：数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/KthLargestElementInAStream.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/heap/kth_largest_element_in_a_stream.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Heap/KthLargestElementInAStream.java)
 
+
+# 排序
+
+1. [LeetCode：数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/KthLargestElementInAnArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/sort/kth_largest_element_in_an_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Sort/KthLargestElementInAnArray.java)
 
 # Subject List | 题目列表
 
