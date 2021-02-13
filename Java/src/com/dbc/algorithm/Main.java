@@ -8,7 +8,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String args[]) {
-        List<Integer> result = FindAllAnagramsInAString.findAnagrams("abaacbabc", "abc");
+        List<Integer> result = FindAllNumbersDisappearedInAnArray.findDisappearedNumbers(new int[]{4,3,2,7,8,2,3,1});
         System.out.println(result.toString());
     }
 }

@@ -153,6 +153,8 @@ Algorithm | Still work
 
 23. [LeetCode：找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FindAllAnagramsInAString.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/find_all_anagrams_in_a_string.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/FindAllAnagramsInAString.java)
 
+24. [LeetCode：找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FindAllNumbersDisappearedInAnArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/find_all_numbers_disappeared_in_an_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/FindAllNumbersDisappearedInAnArray.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
