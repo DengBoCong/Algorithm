@@ -160,6 +160,8 @@ Algorithm | Still work
 
 25. [LeetCode：数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FindAllDuplicatesInAnArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/find_all_duplicates_in_an_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/FindAllDuplicatesInAnArray.java)
 
+26. [LeetCode：缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FirstMissingPositive.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/first_missing_positive.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/FirstMissingPositive.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
