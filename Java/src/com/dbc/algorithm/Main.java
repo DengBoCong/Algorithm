@@ -9,7 +9,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String args[]) {
-        int result = KthLargestElementInAnArray.findKthLargestHeap(new int[]{3,2,1,5,6,4}, 2);
+        int result = CouplesHoldingHands.minSwapsCouples(new int[]{0, 2, 1, 3});
         System.out.println(result);
     }
 }
