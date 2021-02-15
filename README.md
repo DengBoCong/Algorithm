@@ -162,6 +162,8 @@ Algorithm | Still work
 
 26. [LeetCode：缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FirstMissingPositive.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/first_missing_positive.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/FirstMissingPositive.java)
 
+27. [LeetCode：杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PascalsTriangleII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/pascals_triangle_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/PascalsTriangleII.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
