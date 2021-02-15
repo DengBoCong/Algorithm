@@ -166,6 +166,8 @@ Algorithm | Still work
 
 28. [LeetCode：杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PascalsTriangle.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/pascals_triangle.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/PascalsTriangle.java)
 
+29. [LeetCode：在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FindFirstAndLastPositionOfElementInSortedArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/find_first_and_last_position_of_element_in_sorted_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/FindFirstAndLastPositionOfElementInSortedArray.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
@@ -544,22 +546,8 @@ Algorithm | Still work
 *******118、填充每个节点的下一个右侧节点指针2*******     测试地址：https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/
 
 
-*******119、杨辉三角*******     测试地址：https://leetcode-cn.com/problems/pascals-triangle/
-
-
-*******120、杨辉三角2*******     测试地址：https://leetcode-cn.com/problems/pascals-triangle-ii/
-
 
 *******121、三角形最小路径和*******     测试地址：https://leetcode-cn.com/problems/triangle/
-
-
-*******122、买卖股票的最佳时机*******     测试地址：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/
-
-
-*******123、买卖股票的最佳时机2*******     测试地址：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/
-
-
-*******124、买卖股票的最佳时机3*******     测试地址：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/
 
 
 *******125、二叉树中的最大路径和*******     测试地址：https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/
