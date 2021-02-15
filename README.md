@@ -164,6 +164,8 @@ Algorithm | Still work
 
 27. [LeetCode：杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PascalsTriangleII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/pascals_triangle_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/PascalsTriangleII.java)
 
+28. [LeetCode：杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PascalsTriangle.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/pascals_triangle.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/PascalsTriangle.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
