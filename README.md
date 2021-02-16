@@ -190,6 +190,8 @@ Algorithm | Still work
 
 1. [LeetCode：数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/KthLargestElementInAnArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/sort/kth_largest_element_in_an_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Sort/KthLargestElementInAnArray.java)
 
+2. [LeetCode：数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ArrayPartitionI.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/sort/array_partition_i.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Sort/ArrayPartitionI.java)
+
 # Subject List | 题目列表
 
 ********1、两数之和********    测试地址：https://leetcode-cn.com/problems/two-sum/
@@ -292,9 +294,6 @@ Algorithm | Still work
 
 
 *******34、搜索旋转排序数组*******     测试地址：https://leetcode-cn.com/problems/search-in-rotated-sorted-array/
-
-
-*******35、在排序数组中查找元素的第一个和最后一个位置*******     测试地址：https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
 
 *******36、搜索插入位置*******     测试地址：https://leetcode-cn.com/problems/search-insert-position/
