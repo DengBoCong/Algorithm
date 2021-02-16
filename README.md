@@ -47,6 +47,8 @@ Algorithm | Still work
 
 10. [LeetCode：最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MaximumSubarray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/maximum_subarray.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/MaximumSubarray.java)
 
+11. [LeetCode：拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/CreateMaximumNumber.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/create_maximum_number.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/CreateMaximumNumber.java)
+
 # 并查集
 
 1. [LeetCode：省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOfProvinces.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/union-find-sets/number_of_provinces.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/UnionFindSets/NumberOfProvinces.java)
