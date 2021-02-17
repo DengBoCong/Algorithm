@@ -170,6 +170,8 @@ Algorithm | Still work
 
 29. [LeetCode：在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FindFirstAndLastPositionOfElementInSortedArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/find_first_and_last_position_of_element_in_sorted_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/FindFirstAndLastPositionOfElementInSortedArray.java)
 
+30. [LeetCode：重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReshapeTheMatrix.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/reshape_the_matrix.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/ReshapeTheMatrix.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
