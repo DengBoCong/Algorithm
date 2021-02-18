@@ -178,6 +178,8 @@ Algorithm | Still work
 
 2. [LeetCode：替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LongestRepeatingCharacterReplacement.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/longest_repeating_character_replacement.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/LongestRepeatingCharacterReplacement.java)
 
+3. [LeetCode：K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumNumberOfKConsecutiveBitFlips.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_number_of_k_consecutive_bit_flips.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumNumberOfKConsecutiveBitFlips.java)
+
 # 树
 
 1. [LeetCode：二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SearchInABinarySearchTree.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/search_in_a_binary_search_tree.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/SearchInABinarySearchTree.java)
