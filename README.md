@@ -103,6 +103,8 @@ Algorithm | Still work
 
 2. [LeetCode：三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MaximumProductOfThreeNumbers.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/maximum_product_of_three_numbers.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/MaximumProductOfThreeNumbers.java)
 
+3. [LeetCode：灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BulbSwitcher.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/bulb_switcher.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/BulbSwitcher.java)
+
 # 位运算
 1. [LeetCode：解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/DecodeXoredArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/bit-operation/decode_xored_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/BitOperation/DecodeXoredArray.java)
 
