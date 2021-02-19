@@ -176,6 +176,8 @@ Algorithm | Still work
 
 30. [LeetCode：重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReshapeTheMatrix.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/reshape_the_matrix.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/ReshapeTheMatrix.java)
 
+31. [LeetCode：寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MedianOfTwoSortedArrays.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/median_of_two_sorted_arrays.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/MedianOfTwoSortedArrays.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
