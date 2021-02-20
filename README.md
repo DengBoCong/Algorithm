@@ -178,6 +178,8 @@ Algorithm | Still work
 
 31. [LeetCode：寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MedianOfTwoSortedArrays.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/median_of_two_sorted_arrays.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/MedianOfTwoSortedArrays.java)
 
+32. [LeetCode：数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/DegreeOfAnArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/degree_of_an_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/DegreeOfAnArray.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
