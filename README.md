@@ -180,6 +180,8 @@ Algorithm | Still work
 
 32. [LeetCode：数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/DegreeOfAnArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/degree_of_an_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/DegreeOfAnArray.java)
 
+33. [LeetCode：乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MaximumProductSubarray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/maximum_product_subarray.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/MaximumProductSubarray.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
