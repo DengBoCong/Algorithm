@@ -23,6 +23,7 @@ Algorithm | Still work
 - [指针](#指针)
 - [堆](#堆)
 - [排序](#排序)
+- [字符串](#字符串)
 
 
 # 动态规划
@@ -210,21 +211,16 @@ Algorithm | Still work
 
 2. [LeetCode：数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ArrayPartitionI.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/sort/array_partition_i.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Sort/ArrayPartitionI.java)
 
+# 字符串
+
+1. [LeetCode：最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LongestPalindromicSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/longest_palindromic_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/LongestPalindromicSubstring.java)
+
 # Subject List | 题目列表
 
 ********1、两数之和********    测试地址：https://leetcode-cn.com/problems/two-sum/
 
 
 ********2、两数相加********    测试地址：https://leetcode-cn.com/problems/add-two-numbers/
-
-
-*******3、无重复字符的最长子串********    测试地址：https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
-
-
-********4、寻找两个有序数组的中位数********    测试地址：https://leetcode-cn.com/problems/median-of-two-sorted-arrays/
-
-
-*******5、最长回文子串********    测试地址：https://leetcode-cn.com/problems/longest-palindromic-substring/
 
 
 *******6、最大数********    测试地址：https://leetcode-cn.com/problems/largest-number/
