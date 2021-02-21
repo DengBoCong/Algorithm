@@ -190,6 +190,8 @@ Algorithm | Still work
 
 3. [LeetCode：K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumNumberOfKConsecutiveBitFlips.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_number_of_k_consecutive_bit_flips.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumNumberOfKConsecutiveBitFlips.java)
 
+4. [LeetCode：绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.java)
+
 # 树
 
 1. [LeetCode：二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SearchInABinarySearchTree.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/search_in_a_binary_search_tree.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/SearchInABinarySearchTree.java)
