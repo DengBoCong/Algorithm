@@ -217,6 +217,8 @@ Algorithm | Still work
 
 1. [LeetCode：最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LongestPalindromicSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/longest_palindromic_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/LongestPalindromicSubstring.java)
 
+2. [LeetCode：Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ZigzagConversion.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/zigzag_conversion.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/ZigzagConversion.java)
+
 # Subject List | 题目列表
 
 ********1、两数之和********    测试地址：https://leetcode-cn.com/problems/two-sum/
