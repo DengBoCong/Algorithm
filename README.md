@@ -183,6 +183,8 @@ Algorithm | Still work
 
 33. [LeetCode：乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MaximumProductSubarray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/maximum_product_subarray.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/MaximumProductSubarray.java)
 
+34. [LeetCode：托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ToeplitzMatrix.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/toeplitz_matrix.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/ToeplitzMatrix.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
