@@ -108,6 +108,8 @@ Algorithm | Still work
 
 4. [LeetCode：灯泡开关 Ⅱ](https://leetcode-cn.com/problems/bulb-switcher-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BulbSwitcherII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/bulb_switcher_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/BulbSwitcherII.java)
 
+5. [LeetCode：整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReverseInteger.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/reverse_integer.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/ReverseInteger.java)
+
 # 位运算
 1. [LeetCode：解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/DecodeXoredArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/bit-operation/decode_xored_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/BitOperation/DecodeXoredArray.java)
 
@@ -230,12 +232,6 @@ Algorithm | Still work
 
 
 *******6、最大数********    测试地址：https://leetcode-cn.com/problems/largest-number/
-
-
-*******7、Z字形变换*******     测试地址：https://leetcode-cn.com/problems/zigzag-conversion/submissions/
-
-
-*******8、整数反转*******     测试地址：https://leetcode-cn.com/problems/reverse-integer/
 
 
 *******9、字符串转换整数(atoi)*******     测试地址：https://leetcode-cn.com/problems/string-to-integer-atoi/
