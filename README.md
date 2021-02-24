@@ -225,6 +225,8 @@ Algorithm | Still work
 
 2. [LeetCode：Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ZigzagConversion.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/zigzag_conversion.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/ZigzagConversion.java)
 
+3. [LeetCode：字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/StringToIntegerAtoi.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/string_to_integer_atoi.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/StringToIntegerAtoi.java)
+
 # Subject List | 题目列表
 
 ********1、两数之和********    测试地址：https://leetcode-cn.com/problems/two-sum/
