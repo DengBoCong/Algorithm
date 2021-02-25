@@ -110,6 +110,8 @@ Algorithm | Still work
 
 5. [LeetCode：整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReverseInteger.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/reverse_integer.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/ReverseInteger.java)
 
+6. [LeetCode：回文数](https://leetcode-cn.com/problems/palindrome-number/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PalindromeNumber.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/palindrome_number.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/PalindromeNumber.java)
+
 # 位运算
 1. [LeetCode：解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/DecodeXoredArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/bit-operation/decode_xored_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/BitOperation/DecodeXoredArray.java)
 
@@ -238,12 +240,6 @@ Algorithm | Still work
 
 
 *******6、最大数********    测试地址：https://leetcode-cn.com/problems/largest-number/
-
-
-*******9、字符串转换整数(atoi)*******     测试地址：https://leetcode-cn.com/problems/string-to-integer-atoi/
-
-
-*******10、回文数*******     测试地址：https://leetcode-cn.com/problems/palindrome-number/
 
 
 *******11、正则表达式匹配*******     测试地址：https://leetcode-cn.com/problems/regular-expression-matching/
