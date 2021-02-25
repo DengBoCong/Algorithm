@@ -189,6 +189,8 @@ Algorithm | Still work
 
 35. [LeetCode：翻转图像](https://leetcode-cn.com/problems/flipping-an-image/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FlippingAnImage.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/flipping_an_image.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/FlippingAnImage.java)
 
+36. [LeetCode：转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/TransposeMatrix.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/transpose_matrix.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/TransposeMatrix.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
