@@ -113,7 +113,10 @@ Algorithm | Still work
 6. [LeetCode：回文数](https://leetcode-cn.com/problems/palindrome-number/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PalindromeNumber.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/palindrome_number.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/PalindromeNumber.java)
 
 # 位运算
+
 1. [LeetCode：解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/DecodeXoredArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/bit-operation/decode_xored_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/BitOperation/DecodeXoredArray.java)
+
+2. [LeetCode：猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOfValidWordsForEachPuzzle.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/bit-operation/number_of_valid_words_for_each_puzzle.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/BitOperation/NumberOfValidWordsForEachPuzzle.java)
 
 # 链表
 
