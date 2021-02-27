@@ -208,6 +208,8 @@ Algorithm | Still work
 
 5. [LeetCode：爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/GrumpyBookstoreOwner.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/grumpy_bookstore_owner.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/GrumpyBookstoreOwner.java)
 
+6. [LeetCode：至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LongestSubstringWithAtLeastKRepeatingCharacters.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/longest_substring_with_at_least_k_repeating_characters.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/LongestSubstringWithAtLeastKRepeatingCharacters.java)
+
 # 树
 
 1. [LeetCode：二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SearchInABinarySearchTree.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/search_in_a_binary_search_tree.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/SearchInABinarySearchTree.java)
