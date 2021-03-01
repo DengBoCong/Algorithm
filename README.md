@@ -52,6 +52,8 @@ Algorithm | Still work
 
 12. [LeetCode：区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RangeSumQueryImmutable.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/range_sum_query_immutable.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/RangeSumQueryImmutable.java)
 
+13. [LeetCode：二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RangeSumQuery2dImmutable.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/range_sum_query_2d_immutable.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/RangeSumQuery2dImmutable.java)
+
 # 并查集
 
 1. [LeetCode：省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOfProvinces.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/union-find-sets/number_of_provinces.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/UnionFindSets/NumberOfProvinces.java)
