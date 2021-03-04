@@ -1,20 +1,29 @@
+import bisect
 from typing import List
 
 def maxEnvelopes(envelopes: List[List[int]]) -> int:
-    envelopes = sorted(envelopes)
-    imax, left, right, length = 0, 0, 1, len(envelopes)
-
-    if length <= 1:
-        return length
-
-    while right < length:
-        if envelopes[right][1] <= envelopes[right - 1][1]:
-            left = right
-        right += 1
-        imax = max(imax, right - left)
-    
-    return imax
+    n = len(envelopes)
+    if n == 0:
+        return 0
+    envelopes.sort(key=lambda x: (x[0], -x[1]))
+    print(envelopes)
+    d = []
+    for envelope in envelopes:
+        if not d or d[-1] < envelope[1]:
+            d.append(envelope[1])
+        left, right = 0, len(d) - 1
+        loc = left
+        while left <= right:
+            mid = (left + right) // 2
+            if d[mid] >= envelope[1]:
+                loc = mid
+                right = mid - 1
+            else:
+                left = mid + 1
+        d[loc] = envelope[1]
+    print(d)
+    return len(d)
 
 
 if __name__ == "__main__":
-    print(maxEnvelopes([[5,4],[2,3],[6,4],[6,7]]))
+    print(maxEnvelopes([[4,5],[4,6],[6,7],[2,3],[1,1]]))

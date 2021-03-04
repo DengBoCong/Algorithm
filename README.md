@@ -56,6 +56,8 @@ Algorithm | Still work
 
 14. [LeetCode：最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LongestIncreasingSubsequence.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/longest_increasing_subsequence.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/LongestIncreasingSubsequence.java)
 
+15. [LeetCode：俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RussianDollEnvelopes.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/russian_doll_envelopes.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/RussianDollEnvelopes.java)
+
 # 并查集
 
 1. [LeetCode：省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOfProvinces.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/union-find-sets/number_of_provinces.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/UnionFindSets/NumberOfProvinces.java)
