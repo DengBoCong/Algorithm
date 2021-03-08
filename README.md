@@ -247,6 +247,8 @@ Algorithm | Still work
 
 # 搜索
 
+1. [LeetCode：分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PalindromePartitioning.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/palindrome_partitioning.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/PalindromePartitioning.java)
+
 # Subject List | 题目列表
 
 ********1、两数之和********    测试地址：https://leetcode-cn.com/problems/two-sum/
