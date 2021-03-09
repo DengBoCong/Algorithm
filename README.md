@@ -25,6 +25,7 @@ Algorithm | Still work
 - [排序](#排序)
 - [字符串](#字符串)
 - [搜索](#搜索)
+- [栈](#栈)
 
 
 # 动态规划
@@ -250,6 +251,11 @@ Algorithm | Still work
 # 搜索
 
 1. [LeetCode：分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PalindromePartitioning.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/palindrome_partitioning.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/PalindromePartitioning.java)
+
+
+# 栈
+
+1. [LeetCode：删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RemoveAllAdjacentDuplicatesInString.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/remove_all_adjacent_duplicates_in_string.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/RemoveAllAdjacentDuplicatesInString.java)
 
 # Subject List | 题目列表
 
