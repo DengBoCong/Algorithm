@@ -257,6 +257,8 @@ Algorithm | Still work
 
 1. [LeetCode：删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RemoveAllAdjacentDuplicatesInString.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/remove_all_adjacent_duplicates_in_string.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/RemoveAllAdjacentDuplicatesInString.java)
 
+2. [LeetCode：下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NextGreaterElementII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/next_greater_element_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/NextGreaterElementII.java)
+
 # Subject List | 题目列表
 
 ********1、两数之和********    测试地址：https://leetcode-cn.com/problems/two-sum/
