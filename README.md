@@ -259,6 +259,8 @@ Algorithm | Still work
 
 2. [LeetCode：下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NextGreaterElementII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/next_greater_element_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/NextGreaterElementII.java)
 
+3. [LeetCode：基本计算器](https://leetcode-cn.com/problems/basic-calculator/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BasicCalculator.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/basic_calculator.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/BasicCalculator.java)
+
 # Subject List | 题目列表
 
 ********1、两数之和********    测试地址：https://leetcode-cn.com/problems/two-sum/
