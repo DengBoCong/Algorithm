@@ -261,7 +261,9 @@ Algorithm | Still work
 
 3. [LeetCode：基本计算器](https://leetcode-cn.com/problems/basic-calculator/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BasicCalculator.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/basic_calculator.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/BasicCalculator.java)
 
-3. [LeetCode：基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BasicCalculatorII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/basic_calculator_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/BasicCalculatorII.java)
+4. [LeetCode：基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BasicCalculatorII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/basic_calculator_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/BasicCalculatorII.java)
+
+5. [LeetCode：逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/EvaluateReversePolishNotation.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/evaluate_reverse_polish_notation.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/EvaluateReversePolishNotation.java)
 
 # Subject List | 题目列表
 
