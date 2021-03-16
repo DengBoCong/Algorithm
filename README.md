@@ -214,6 +214,8 @@ Algorithm | Still work
 
 37. [LeetCode：螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SpiralMatrix.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/spiral_matrix.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/SpiralMatrix.java)
 
+38. [LeetCode：螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SpiralMatrixII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/spiral_matrix_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/SpiralMatrixII.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
