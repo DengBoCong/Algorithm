@@ -62,6 +62,8 @@ Algorithm | Still work
 
 16. [LeetCode：分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PalindromePartitioningII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/palindrome_partitioning_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/PalindromePartitioningII.java)
 
+17. [LeetCode：不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/DistinctSubsequences.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/distinct_subsequences.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/DistinctSubsequences.java)
+
 # 并查集
 
 1. [LeetCode：省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOfProvinces.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/union-find-sets/number_of_provinces.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/UnionFindSets/NumberOfProvinces.java)
