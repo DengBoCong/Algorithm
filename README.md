@@ -132,6 +132,8 @@ Algorithm | Still work
 
 2. [LeetCode：猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOfValidWordsForEachPuzzle.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/bit-operation/number_of_valid_words_for_each_puzzle.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/BitOperation/NumberOfValidWordsForEachPuzzle.java)
 
+3. [LeetCode：比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/CountingBits.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/bit-operation/counting_bits.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/BitOperation/CountingBits.java)
+
 # 链表
 
 1. [LeetCode：交换链表中的节点](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SwappingNodesInALinkedList.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/swapping_nodes_in_a_linked_list.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/SwappingNodesInALinkedList.java)
