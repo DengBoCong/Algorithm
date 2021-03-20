@@ -226,6 +226,8 @@ Algorithm | Still work
 
 39. [LeetCode：设计停车系统](https://leetcode-cn.com/problems/design-parking-system/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/DesignParkingSystem.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/design_parking_system.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/DesignParkingSystem.java)
 
+40. [LeetCode：两数之和](https://leetcode-cn.com/problems/two-sum/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/TwoSum.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/two_sum.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/TwoSum.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
@@ -239,6 +241,10 @@ Algorithm | Still work
 5. [LeetCode：爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/GrumpyBookstoreOwner.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/grumpy_bookstore_owner.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/GrumpyBookstoreOwner.java)
 
 6. [LeetCode：至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LongestSubstringWithAtLeastKRepeatingCharacters.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/longest_substring_with_at_least_k_repeating_characters.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/LongestSubstringWithAtLeastKRepeatingCharacters.java)
+
+7. [三数之和](https://leetcode-cn.com/problems/3sum/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/Sum3.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/3sum.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/Sum3.java)
+
+8. [三数之和](https://leetcode-cn.com/problems/4sum/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/Sum4.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/4sum.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/Sum4.java)
 
 # 树
 
