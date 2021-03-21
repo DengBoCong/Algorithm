@@ -228,6 +228,8 @@ Algorithm | Still work
 
 40. [LeetCode：两数之和](https://leetcode-cn.com/problems/two-sum/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/TwoSum.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/two_sum.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/TwoSum.java)
 
+41. [LeetCode：矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SetMatrixZeroes.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/set_matrix_zeroes.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/SetMatrixZeroes.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
@@ -244,7 +246,9 @@ Algorithm | Still work
 
 7. [三数之和](https://leetcode-cn.com/problems/3sum/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/Sum3.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/3sum.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/Sum3.java)
 
-8. [三数之和](https://leetcode-cn.com/problems/4sum/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/Sum4.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/4sum.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/Sum4.java)
+8. [四数之和](https://leetcode-cn.com/problems/4sum/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/Sum4.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/4sum.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/Sum4.java)
+
+9. [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ContainerWithMostWater.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/container_with_most_water.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/ContainerWithMostWater.java)
 
 # 树
 
@@ -290,12 +294,6 @@ Algorithm | Still work
 5. [LeetCode：逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/EvaluateReversePolishNotation.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/evaluate_reverse_polish_notation.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/EvaluateReversePolishNotation.java)
 
 # Subject List | 题目列表
-
-********1、两数之和********    测试地址：https://leetcode-cn.com/problems/two-sum/
-
-
-********2、两数相加********    测试地址：https://leetcode-cn.com/problems/add-two-numbers/
-
 
 *******6、最大数********    测试地址：https://leetcode-cn.com/problems/largest-number/
 
