@@ -12,7 +12,8 @@ Algorithm | Still work
 
 # 题目类别
 
-- [动态规划](#动态规划)：
+- [剑指Offer套题](#剑指Offer套题)
+- [动态规划](#动态规划)
 - [并查集](#并查集)
 - [路径](#路径)
 - [队列](#队列)
@@ -27,6 +28,8 @@ Algorithm | Still work
 - [搜索](#搜索)
 - [栈](#栈)
 
+# 剑指Offer套题
+1. [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ShuZuZhongZhongFuDeShuZiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/shu_zu_zhong_zhong_fu_de_shu_zi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ShuZuZhongZhongFuDeShuZiLcof.java)
 
 # 动态规划
 
@@ -133,6 +136,8 @@ Algorithm | Still work
 2. [LeetCode：猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOfValidWordsForEachPuzzle.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/bit-operation/number_of_valid_words_for_each_puzzle.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/BitOperation/NumberOfValidWordsForEachPuzzle.java)
 
 3. [LeetCode：比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/CountingBits.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/bit-operation/counting_bits.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/BitOperation/CountingBits.java)
+
+4. [LeetCode：位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOf1Bits.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/bit-operation/number_of_1_bits.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/BitOperation/NumberOf1Bits.java)
 
 # 链表
 
@@ -277,6 +282,10 @@ Algorithm | Still work
 3. [LeetCode：字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/StringToIntegerAtoi.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/string_to_integer_atoi.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/StringToIntegerAtoi.java)
 
 4. [LeetCode：整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/IntegerToRoman.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/integer_to_roman.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/IntegerToRoman.java)
+
+5. [LeetCode：罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RomanToInteger.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/roman_to_integer.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/RomanToInteger.java)
+
+6. [LeetCode：最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/https://leetcode-cn.com/problems/longest-common-prefix/.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/longest_common_prefix.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/https://leetcode-cn.com/problems/longest-common-prefix/.java)
 
 # 搜索
 
