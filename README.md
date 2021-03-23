@@ -31,6 +31,13 @@ Algorithm | Still work
 # 剑指Offer套题
 1. [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ShuZuZhongZhongFuDeShuZiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/shu_zu_zhong_zhong_fu_de_shu_zi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ShuZuZhongZhongFuDeShuZiLcof.java)
 
+2. [搜索二维矩阵 II](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ErWeiShuZuZhongDeChaZhaoLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/er_wei_shu_zu_zhong_de_cha_zhao_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ErWeiShuZuZhongDeChaZhaoLcof.java)
+
+3. [替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/TiHuanKongGeLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/ti_huan_kong_ge_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/TiHuanKongGeLcof.java)
+
+4. [从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/CongWeiDaoTouDaYinLianBiaoLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/cong_wei_dao_tou_da_yin_lian_biao_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/CongWeiDaoTouDaYinLianBiaoLcof.java)
+
+
 # 动态规划
 
 1. [LeetCode：使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinCostClimbingStairs.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/min_cost_climbing_stairs.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/MinCostClimbingStairs.java)
@@ -235,6 +242,8 @@ Algorithm | Still work
 
 41. [LeetCode：矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SetMatrixZeroes.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/set_matrix_zeroes.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/SetMatrixZeroes.java)
 
+42. [LeetCode：搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SearchA2dMatrixII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/search_a_2d_matrix_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/SearchA2dMatrixII.java)
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
@@ -303,6 +312,8 @@ Algorithm | Still work
 4. [LeetCode：基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BasicCalculatorII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/basic_calculator_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/BasicCalculatorII.java)
 
 5. [LeetCode：逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/EvaluateReversePolishNotation.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/evaluate_reverse_polish_notation.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/EvaluateReversePolishNotation.java)
+
+6. [LeetCode：扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FlattenNestedListIterator.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/flatten_nested_list_iterator.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/FlattenNestedListIterator.java)
 
 # Subject List | 题目列表
 
