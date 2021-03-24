@@ -37,6 +37,10 @@ Algorithm | Still work
 
 4. [从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/CongWeiDaoTouDaYinLianBiaoLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/cong_wei_dao_tou_da_yin_lian_biao_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/CongWeiDaoTouDaYinLianBiaoLcof.java)
 
+5. [重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ZhongJianErChaShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/zhong_jian_er_cha_shu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ZhongJianErChaShuLcof.java)
+
+5. [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/YongLiangGeZhanShiXianDuiLieLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/yong_liang_ge_zhan_shi_xian_dui_lie_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/YongLiangGeZhanShiXianDuiLieLcof.java)
+
 
 # 动态规划
 
@@ -270,6 +274,8 @@ Algorithm | Still work
 
 2. [LeetCode：寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FindDuplicateSubtrees.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/find_duplicate_subtrees.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/FindDuplicateSubtrees.java)
 
+3. [LeetCode：从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ConstructBinaryTreeFromPreorderAndInorderTraversal.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/construct_binary_tree_from_preorder_and_inorder_traversal.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)
+
 
 # 堆
 
@@ -298,7 +304,7 @@ Algorithm | Still work
 
 # 搜索
 
-1. [LeetCode：分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PalindromePartitioning.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/palindrome_partitioning.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/PalindromePartitioning.java)
+1. [LeetCode：分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PalindromePartitioning.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/search/palindrome_partitioning.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Search/PalindromePartitioning.java)
 
 
 # 栈
@@ -314,6 +320,8 @@ Algorithm | Still work
 5. [LeetCode：逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/EvaluateReversePolishNotation.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/evaluate_reverse_polish_notation.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/EvaluateReversePolishNotation.java)
 
 6. [LeetCode：扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FlattenNestedListIterator.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/flatten_nested_list_iterator.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/FlattenNestedListIterator.java)
+
+7. [LeetCode132 模式](https://leetcode-cn.com/problems/132-pattern/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/Pattern132.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/132_pattern.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/Pattern132.java)
 
 # Subject List | 题目列表
 
