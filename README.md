@@ -39,7 +39,13 @@ Algorithm | Still work
 
 5. [重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ZhongJianErChaShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/zhong_jian_er_cha_shu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ZhongJianErChaShuLcof.java)
 
-5. [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/YongLiangGeZhanShiXianDuiLieLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/yong_liang_ge_zhan_shi_xian_dui_lie_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/YongLiangGeZhanShiXianDuiLieLcof.java)
+6. [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/YongLiangGeZhanShiXianDuiLieLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/yong_liang_ge_zhan_shi_xian_dui_lie_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/YongLiangGeZhanShiXianDuiLieLcof.java)
+
+7. [斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/FeiBoNaQiShuLieLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/fei_bo_na_qi_shu_lie_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/FeiBoNaQiShuLieLcof.java)
+
+8. [青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/QingWaTiaoTaiJieWenTiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/qing_wa_tiao_tai_jie_wen_ti_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/QingWaTiaoTaiJieWenTiLcof.java)
+
+9. [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/XuanZhuanShuZuDeZuiXiaoShuZiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/xuan_zhuan_shu_zu_de_zui_xiao_shu_zi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/XuanZhuanShuZuDeZuiXiaoShuZiLcof.java)
 
 
 # 动态规划
@@ -77,6 +83,8 @@ Algorithm | Still work
 16. [LeetCode：分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PalindromePartitioningII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/palindrome_partitioning_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/PalindromePartitioningII.java)
 
 17. [LeetCode：不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/DistinctSubsequences.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/distinct_subsequences.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/DistinctSubsequences.java)
+
+18. [LeetCode：爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ClimbingStairs.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/climbing_stairs.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/ClimbingStairs.java)
 
 # 并查集
 
@@ -161,6 +169,8 @@ Algorithm | Still work
 4. [LeetCode：反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReverseLinkedListII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/reverse_linked_list_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/ReverseLinkedListII.java)
 
 5. [LeetCode：两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/AddTwoNumbers.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/add_two_numbers.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/AddTwoNumbers.java)
+
+6. [LeetCode：删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RemoveDuplicatesFromSortedListII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/remove_duplicates_from_sorted_list_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/RemoveDuplicatesFromSortedListII.java)
 
 # 数组
 
@@ -305,6 +315,8 @@ Algorithm | Still work
 # 搜索
 
 1. [LeetCode：分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PalindromePartitioning.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/search/palindrome_partitioning.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Search/PalindromePartitioning.java)
+
+2. [LeetCode：寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FindMinimumInRotatedSortedArrayII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/search/find_minimum_in_rotated_sorted_array_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Search/FindMinimumInRotatedSortedArrayII.java)
 
 
 # 栈
