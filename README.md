@@ -47,6 +47,12 @@ Algorithm | Still work
 
 9. [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/XuanZhuanShuZuDeZuiXiaoShuZiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/xuan_zhuan_shu_zu_de_zui_xiao_shu_zi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/XuanZhuanShuZuDeZuiXiaoShuZiLcof.java)
 
+10. [矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/JuZhenZhongDeLuJingLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/ju_zhen_zhong_de_lu_jing_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/JuZhenZhongDeLuJingLcof.java)
+
+11. [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/JiQiRenDeYunDongFanWeiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/ji_qi_ren_de_yun_dong_fan_wei_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/JiQiRenDeYunDongFanWeiLcof.java)
+
+12. [剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/JianShengZiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/jian_sheng_zi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/JianShengZiLcof.java)
+
 
 # 动态规划
 
@@ -148,6 +154,8 @@ Algorithm | Still work
 
 6. [LeetCode：回文数](https://leetcode-cn.com/problems/palindrome-number/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PalindromeNumber.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/palindrome_number.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/PalindromeNumber.java)
 
+7. [LeetCode：整数拆分](https://leetcode-cn.com/problems/integer-break/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/IntegerBreak.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/integer_break.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/IntegerBreak.java)
+
 # 位运算
 
 1. [LeetCode：解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/DecodeXoredArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/bit-operation/decode_xored_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/BitOperation/DecodeXoredArray.java)
@@ -171,6 +179,8 @@ Algorithm | Still work
 5. [LeetCode：两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/AddTwoNumbers.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/add_two_numbers.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/AddTwoNumbers.java)
 
 6. [LeetCode：删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RemoveDuplicatesFromSortedListII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/remove_duplicates_from_sorted_list_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/RemoveDuplicatesFromSortedListII.java)
+
+7. [LeetCode：删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RemoveDuplicatesFromSortedList.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/remove_duplicates_from_sorted_list.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/RemoveDuplicatesFromSortedList.java)
 
 # 数组
 
@@ -317,6 +327,8 @@ Algorithm | Still work
 1. [LeetCode：分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PalindromePartitioning.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/search/palindrome_partitioning.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Search/PalindromePartitioning.java)
 
 2. [LeetCode：寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FindMinimumInRotatedSortedArrayII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/search/find_minimum_in_rotated_sorted_array_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Search/FindMinimumInRotatedSortedArrayII.java)
+
+3. [LeetCode：单词搜索](https://leetcode-cn.com/problems/word-search/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/WordSearch.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/search/word_search.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Search/WordSearch.java)
 
 
 # 栈
