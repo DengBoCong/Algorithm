@@ -53,6 +53,12 @@ Algorithm | Still work
 
 12. [剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/JianShengZiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/jian_sheng_zi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/JianShengZiLcof.java)
 
+13. [剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/JianShengZiIILcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/jian_sheng_zi_ii_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/JianShengZiIILcof.java)
+
+14. [二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ErJinZhiZhong1DeGeShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/er_jin_zhi_zhong_1de_ge_shu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ErJinZhiZhong1DeGeShuLcof.java)
+
+15. [数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ShuZhiDeZhengShuCiFangLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/shu_zhi_de_zheng_shu_ci_fang_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ShuZhiDeZhengShuCiFangLcof.java)
+
 
 # 动态规划
 
@@ -156,6 +162,8 @@ Algorithm | Still work
 
 7. [LeetCode：整数拆分](https://leetcode-cn.com/problems/integer-break/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/IntegerBreak.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/integer_break.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/IntegerBreak.java)
 
+8. [LeetCode：Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PowxN.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/powx_n.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/PowxN.java)
+
 # 位运算
 
 1. [LeetCode：解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/DecodeXoredArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/bit-operation/decode_xored_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/BitOperation/DecodeXoredArray.java)
@@ -181,6 +189,8 @@ Algorithm | Still work
 6. [LeetCode：删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RemoveDuplicatesFromSortedListII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/remove_duplicates_from_sorted_list_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/RemoveDuplicatesFromSortedListII.java)
 
 7. [LeetCode：删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RemoveDuplicatesFromSortedList.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/remove_duplicates_from_sorted_list.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/RemoveDuplicatesFromSortedList.java)
+
+8. [LeetCode：旋转链表](https://leetcode-cn.com/problems/rotate-list/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RotateList.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/rotate_list.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/RotateList.java)
 
 # 数组
 
