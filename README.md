@@ -59,6 +59,8 @@ Algorithm | Still work
 
 15. [数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ShuZhiDeZhengShuCiFangLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/shu_zhi_de_zheng_shu_ci_fang_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ShuZhiDeZhengShuCiFangLcof.java)
 
+16. [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/DaYinCong1DaoZuiDaDeNweiShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/da_yin_cong_1dao_zui_da_de_nwei_shu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/DaYinCong1DaoZuiDaDeNweiShuLcof.java)
+
 
 # 动态规划
 
@@ -305,6 +307,8 @@ Algorithm | Still work
 2. [LeetCode：寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FindDuplicateSubtrees.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/find_duplicate_subtrees.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/FindDuplicateSubtrees.java)
 
 3. [LeetCode：从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ConstructBinaryTreeFromPreorderAndInorderTraversal.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/construct_binary_tree_from_preorder_and_inorder_traversal.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)
+
+4. [LeetCode：二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BinarySearchTreeIterator.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/binary_search_tree_iterator.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/BinarySearchTreeIterator.java)
 
 
 # 堆
