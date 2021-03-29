@@ -61,6 +61,20 @@ Algorithm | Still work
 
 16. [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/DaYinCong1DaoZuiDaDeNweiShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/da_yin_cong_1dao_zui_da_de_nwei_shu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/DaYinCong1DaoZuiDaDeNweiShuLcof.java)
 
+17. [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ShanChuLianBiaoDeJieDianLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/shan_chu_lian_biao_de_jie_dian_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ShanChuLianBiaoDeJieDianLcof.java)
+
+18. [正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ZhengZeBiaoDaShiPiPeiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/zheng_ze_biao_da_shi_pi_pei_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ZhengZeBiaoDaShiPiPeiLcof.java)
+
+19. [表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/BiaoShiShuZhiDeZiFuChuanLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/biao_shi_shu_zhi_de_zi_fu_chuan_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/BiaoShiShuZhiDeZiFuChuanLcof.java)
+
+20. [调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/DiaoZhengShuZuShunXuShiQiShuWeiYuOuShuQianMianLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/diao_zheng_shu_zu_shun_xu_shi_qi_shu_wei_yu_ou_shu_qian_mian_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/DiaoZhengShuZuShunXuShiQiShuWeiYuOuShuQianMianLcof.java)
+
+21. [链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/LianBiaoZhongDaoShuDiKgeJieDianLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/lian_biao_zhong_dao_shu_di_kge_jie_dian_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/LianBiaoZhongDaoShuDiKgeJieDianLcof.java)
+
+22. [反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/FanZhuanLianBiaoLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/fan_zhuan_lian_biao_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/FanZhuanLianBiaoLcof.java)
+
+23. [合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/HeBingLiangGePaiXuDeLianBiaoLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/he_bing_liang_ge_pai_xu_de_lian_biao_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/HeBingLiangGePaiXuDeLianBiaoLcof.java)
+
 
 # 动态规划
 
@@ -176,6 +190,8 @@ Algorithm | Still work
 
 4. [LeetCode：位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NumberOf1Bits.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/bit-operation/number_of_1_bits.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/BitOperation/NumberOf1Bits.java)
 
+5. [LeetCode：颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReverseBits.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/bit-operation/reverse_bits.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/BitOperation/ReverseBits.java)
+
 # 链表
 
 1. [LeetCode：交换链表中的节点](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SwappingNodesInALinkedList.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/swapping_nodes_in_a_linked_list.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/SwappingNodesInALinkedList.java)
@@ -193,6 +209,10 @@ Algorithm | Still work
 7. [LeetCode：删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RemoveDuplicatesFromSortedList.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/remove_duplicates_from_sorted_list.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/RemoveDuplicatesFromSortedList.java)
 
 8. [LeetCode：旋转链表](https://leetcode-cn.com/problems/rotate-list/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RotateList.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/rotate_list.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/RotateList.java)
+
+9. [LeetCode：反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReverseLinkedList.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/reverse_linked_list.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/ReverseLinkedList.java)
+
+10. [LeetCode：合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/HeBingLiangGePaiXuDeLianBiaoLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/merge_two_sorted_lists.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/HeBingLiangGePaiXuDeLianBiaoLcof.java)
 
 # 数组
 
@@ -335,6 +355,8 @@ Algorithm | Still work
 5. [LeetCode：罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RomanToInteger.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/roman_to_integer.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/RomanToInteger.java)
 
 6. [LeetCode：最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/https://leetcode-cn.com/problems/longest-common-prefix/.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/longest_common_prefix.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/https://leetcode-cn.com/problems/longest-common-prefix/.java)
+
+7. [LeetCode：正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RegularExpressionMatching.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/regular_expression_matching.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/RegularExpressionMatching.java)
 
 # 搜索
 
