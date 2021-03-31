@@ -87,6 +87,14 @@ Algorithm | Still work
 
 28. [从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/CongShangDaoXiaDaYinErChaShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/cong_shang_dao_xia_da_yin_er_cha_shu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/CongShangDaoXiaDaYinErChaShuLcof.java)
 
+29. [从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/CongShangDaoXiaDaYinErChaShuIILcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/cong_shang_dao_xia_da_yin_er_cha_shu_ii_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/CongShangDaoXiaDaYinErChaShuIILcof.java)
+
+30. [从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/CongShangDaoXiaDaYinErChaShuIIILcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/cong_shang_dao_xia_da_yin_er_cha_shu_iii_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/CongShangDaoXiaDaYinErChaShuIIILcof.java)
+
+31. [二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ErChaSouSuoShuDeHouXuBianLiXuLieLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/er_cha_sou_suo_shu_de_hou_xu_bian_li_xu_lie_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ErChaSouSuoShuDeHouXuBianLiXuLieLcof.java)
+
+32. [复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/FuZaLianBiaoDeFuZhiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/fu_za_lian-_biao_de_fu_zhi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/FuZaLianBiaoDeFuZhiLcof.java)
+
 
 # 动态规划
 
@@ -226,6 +234,8 @@ Algorithm | Still work
 
 10. [LeetCode：合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/HeBingLiangGePaiXuDeLianBiaoLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/merge_two_sorted_lists.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/HeBingLiangGePaiXuDeLianBiaoLcof.java)
 
+11. [LeetCode：复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/CopyListWithRandomPointer.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/copy_list_with_random_pointer.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/CopyListWithRandomPointer.java)
+
 # 数组
 
 1. [LeetCode：可被 5 整除的二进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BinaryPrefixDivisibleBy5.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/binary_prefix_divisible_by_5.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/BinaryPrefixDivisibleBy5.java)
@@ -346,6 +356,8 @@ Algorithm | Still work
 
 6. [LeetCode：对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SymmetricTree.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/symmetric_tree.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/SymmetricTree.java)
 
+7. [LeetCode：二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BinaryTreeLevelOrderTraversal.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/binary_tree_level_order_traversal.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/BinaryTreeLevelOrderTraversal.java)
+
 
 # 堆
 
@@ -383,6 +395,8 @@ Algorithm | Still work
 3. [LeetCode：单词搜索](https://leetcode-cn.com/problems/word-search/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/WordSearch.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/search/word_search.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Search/WordSearch.java)
 
 4. [LeetCode：搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SearchA2dMatrix.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/search/search_a_2d_matrix.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Search/SearchA2dMatrix.java)
+
+5. [LeetCode：子集 II](https://leetcode-cn.com/problems/subsets-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SubsetsII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/search/subsets_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Search/SubsetsII.java)
 
 
 # 栈
