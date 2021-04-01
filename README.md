@@ -95,6 +95,14 @@ Algorithm | Still work
 
 32. [复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/FuZaLianBiaoDeFuZhiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/fu_za_lian-_biao_de_fu_zhi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/FuZaLianBiaoDeFuZhiLcof.java)
 
+33. [字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ZiFuChuanDePaiLieLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/zi_fu_chuan_de_pai_lie_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ZiFuChuanDePaiLieLcof.java)
+
+34. [数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ShuZuZhongChuXianCiShuChaoGuoYiBanDeShuZiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/shu_zu_zhong_chu_xian_ci_shu_chao_guo_yi_ban_de_shu_zi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ShuZuZhongChuXianCiShuChaoGuoYiBanDeShuZiLcof.java)
+
+35. [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ZuiXiaoDeKgeShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/zui_xiao_de_kge_shu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ZuiXiaoDeKgeShuLcof.java)
+
+36. [数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ShuJuLiuZhongDeZhongWeiShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/shu_ju_liu_zhong_de_zhong_wei_shu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ShuJuLiuZhongDeZhongWeiShuLcof.java)
+
 
 # 动态规划
 
@@ -322,6 +330,9 @@ Algorithm | Still work
 
 42. [LeetCode：搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SearchA2dMatrixII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/search_a_2d_matrix_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/SearchA2dMatrixII.java)
 
+43. [LeetCode：多数元素](https://leetcode-cn.com/problems/majority-element/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MajorityElement.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/majority_element.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/MajorityElement.java)
+
+
 # 指针
 
 1. [LeetCode：最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinimumWindowSubstring.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/minimum_window_substring.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/MinimumWindowSubstring.java)
@@ -416,6 +427,8 @@ Algorithm | Still work
 7. [LeetCode132：模式](https://leetcode-cn.com/problems/132-pattern/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/Pattern132.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/132_pattern.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/Pattern132.java)
 
 8. [LeetCode132：验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ValidateStackSequences.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/validate_stack_sequences.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/ValidateStackSequences.java)
+
+9. [LeetCode132：笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ClumsyFactorial.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/clumsy_factorial.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/ClumsyFactorial.java)
 
 # Subject List | 题目列表
 
