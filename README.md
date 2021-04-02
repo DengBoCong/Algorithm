@@ -103,6 +103,8 @@ Algorithm | Still work
 
 36. [数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ShuJuLiuZhongDeZhongWeiShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/shu_ju_liu_zhong_de_zhong_wei_shu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ShuJuLiuZhongDeZhongWeiShuLcof.java)
 
+37. [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/LianXuZiShuZuDeZuiDaHeLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/lian_xu_zi_shu_zu_de_zui_da_he_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/LianXuZiShuZuDeZuiDaHeLcof.java)
+
 
 # 动态规划
 
@@ -141,6 +143,8 @@ Algorithm | Still work
 17. [LeetCode：不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/DistinctSubsequences.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/distinct_subsequences.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/DistinctSubsequences.java)
 
 18. [LeetCode：爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ClimbingStairs.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/climbing_stairs.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/ClimbingStairs.java)
+
+19. [LeetCode：直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/VolumeOfHistogramLcci.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/volume_of_histogram_lcci.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/VolumeOfHistogramLcci.java)
 
 # 并查集
 
