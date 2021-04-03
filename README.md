@@ -105,6 +105,18 @@ Algorithm | Still work
 
 37. [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/LianXuZiShuZuDeZuiDaHeLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/lian_xu_zi_shu_zu_de_zui_da_he_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/LianXuZiShuZuDeZuiDaHeLcof.java)
 
+38. [1～n 整数中 1 出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/N1ZhengShuZhong1ChuXianDeCiShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/1nzheng_shu_zhong_1chu_xian_de_ci_shu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/N1ZhengShuZhong1ChuXianDeCiShuLcof.java)
+
+39. [数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ShuZiXuLieZhongMouYiWeiDeShuZiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/shu_zi_xu_lie_zhong_mou_yi_wei_de_shu_zi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ShuZiXuLieZhongMouYiWeiDeShuZiLcof.java)
+
+40. [把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/BaShuZuPaiChengZuiXiaoDeShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/ba_shu_zu_pai_cheng_zui_xiao_de_shu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/BaShuZuPaiChengZuiXiaoDeShuLcof.java)
+
+41. [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/BaShuZiFanYiChengZiFuChuanLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/ba_shu_zi_fan_yi_cheng_zi_fu_chuan_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/BaShuZiFanYiChengZiFuChuanLcof.java)
+
+42. [礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/LiWuDeZuiDaJieZhiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/li_wu_de_zui_da_jie_zhi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/LiWuDeZuiDaJieZhiLcof.java)
+
+43. [最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ZuiChangBuHanZhongFuZiFuDeZiZiFuChuanLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/zui_chang_bu_han_zhong_fu_zi_fu_de_zi_zi_fu_chuan_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ZuiChangBuHanZhongFuZiFuDeZiZiFuChuanLcof.java)
+
 
 # 动态规划
 
@@ -211,6 +223,10 @@ Algorithm | Still work
 7. [LeetCode：整数拆分](https://leetcode-cn.com/problems/integer-break/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/IntegerBreak.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/integer_break.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/IntegerBreak.java)
 
 8. [LeetCode：Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PowxN.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/powx_n.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/PowxN.java)
+
+9. [LeetCode：数字 1 的个数](https://leetcode-cn.com/problems/number-of-digit-one/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/N1ZhengShuZhong1ChuXianDeCiShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/number_of_digit_one.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/N1ZhengShuZhong1ChuXianDeCiShuLcof.java)
+
+10. [LeetCode：第 N 位数字](https://leetcode-cn.com/problems/nth-digit/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NthDigit.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/nth_digit.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/NthDigit.java)
 
 # 位运算
 
@@ -400,6 +416,8 @@ Algorithm | Still work
 6. [LeetCode：最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/https://leetcode-cn.com/problems/longest-common-prefix/.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/longest_common_prefix.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/https://leetcode-cn.com/problems/longest-common-prefix/.java)
 
 7. [LeetCode：正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RegularExpressionMatching.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/regular_expression_matching.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/RegularExpressionMatching.java)
+
+8. [LeetCode：最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LongestCommonSubsequence.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/longest_common_subsequence.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/LongestCommonSubsequence.java)
 
 # 搜索
 
