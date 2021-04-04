@@ -117,6 +117,16 @@ Algorithm | Still work
 
 43. [最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ZuiChangBuHanZhongFuZiFuDeZiZiFuChuanLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/zui_chang_bu_han_zhong_fu_zi_fu_de_zi_zi_fu_chuan_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ZuiChangBuHanZhongFuZiFuDeZiZiFuChuanLcof.java)
 
+44. [丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/nthUglyNumber.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/chou_shu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/nthUglyNumber.java)
+
+45. [第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/DiYiGeZhiChuXianYiCiDeZiFuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/di_yi_ge_zhi_chu_xian_yi_ci_de_zi_fu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/DiYiGeZhiChuXianYiCiDeZiFuLcof.java)
+
+46. [数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ShuZuZhongDeNiXuDuiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/shu_zu_zhong_de_ni_xu_dui_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ShuZuZhongDeNiXuDuiLcof.java)
+
+47. [两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/LiangGeLianBiaoDeDiYiGeGongGongJieDianLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/liang_ge_lian_biao_de_di_yi_ge_gong_gong_jie_dian_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/LiangGeLianBiaoDeDiYiGeGongGongJieDianLcof.java)
+
+48. [在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ZaiPaiXuShuZuZhongChaZhaoShuZiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/zai_pai_xu_shu_zu_zhong_cha_zhao_shu_zi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ZaiPaiXuShuZuZhongChaZhaoShuZiLcof.java)
+
 
 # 动态规划
 
@@ -228,6 +238,8 @@ Algorithm | Still work
 
 10. [LeetCode：第 N 位数字](https://leetcode-cn.com/problems/nth-digit/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NthDigit.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/nth_digit.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/NthDigit.java)
 
+11. [LeetCode：丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ChouShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/ugly_number_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/ChouShuLcof.java)
+
 # 位运算
 
 1. [LeetCode：解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/DecodeXoredArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/bit-operation/decode_xored_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/BitOperation/DecodeXoredArray.java)
@@ -263,6 +275,8 @@ Algorithm | Still work
 10. [LeetCode：合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/HeBingLiangGePaiXuDeLianBiaoLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/merge_two_sorted_lists.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/HeBingLiangGePaiXuDeLianBiaoLcof.java)
 
 11. [LeetCode：复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/CopyListWithRandomPointer.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/copy_list_with_random_pointer.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/CopyListWithRandomPointer.java)
+
+12. [LeetCode：相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/IntersectionOfTwoLinkedLists.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/linked-list/intersection_of_two_linked_lists.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/LinkedList/IntersectionOfTwoLinkedLists.java)
 
 # 数组
 
@@ -351,6 +365,8 @@ Algorithm | Still work
 42. [LeetCode：搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SearchA2dMatrixII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/search_a_2d_matrix_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/SearchA2dMatrixII.java)
 
 43. [LeetCode：多数元素](https://leetcode-cn.com/problems/majority-element/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MajorityElement.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/majority_element.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/MajorityElement.java)
+
+44. [LeetCode：森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RabbitsInForest.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/rabbits_in_forest.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/RabbitsInForest.java)
 
 
 # 指针
