@@ -127,6 +127,19 @@ Algorithm | Still work
 
 48. [在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ZaiPaiXuShuZuZhongChaZhaoShuZiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/zai_pai_xu_shu_zu_zhong_cha_zhao_shu_zi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ZaiPaiXuShuZuZhongChaZhaoShuZiLcof.java)
 
+49. [0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/QueShiDeShuZiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/que_shi_de_shu_zi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/QueShiDeShuZiLcof.java)
+
+50. [二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ErChaSouSuoShuDeDiKDaJieDianLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/er_cha_sou_suo_shu_de_di_kda_jie_dian_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ErChaSouSuoShuDeDiKDaJieDianLcof.java)
+
+51. [二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ErChaShuDeShenDuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/er_cha_shu_de_shen_du_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ErChaShuDeShenDuLcof.java)
+
+52. [平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/PingHengErChaShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/ping_heng_er_cha_shu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/PingHengErChaShuLcof.java)
+
+53. [数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ShuZuZhongShuZiChuXianDeCiShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/shu_zu_zhong_shu_zi_chu_xian_de_ci_shu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ShuZuZhongShuZiChuXianDeCiShuLcof.java)
+
+54. [数组中数字出现的次数 II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ShuZuZhongShuZiChuXianDeCiShuIILcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/shu_zu_zhong_shu_zi_chu_xian_de_ci_shu_ii_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ShuZuZhongShuZiChuXianDeCiShuIILcof.java)
+
+55. [和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/HeWeiSdeLiangGeShuZiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/he_wei_sde_liang_ge_shu_zi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/HeWeiSdeLiangGeShuZiLcof.java)
 
 # 动态规划
 
@@ -368,6 +381,8 @@ Algorithm | Still work
 
 44. [LeetCode：森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RabbitsInForest.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/rabbits_in_forest.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/RabbitsInForest.java)
 
+45. [LeetCode：合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MergeSortedArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/array/merge_sorted_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Array/MergeSortedArray.java)
+
 
 # 指针
 
@@ -404,6 +419,10 @@ Algorithm | Still work
 6. [LeetCode：对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SymmetricTree.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/symmetric_tree.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/SymmetricTree.java)
 
 7. [LeetCode：二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BinaryTreeLevelOrderTraversal.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/binary_tree_level_order_traversal.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/BinaryTreeLevelOrderTraversal.java)
+
+8. [LeetCode：平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BalancedBinaryTree.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/balanced_binary_tree.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/BalancedBinaryTree.java)
+
+9. [LeetCode：二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MaximumDepthOfBinaryTree.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/maximum_depth_of_binary_tree.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/MaximumDepthOfBinaryTree.java)
 
 
 # 堆
