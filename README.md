@@ -141,6 +141,14 @@ Algorithm | Still work
 
 55. [和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/HeWeiSdeLiangGeShuZiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/he_wei_sde_liang_ge_shu_zi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/HeWeiSdeLiangGeShuZiLcof.java)
 
+56. [和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/HeWeiSdeLianXuZhengShuXuLieLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/he_wei_sde_lian_xu_zheng_shu_xu_lie_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/HeWeiSdeLianXuZhengShuXuLieLcof.java)
+
+57. [翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/FanZhuanDanCiShunXuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/fan_zhuan_dan_ci_shun_xu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/FanZhuanDanCiShunXuLcof.java)
+
+58. [翻转单词顺序](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ZuoXuanZhuanZiFuChuanLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/zuo_xuan_zhuan_zi_fu_chuan_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ZuoXuanZhuanZiFuChuanLcof.java)
+
+59. [队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/DuiLieDeZuiDaZhiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/dui_lie_de_zui_da_zhi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/DuiLieDeZuiDaZhiLcof.java)
+
 # 动态规划
 
 1. [LeetCode：使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinCostClimbingStairs.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/min_cost_climbing_stairs.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/MinCostClimbingStairs.java)
@@ -404,6 +412,10 @@ Algorithm | Still work
 
 9. [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ContainerWithMostWater.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/container_with_most_water.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/ContainerWithMostWater.java)
 
+10. [删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RemoveDuplicatesFromSortedArrayII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/remove_duplicates_from_sorted_array_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/RemoveDuplicatesFromSortedArrayII.java)
+
+11. [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RemoveDuplicatesFromSortedArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/pointer/remove_duplicates_from_sorted_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Pointer/RemoveDuplicatesFromSortedArray.java)
+
 # 树
 
 1. [LeetCode：二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SearchInABinarySearchTree.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/search_in_a_binary_search_tree.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/SearchInABinarySearchTree.java)
@@ -453,6 +465,8 @@ Algorithm | Still work
 7. [LeetCode：正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/RegularExpressionMatching.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/regular_expression_matching.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/RegularExpressionMatching.java)
 
 8. [LeetCode：最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LongestCommonSubsequence.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/longest_common_subsequence.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/LongestCommonSubsequence.java)
+
+9. [LeetCode：翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReverseWordsInAString.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/reverse_words_in_a_string.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/ReverseWordsInAString.java)
 
 # 搜索
 
