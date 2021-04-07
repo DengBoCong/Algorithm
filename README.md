@@ -149,6 +149,8 @@ Algorithm | Still work
 
 59. [队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/DuiLieDeZuiDaZhiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/dui_lie_de_zui_da_zhi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/DuiLieDeZuiDaZhiLcof.java)
 
+60. [n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/NgeTouZiDeDianShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/nge_tou_zi_de_dian_shu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/NgeTouZiDeDianShuLcof.java)
+
 # 动态规划
 
 1. [LeetCode：使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinCostClimbingStairs.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/min_cost_climbing_stairs.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/MinCostClimbingStairs.java)
@@ -479,6 +481,8 @@ Algorithm | Still work
 4. [LeetCode：搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SearchA2dMatrix.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/search/search_a_2d_matrix.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Search/SearchA2dMatrix.java)
 
 5. [LeetCode：子集 II](https://leetcode-cn.com/problems/subsets-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SubsetsII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/search/subsets_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Search/SubsetsII.java)
+
+6. [LeetCode：搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SearchInRotatedSortedArrayII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/search/search_in_rotated_sorted_array_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Search/SearchInRotatedSortedArrayII.java)
 
 
 # 栈
