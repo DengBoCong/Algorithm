@@ -151,6 +151,8 @@ Algorithm | Still work
 
 60. [n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/NgeTouZiDeDianShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/nge_tou_zi_de_dian_shu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/NgeTouZiDeDianShuLcof.java)
 
+61. [扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/BuKePaiZhongDeShunZiLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/bu_ke_pai_zhong_de_shun_zi_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/BuKePaiZhongDeShunZiLcof.java)
+
 # 动态规划
 
 1. [LeetCode：使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinCostClimbingStairs.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/min_cost_climbing_stairs.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/MinCostClimbingStairs.java)
@@ -483,6 +485,8 @@ Algorithm | Still work
 5. [LeetCode：子集 II](https://leetcode-cn.com/problems/subsets-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SubsetsII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/search/subsets_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Search/SubsetsII.java)
 
 6. [LeetCode：搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/SearchInRotatedSortedArrayII.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/search/search_in_rotated_sorted_array_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Search/SearchInRotatedSortedArrayII.java)
+
+7. [LeetCode：寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/FindMinimumInRotatedSortedArray.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/search/find_minimum_in_rotated_sorted_array.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Search/FindMinimumInRotatedSortedArray.java)
 
 
 # 栈
