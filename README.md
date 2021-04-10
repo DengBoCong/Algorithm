@@ -163,6 +163,12 @@ Algorithm | Still work
 
 66. [构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/GouJianChengJiShuZuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/gou_jian_cheng_ji_shu_zu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/GouJianChengJiShuZuLcof.java)
 
+67. [把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/BaZiFuChuanZhuanHuanChengZhengShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/ba_zi_fu_chuan_zhuan_huan_cheng_zheng_shu_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/BaZiFuChuanZhuanHuanChengZhengShuLcof.java)
+
+68. [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ErChaSouSuoShuDeZuiJinGongGongZuXianLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/er_cha_sou_suo_shu_de_zui_jin_gong_gong_zu_xian_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ErChaSouSuoShuDeZuiJinGongGongZuXianLcof.java)
+
+69. [二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReferOffer/ErChaShuDeZuiJinGongGongZuXianLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/refer-offer/er_cha_shu_de_zui_jin_gong_gong_zu_xian_lcof.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/ReferOffer/ErChaShuDeZuiJinGongGongZuXianLcof.java)
+
 # 动态规划
 
 1. [LeetCode：使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MinCostClimbingStairs.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/dynamic-programming/min_cost_climbing_stairs.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/DynamicProgramming/MinCostClimbingStairs.java)
@@ -274,6 +280,8 @@ Algorithm | Still work
 10. [LeetCode：第 N 位数字](https://leetcode-cn.com/problems/nth-digit/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/NthDigit.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/nth_digit.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/NthDigit.java)
 
 11. [LeetCode：丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ChouShuLcof.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/ugly_number_ii.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/ChouShuLcof.java)
+
+12. [LeetCode：丑数](https://leetcode-cn.com/problems/ugly-number/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/UglyNumber.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/math/ugly_number.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Math/UglyNumber.java)
 
 # 位运算
 
@@ -449,6 +457,10 @@ Algorithm | Still work
 8. [LeetCode：平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/BalancedBinaryTree.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/balanced_binary_tree.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/BalancedBinaryTree.java)
 
 9. [LeetCode：二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/MaximumDepthOfBinaryTree.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/maximum_depth_of_binary_tree.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/MaximumDepthOfBinaryTree.java)
+
+10. [LeetCode：二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LowestCommonAncestorOfABinarySearchTree.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/lowest_common_ancestor_of_a_binary_search_tree.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/LowestCommonAncestorOfABinarySearchTree.java)
+
+11. [LeetCode：二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LowestCommonAncestorOfABinaryTree.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/tree/lowest_common_ancestor_of_a_binary_tree.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Tree/LowestCommonAncestorOfABinaryTree.java)
 
 
 # 堆
