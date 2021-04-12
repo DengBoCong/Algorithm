@@ -8,5 +8,5 @@ def minNumber(nums: List[int]) -> str:
         elif a < b: return -1
         else: return 0
     nums = [str(num) for num in nums]
-    sorted(nums, key=function.cmp_to_key(sort_rule))
+    nums = sorted(nums, key=functools.cmp_to_key(sort_rule))
     return "".join(nums)

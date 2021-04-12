@@ -494,6 +494,8 @@ Algorithm | Still work
 
 9. [LeetCode：翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/ReverseWordsInAString.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/reverse_words_in_a_string.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/ReverseWordsInAString.java)
 
+10. [LeetCode：最大数](https://leetcode-cn.com/problems/largest-number/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/LargestNumber.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/string/largest_number.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/String/LargestNumber.java)
+
 # 搜索
 
 1. [LeetCode：分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | [题目截图](https://github.com/DengBoCong/Algorithm/tree/master/Subject/PalindromePartitioning.png) | [Python解法](https://github.com/DengBoCong/Algorithm/tree/master/Python/search/palindrome_partitioning.py) | [Java解法](https://github.com/DengBoCong/Algorithm/tree/master/Java/src/com/dbc/algorithm/Search/PalindromePartitioning.java)
