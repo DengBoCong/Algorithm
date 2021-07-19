@@ -2,6 +2,8 @@ Algorithm | Still work
 ========================
 记录LeetCode、牛客上各种算法题的解法，尽可能的对每道题实现多种解法，在过程中学习思路以及解题过程。使用Java和Python两种语言编写题解，力求得心应手。(本项目只包含题解代码，如有精彩的题目将同步更新题解说明文章到[CSDN](https://dengbocong.blog.csdn.net/)、[知乎](https://www.zhihu.com/people/dengbocong))
 
+# 注意：项目正在重构中，一下内容为就内容及目录结构
+
 # 项目结构 
 
 + **Java题解**☞ [跳转](https://github.com/DengBoCong/Algorithm/tree/master/Java)
