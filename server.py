@@ -14,5 +14,11 @@ def page_not_found(e):
 with app.app_context():
     g.contextPath = ""
 
+
+@app.route("/<catalog>/<subject>")
+def index(catalog, subject):
+    return render_template("main.html", title=catalog)
+
+
 if __name__ == "__main__":
     app.run()
