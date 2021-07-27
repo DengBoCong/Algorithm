@@ -2,19 +2,86 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>{{title}}</title>
+    <title>[[title]]</title>
     <meta name="renderer" content="webkit">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="format-detection" content="telephone=no">
     <link href="[[ url_for('static', filename='img/favicon.ico') ]]" rel="icon" type="image/x-icon">
-    <link rel="stylesheet" href="[[url_for('static', filename='layui/css/layui.css')]]" type="text/css" media="all">
+    <link rel="stylesheet" href="[[ url_for('static', filename='layui/css/layui.css') ]]" type="text/css" media="all">
     <style></style>
 </head>
 <body>
-海慧寺
+<div class="layui-layout layui-layout-admin">
+    <div class="layui-header" style="background-color: transparent">
+        <div class="layui-logo layui-hide-xs layui-bg-black">
+            <div class="layui-input-inline">
+                <input type="password" name="password" lay-verify="pass" placeholder="请输入密码" autocomplete="off"
+                       class="layui-input">
+            </div>
+        </div>
+        <div style="width: 100%;height: 60px;text-align: center;line-height: 60px">
+            <span style="font-size: 20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            <span style="font-size: 20px;">这是一个题目放假了开始就颠覆了时代峻峰</span>
+            <span class="layui-badge">Hard</span>
+        </div>
+    </div>
+    <div class="layui-side layui-bg-black">
+        <div class="layui-side-scroll">
+            <!-- 左侧导航区域（可配合layui已有的垂直导航） -->
+            <ul class="layui-nav layui-nav-tree" lay-filter="test">
+                <li class="layui-nav-item layui-nav-itemed">
+                    <a class="" href="javascript:;">menu group 1</a>
+                    <dl class="layui-nav-child">
+                        <dd><a href="javascript:;">menu 1</a></dd>
+                        <dd><a href="javascript:;">menu 2</a></dd>
+                        <dd><a href="javascript:;">menu 3</a></dd>
+                        <dd><a href="">the links</a></dd>
+                    </dl>
+                </li>
+                <li class="layui-nav-item">
+                    <a href="javascript:;">menu group 2</a>
+                    <dl class="layui-nav-child">
+                        <dd><a href="javascript:;">list 1</a></dd>
+                        <dd><a href="javascript:;">list 2</a></dd>
+                        <dd><a href="">超链接</a></dd>
+                    </dl>
+                </li>
+                <li class="layui-nav-item"><a href="javascript:;">click menu item</a></li>
+                <li class="layui-nav-item"><a href="">the links</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="layui-body">
+        <!-- 内容主体区域 -->
+        <div>
+            <div class="layui-row">
+                <div class="layui-col-md12" style="text-align: center;color: #999999">
+                    题目来源：LeetCode | <a href="javascript;" style="color: #999999">点击跳转</a>
+                </div>
+            </div>
+            <div class="layui-row layui-col-space6">
+                <div class="layui-col-md6">
+                    <div class="grid-demo grid-demo-bg1" style="background-color: #0C0C0C">1/4</div>
+                </div>
+                <div class="layui-col-md6">
+                    <div class="grid-demo" style="background-color: #0C0C0C">1/4</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--    <div class="layui-footer">-->
+    <!--        &lt;!&ndash; 底部固定区域 &ndash;&gt;-->
+    <!--    </div>-->
+</div>
 
-<script src="[[url_for('static', filename='layui/layui.js')]]"></script>
-
-<script></script>
+<script src="[[ url_for('static', filename='layui/layui.js') ]]"></script>
+<script>
+    layui.use(['element', 'layer'], function () {
+        var element = layui.element
+            , layer = layui.layer
+            , $ = layui.$;
+    });
+</script>
 </body>
 </html>

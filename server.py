@@ -1,9 +1,8 @@
 from flask import Flask, render_template, g
-from flask_cache import Cache
 
 app = Flask(__name__, template_folder="templates", static_folder="static")
-cache = Cache(config={"CACHE_TYPE": "simple"})
-cache.init_app(app)
+app.jinja_env.variable_start_string = "[["
+app.jinja_env.variable_end_string = "]]"
 
 
 @app.errorhandler(404)
@@ -21,4 +20,4 @@ def index(catalog, subject):
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)
