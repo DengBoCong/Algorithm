@@ -30,25 +30,18 @@
         <div class="layui-side-scroll">
             <!-- 左侧导航区域（可配合layui已有的垂直导航） -->
             <ul class="layui-nav layui-nav-tree" lay-filter="test">
-                <li class="layui-nav-item layui-nav-itemed">
-                    <a class="" href="javascript:;">menu group 1</a>
+                {% for key, values in menu.items() %}
+                <li class="layui-nav-item [['layui-nav-itemed' if key is equalto catalog else '']]">
+                    <a class="" href="javascript:;">[[key]]</a>
                     <dl class="layui-nav-child">
-                        <dd><a href="javascript:;">menu 1</a></dd>
-                        <dd><a href="javascript:;">menu 2</a></dd>
-                        <dd><a href="javascript:;">menu 3</a></dd>
-                        <dd><a href="">the links</a></dd>
+                        {% for value in values %}
+                            <dd class="[['layui-this' if value.get('name') is equalto subject else '']]">
+                                <a href=[[link]]>[[value.get("title")]]</a>
+                            </dd>
+                        {% endfor %}
                     </dl>
                 </li>
-                <li class="layui-nav-item">
-                    <a href="javascript:;">menu group 2</a>
-                    <dl class="layui-nav-child">
-                        <dd><a href="javascript:;">list 1</a></dd>
-                        <dd><a href="javascript:;">list 2</a></dd>
-                        <dd><a href="">超链接</a></dd>
-                    </dl>
-                </li>
-                <li class="layui-nav-item"><a href="javascript:;">click menu item</a></li>
-                <li class="layui-nav-item"><a href="">the links</a></li>
+                {% endfor %}
             </ul>
         </div>
     </div>
@@ -57,15 +50,37 @@
         <div>
             <div class="layui-row">
                 <div class="layui-col-md12" style="text-align: center;color: #999999">
-                    题目来源：LeetCode | <a href="javascript;" style="color: #999999">点击跳转</a>
+                    题目来源：LeetCode | <a href="javascript;" style="color: #999999">点击跳转原地址</a>
                 </div>
             </div>
             <div class="layui-row layui-col-space6">
                 <div class="layui-col-md6">
-                    <div class="grid-demo grid-demo-bg1" style="background-color: #0C0C0C">1/4</div>
+                    <div class="layui-tab layui-tab-brief" lay-filter="docDemoTabBrief">
+                        <ul class="layui-tab-title" style="text-align: center;">
+                            <li class="layui-this">题目</li>
+                            <li>题解</li>
+                        </ul>
+                        <div class="layui-tab-content">
+                            <div class="layui-tab-item layui-show" style="padding: 7px;"></div>
+                            <div class="layui-tab-item">内容2</div>
+                        </div>
+                    </div>
                 </div>
                 <div class="layui-col-md6">
-                    <div class="grid-demo" style="background-color: #0C0C0C">1/4</div>
+                    <div class="layui-tab layui-tab-brief" lay-filter="docDemoTabBrief">
+                        <ul class="layui-tab-title" style="text-align: center;">
+                            <li class="layui-this">C++</li>
+                            <li>Java</li>
+                            <li>Python</li>
+                        </ul>
+                        <div class="layui-tab-content">
+                            <div class="layui-tab-item layui-show" style="padding: 7px;">
+                                <pre class="layui-code" lay-title="C++">电风扇水电费</pre>
+                            </div>
+                            <div class="layui-tab-item">内容2</div>
+                            <div class="layui-tab-item">内容3</div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -76,11 +91,14 @@
 </div>
 
 <script src="[[ url_for('static', filename='layui/layui.js') ]]"></script>
+<!--<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>-->
 <script>
-    layui.use(['element', 'layer'], function () {
+    layui.use(['element', 'layer', 'code'], function () {
         var element = layui.element
             , layer = layui.layer
             , $ = layui.$;
+        layui.code();
+        // $("#content").html(marked('# Marked in the browser\n\nRendered by **marked**.'))
     });
 </script>
 </body>
