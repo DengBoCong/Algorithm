@@ -2,28 +2,57 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>[[title]]</title>
+    <title>[[item.get("title")]]</title>
     <meta name="renderer" content="webkit">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="format-detection" content="telephone=no">
     <link href="[[ url_for('static', filename='img/favicon.ico') ]]" rel="icon" type="image/x-icon">
     <link rel="stylesheet" href="[[ url_for('static', filename='layui/css/layui.css') ]]" type="text/css" media="all">
-    <style></style>
+    <link rel="stylesheet" href="[[ url_for('static', filename='editormd/editormd.min.css') ]]" type="text/css"
+          media="all">
+    <style>
+        #markdown-editor li {
+            /* 使md编辑器中的li取消样式none   */
+            list-style: unset;
+        }
+    </style>
 </head>
 <body>
 <div class="layui-layout layui-layout-admin">
-    <div class="layui-header" style="background-color: transparent">
-        <div class="layui-logo layui-hide-xs layui-bg-black">
-            <div class="layui-input-inline">
-                <input type="password" name="password" lay-verify="pass" placeholder="请输入密码" autocomplete="off"
-                       class="layui-input">
+    <div class="layui-header" style="background-color: #FFFFFF">
+        <a href="[[settings.url]]" style="color: #FFFFFF;">
+            <div class="layui-logo layui-hide-xs layui-bg-black">
+                Algorithm
             </div>
-        </div>
+        </a>
         <div style="width: 100%;height: 60px;text-align: center;line-height: 60px">
-            <span style="font-size: 20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-            <span style="font-size: 20px;">这是一个题目放假了开始就颠覆了时代峻峰</span>
-            <span class="layui-badge">Hard</span>
+            <form class="layui-form" style="margin-left: 230px; float: left">
+                <div class="layui-inline">
+                    <div class="layui-input-inline">
+                        <select name="modules" lay-filter="LAY-search" lay-search>
+                            <option value="">搜索</option>
+                            {% for key, values in catalogue.items() %}
+                            <option value="[[values]]">[[key]]</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                </div>
+            </form>
+            <form class="layui-form" style="margin-left: 10px; float: left">
+                <div class="layui-inline">
+                    <div class="layui-input-inline">
+                        <select name="modules" lay-filter="LAY-select">
+                            <option value="">切换菜单视角</option>
+                            <option value="[[settings.url + 'all' + item.get('second_link')]]">全局</option>
+                            <option value="[[settings.url + item.get('origin') + item.get('second_link')]]">[[settings.catalog.get(item.get("origin", "未知"))]]</option>
+                        </select>
+                    </div>
+                </div>
+            </form>
+            <!--            <span style="font-size: 20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>-->
+            <span style="font-size: 20px;margin-left: -350px;">[[item.get("title")]]</span>
+            <span class="layui-badge [[settings.badge_color.get(item.get('degree'))]]">[[item.get("degree")]]</span>
         </div>
     </div>
     <div class="layui-side layui-bg-black">
@@ -34,10 +63,10 @@
                 <li class="layui-nav-item [['layui-nav-itemed' if key is equalto catalog else '']]">
                     <a class="" href="javascript:;">[[key]]</a>
                     <dl class="layui-nav-child">
-                        {% for value in values %}
-                            <dd class="[['layui-this' if value.get('name') is equalto subject else '']]">
-                                <a href=[[link]]>[[value.get("title")]]</a>
-                            </dd>
+                        {% for tmp, value in values.items() %}
+                        <dd class="[['layui-this' if tmp is equalto subject else '']]">
+                            <a href="[[settings.url + view + value.get('second_link')]]">[[value.get("title")]]</a>
+                        </dd>
                         {% endfor %}
                     </dl>
                 </li>
@@ -50,10 +79,11 @@
         <div>
             <div class="layui-row">
                 <div class="layui-col-md12" style="text-align: center;color: #999999">
-                    题目来源：LeetCode | <a href="javascript;" style="color: #999999">点击跳转原地址</a>
+                    题目来源：[[settings.catalog.get(item.get("origin", "未知"))]] | <a href=[[item.get("origin_link")]]
+                                                                           style="color: #999999">点击跳转原地址</a>
                 </div>
             </div>
-            <div class="layui-row layui-col-space6">
+            <div class="layui-row layui-col-space20">
                 <div class="layui-col-md6">
                     <div class="layui-tab layui-tab-brief" lay-filter="docDemoTabBrief">
                         <ul class="layui-tab-title" style="text-align: center;">
@@ -61,24 +91,36 @@
                             <li>题解</li>
                         </ul>
                         <div class="layui-tab-content">
-                            <div class="layui-tab-item layui-show" style="padding: 7px;"></div>
-                            <div class="layui-tab-item">内容2</div>
+                            <div class="layui-tab-item layui-show" style="padding: 7px;">
+                                <div id="markdown-editor1">
+                                    <textarea style="display:none;">[[solve_dict["project"]|file2text]]</textarea>
+                                </div>
+                            </div>
+                            <div class="layui-tab-item" style="padding: 7px;">
+                                <div id="markdown-editor2">
+                                    <textarea style="display:none;">[[solve_dict["solve"]|file2text]]</textarea>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="layui-col-md6">
                     <div class="layui-tab layui-tab-brief" lay-filter="docDemoTabBrief">
                         <ul class="layui-tab-title" style="text-align: center;">
-                            <li class="layui-this">C++</li>
-                            <li>Java</li>
-                            <li>Python</li>
+                            {% for key, values in code_file_dict.items() %}
+                            <li class="[['layui-this' if key is equalto 'C++' else '']]">[[key]]</li>
+                            {% endfor %}
                         </ul>
                         <div class="layui-tab-content">
-                            <div class="layui-tab-item layui-show" style="padding: 7px;">
-                                <pre class="layui-code" lay-title="C++">电风扇水电费</pre>
+                            {% for key, values in code_file_dict.items() %}
+                            <div class="layui-tab-item [['layui-show' if key is equalto 'C++' else '']]"
+                                 style="padding: 7px;">
+                                <div style="text-align: center">
+                                    <button data-content="[[values|file2text]]" data-title="[[key]]" class="layui-btn">切换窗口视角</button>
+                                </div>
+                                <pre class="layui-code" lay-title=[[key]]>[[values|file2text]]</pre>
                             </div>
-                            <div class="layui-tab-item">内容2</div>
-                            <div class="layui-tab-item">内容3</div>
+                            {% endfor %}
                         </div>
                     </div>
                 </div>
@@ -91,14 +133,76 @@
 </div>
 
 <script src="[[ url_for('static', filename='layui/layui.js') ]]"></script>
-<!--<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>-->
+<!--<script core="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>-->
 <script>
-    layui.use(['element', 'layer', 'code'], function () {
+    layui.use(['element', 'layer', 'code', 'form'], function () {
         var element = layui.element
             , layer = layui.layer
-            , $ = layui.$;
+            , $ = layui.$
+            , form = layui.form;
         layui.code();
         // $("#content").html(marked('# Marked in the browser\n\nRendered by **marked**.'))
+        form.on('select(LAY-search)', function (data) {
+            window.location.href = data.value
+        });
+
+        form.on('select(LAY-select)', function (data) {
+            window.location.href = data.value
+        });
+
+        $('.layui-btn').on('click', function () {
+            content = '<pre class="layui-code" lay-title=[[key]]>' + $(this).data('content') + '</pre>';
+            title = $(this).data('title');
+            layer.open({
+                type: 1, //此处以iframe举例
+                title: title,
+                area: ['700px', '600px'],
+                shade: 0,
+                maxmin: true,
+                offset: [
+                    Math.random() * ($(window).height() - 300)
+                    , Math.random() * ($(window).width() - 390)
+                ],
+                content: content,
+                zIndex: layer.zIndex, //重点1
+                success: function (layero, index) {
+                    layer.setTop(layero);
+
+                    layer.escIndex = layer.escIndex || [];
+                    layer.escIndex.unshift(index);
+                    layero.on('mousedown', function () {
+                        var _index = layer.escIndex.indexOf(index);
+                        if (_index !== -1) {
+                            layer.escIndex.splice(_index, 1);
+                        }
+                        layer.escIndex.unshift(index);
+                    });
+                },
+                end: function () {
+                    if (typeof layer.escIndex === 'object') {
+                        layer.escIndex.splice(0, 1);
+                    }
+                }
+            });
+        });
+    })
+</script>
+<script src="[[ url_for('static', filename='jquery-3.6.0.min.js') ]]"></script>
+<script src="[[ url_for('static', filename='editormd/lib/marked.min.js') ]]"></script>
+<script src="[[ url_for('static', filename='editormd/lib/prettify.min.js') ]]"></script>
+<script src="[[ url_for('static', filename='editormd/editormd.js') ]]"></script>
+<script>
+    editormd.markdownToHTML("markdown-editor1", {
+        htmlDecode: "style,script,iframe",  // you can filter tags decode
+        emoji: true,
+        taskList: true,
+        tex: true,  // 默认不解析
+    });
+    editormd.markdownToHTML("markdown-editor2", {
+        htmlDecode: "style,script,iframe",  // you can filter tags decode
+        emoji: true,
+        taskList: true,
+        tex: true,  // 默认不解析
     });
 </script>
 </body>

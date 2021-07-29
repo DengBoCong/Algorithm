@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Algorithm</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="format-detection" content="telephone=no">
+    <link href="[[ url_for('static', filename='img/favicon.ico') ]]" rel="icon" type="image/x-icon">
+    <link rel="stylesheet" href="[[ url_for('static', filename='layui/css/layui.css') ]]" type="text/css" media="all">
+    <link rel="stylesheet" href="[[ url_for('static', filename='editormd/editormd.min.css') ]]" type="text/css" media="all">
+    <style>
+        #markdown-editor li {
+            /* 使md编辑器中的li取消样式none   */
+            list-style: unset;
+        }
+    </style>
+</head>
+<body>
+<div class="layui-layout layui-layout-admin">
+    <div class="layui-header" style="background-color: #FFFFFF">
+        <a href="[[settings.url]]" style="color: #FFFFFF;">
+            <div class="layui-logo layui-hide-xs layui-bg-black">
+                Algorithm
+            </div>
+        </a>
+        <div style="width: 100%;height: 60px;text-align: center;line-height: 60px">
+            <form class="layui-form" style="margin-left: 230px; float: left">
+                <div class="layui-inline">
+                    <div class="layui-input-inline">
+                        <select name="modules" lay-filter="LAY-select" lay-search>
+                            <option value="">搜索</option>
+                            {% for key, values in catalogue.items() %}
+                            <option value="[[values]]">[[key]]</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                </div>
+            </form>
+            <form class="layui-form" style="margin-left: 10px; float: left">
+                <div class="layui-inline">
+                    <div class="layui-input-inline">
+                        <select name="modules" lay-filter="LAY-select">
+                            <option value="">切换菜单视角</option>
+                            <option value="[[settings.url + 'all']]">全局视角</option>
+                            {% for key in origin %}
+                            <option value="[[settings.url + key]]">[[settings.catalog.get(key, "未知")]]</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                </div>
+            </form>
+            <!--            <span style="font-size: 20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>-->
+            <span style="font-size: 30px;margin-left: -150px;">Algorithm</span>
+        </div>
+    </div>
+    <div class="layui-side layui-bg-black">
+        <div class="layui-side-scroll">
+            <!-- 左侧导航区域（可配合layui已有的垂直导航） -->
+            <ul class="layui-nav layui-nav-tree" lay-filter="test">
+                {% for key, values in menu.items() %}
+                <li class="layui-nav-item">
+                    <a class="" href="javascript:;">[[key]]</a>
+                    <dl class="layui-nav-child">
+                        {% for tmp, value in values.items() %}
+                        <dd>
+                            <a href="[[settings.url + view + value.get('second_link')]]">[[value.get("title")]]</a>
+                        </dd>
+                        {% endfor %}
+                    </dl>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    <div class="layui-body" style="padding-left: 150px;padding-right: 150px;">
+        <div id="markdown-editor">
+            <textarea style="display:none;">[[filename|file2text]]</textarea>
+        </div>
+        <div style="height: 100px;"></div>
+        <!-- 内容主体区域 -->
+    </div>
+    <div class="layui-footer" style="text-align: center">
+        <!-- 底部固定区域 -->
+        <span>所有引用内容均为学习使用，如若冒犯或侵权，立即删改</span>
+    </div>
+</div>
+
+<script src="[[ url_for('static', filename='layui/layui.js') ]]"></script>
+<!--<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>-->
+<!--<script src="http://www.jsdelivr.com/#!markdown-it"></script>-->
+<script>
+    layui.use(['element', 'layer', 'code', 'form'], function () {
+        var element = layui.element
+            , layer = layui.layer
+            , $ = layui.$
+            , form = layui.form;
+        layui.code();
+
+        // $("#content").html(marked('# Marked in the browser\n\nRendered by **marked**.'))
+        form.on('select(LAY-select)', function (data) {
+            window.location.href = data.value
+        });
+    });
+</script>
+<!--<script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>-->
+<script src="[[ url_for('static', filename='jquery-3.6.0.min.js') ]]"></script>
+<!-- 解析 flowChart，sequenceDiagram 等需要的js -->
+<!--
+<script src="[[ url_for('static', filename='editormd/lib/raphael.min.js') ]]"></script>
+<script src="[[ url_for('static', filename='editormd/lib/underscore.min.js') ]]"></script>
+<script src="[[ url_for('static', filename='editormd/lib/sequence-diagram.min.js') ]]"></script>
+<script src="[[ url_for('static', filename='editormd/lib/flowchart.min.js') ]]"></script>
+<script src="[[ url_for('static', filename='editormd/lib/jquery.flowchart.min.js') ]]"></script>
+-->
+<script src="[[ url_for('static', filename='editormd/lib/marked.min.js') ]]"></script>
+<script src="[[ url_for('static', filename='editormd/lib/prettify.min.js') ]]"></script>
+<script src="[[ url_for('static', filename='editormd/editormd.js') ]]"></script>
+<script>
+    let mkEditor
+    mkEditor = editormd.markdownToHTML("markdown-editor", {
+        htmlDecode: "style,script,iframe",  // you can filter tags decode
+        emoji: true,
+        taskList: true,
+        tex: true,  // 默认不解析
+    });
+</script>
+</body>
+</html>
