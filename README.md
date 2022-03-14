@@ -95,3 +95,5 @@ $=link=$: 题目原题链接
 
 22.[最多可达成的换楼请求数目](https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximumNumberOfAchievableTransferRequests/MaximumNumberOfAchievableTransferRequests.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximumNumberOfAchievableTransferRequests/MaximumNumberOfAchievableTransferRequests.py)）：题目难度(困难)，题目类型(位运算_数组_回溯_枚举)
 
+23.[两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.py)）：题目难度(简单)，题目类型(数组_哈希表_字符串)
+
