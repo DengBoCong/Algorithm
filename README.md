@@ -97,3 +97,13 @@ $=link=$: 题目原题链接
 
 23.[两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.py)）：题目难度(简单)，题目类型(数组_哈希表_字符串)
 
+24.[相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.py)）：题目难度(简单)，题目类型(哈希表_链表_双指针)
+
+25.[统计按位或能得到最大值的子集数目](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CountNumberOfMaximumBitwiseOrSubsets/CountNumberOfMaximumBitwiseOrSubsets.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CountNumberOfMaximumBitwiseOrSubsets/CountNumberOfMaximumBitwiseOrSubsets.py)）：题目难度(中等)，题目类型(位运算_数组_回溯)
+
+26.[最优除法](https://leetcode-cn.com/problems/optimal-division/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/OptimalDivision/OptimalDivision.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/OptimalDivision/OptimalDivision.py)）：题目难度(中等)，题目类型(数组_数学_动态规划)
+
+27.[增量元素之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximumDifferenceBetweenIncreasingElements/MaximumDifferenceBetweenIncreasingElements.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximumDifferenceBetweenIncreasingElements/MaximumDifferenceBetweenIncreasingElements.py)）：题目难度(简单)，题目类型(数组)
+
+28.[复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ComplexNumberMultiplication/ComplexNumberMultiplication.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ComplexNumberMultiplication/ComplexNumberMultiplication.py)）：题目难度(中等)，题目类型(数学_字符串_模拟)
+
