@@ -107,3 +107,11 @@ $=link=$: 题目原题链接
 
 28.[复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ComplexNumberMultiplication/ComplexNumberMultiplication.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ComplexNumberMultiplication/ComplexNumberMultiplication.py)）：题目难度(中等)，题目类型(数学_字符串_模拟)
 
+29.[全 O(1) 的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/AllOoneDataStructure/AllOoneDataStructure.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/AllOoneDataStructure/AllOoneDataStructure.py)）：题目难度(困难)，题目类型(设计_哈希表_链表_双向链表)
+
+30.[球会落何处](https://leetcode-cn.com/problems/where-will-the-ball-fall/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/WhereWillTheBallFall/WhereWillTheBallFall.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/WhereWillTheBallFall/WhereWillTheBallFall.py)）：题目难度(中等)，题目类型(深度优先搜索_数组_动态规划_矩阵_模拟)
+
+31.[仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReverseOnlyLetters/ReverseOnlyLetters.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReverseOnlyLetters/ReverseOnlyLetters.py)）：题目难度(简单)，题目类型(双指针_字符串)
+
+32.[计数质数](https://leetcode-cn.com/problems/count-primes/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CountPrimes/CountPrimes.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CountPrimes/CountPrimes.py)）：题目难度(中等)，题目类型(数组_数学_枚举_数论)
+
