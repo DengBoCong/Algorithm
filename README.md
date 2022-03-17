@@ -115,3 +115,9 @@ $=link=$: 题目原题链接
 
 32.[计数质数](https://leetcode-cn.com/problems/count-primes/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CountPrimes/CountPrimes.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CountPrimes/CountPrimes.py)）：题目难度(中等)，题目类型(数组_数学_枚举_数论)
 
+33.[词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestWordInDictionary/LongestWordInDictionary.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestWordInDictionary/LongestWordInDictionary.py)）：题目难度(简单)，题目类型(字典树_数组_哈希表_字符串_排序)
+
+34.[通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestWordInDictionaryThroughDeleting/LongestWordInDictionaryThroughDeleting.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestWordInDictionaryThroughDeleting/LongestWordInDictionaryThroughDeleting.py)）：题目难度(中等)，题目类型(数组_双指针_字符串_排序)
+
+35.[实现一个魔法字典](https://leetcode-cn.com/problems/implement-magic-dictionary/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ImplementMagicDictionary/ImplementMagicDictionary.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ImplementMagicDictionary/ImplementMagicDictionary.py)）：题目难度(中等)，题目类型(设计_字典树_哈希表_字符串)
+
