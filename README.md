@@ -121,3 +121,15 @@ $=link=$: 题目原题链接
 
 35.[实现一个魔法字典](https://leetcode-cn.com/problems/implement-magic-dictionary/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ImplementMagicDictionary/ImplementMagicDictionary.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ImplementMagicDictionary/ImplementMagicDictionary.py)）：题目难度(中等)，题目类型(设计_字典树_哈希表_字符串)
 
+36.[简易银行系统](https://leetcode-cn.com/problems/simple-bank-system/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SimpleBankSystem/SimpleBankSystem.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SimpleBankSystem/SimpleBankSystem.py)）：题目难度(中等)，题目类型(设计_数组_哈希表_模拟)
+
+37.[学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumDifferenceBetweenHighestAndLowestOfKScores/MinimumDifferenceBetweenHighestAndLowestOfKScores.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumDifferenceBetweenHighestAndLowestOfKScores/MinimumDifferenceBetweenHighestAndLowestOfKScores.py)）：题目难度(简单)，题目类型(数组_排序_滑动窗口)
+
+38.[根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ConstructStringFromBinaryTree/ConstructStringFromBinaryTree.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ConstructStringFromBinaryTree/ConstructStringFromBinaryTree.py)）：题目难度(简单)，题目类型(树_深度优先搜索_字符串_二叉树)
+
+39.[寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindDuplicateSubtrees/FindDuplicateSubtrees.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindDuplicateSubtrees/FindDuplicateSubtrees.py)）：题目难度(中等)，题目类型(树_深度优先搜索_哈希表_二叉树)
+
+40.[最长的美好子字符串](https://leetcode-cn.com/problems/longest-nice-substring/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestNiceSubstring/LongestNiceSubstring.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestNiceSubstring/LongestNiceSubstring.py)）：题目难度(简单)，题目类型(位运算_哈希表_字符串_滑动窗口)
+
+41.[至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ZhiShaoYouKgeZhongFuZiFuDeZuiCO6ww/ZhiShaoYouKgeZhongFuZiFuDeZuiCO6ww.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ZhiShaoYouKgeZhongFuZiFuDeZuiCO6ww/ZhiShaoYouKgeZhongFuZiFuDeZuiCO6ww.py)）：题目难度(中等)，题目类型(哈希表_字符串_分治_滑动窗口)
+
