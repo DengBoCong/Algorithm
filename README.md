@@ -133,3 +133,7 @@ $=link=$: 题目原题链接
 
 41.[至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ZhiShaoYouKgeZhongFuZiFuDeZuiCO6ww/ZhiShaoYouKgeZhongFuZiFuDeZuiCO6ww.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ZhiShaoYouKgeZhongFuZiFuDeZuiCO6ww/ZhiShaoYouKgeZhongFuZiFuDeZuiCO6ww.py)）：题目难度(中等)，题目类型(哈希表_字符串_分治_滑动窗口)
 
+42.[网络空闲的时刻](https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/TheTimeWhenTheNetworkBecomesIdle/TheTimeWhenTheNetworkBecomesIdle.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/TheTimeWhenTheNetworkBecomesIdle/TheTimeWhenTheNetworkBecomesIdle.py)）：题目难度(中等)，题目类型(广度优先搜索_图_数组)
+
+43.[切棍子的最小成本](https://leetcode-cn.com/problems/minimum-cost-to-cut-a-stick/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumCostToCutAStick/MinimumCostToCutAStick.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumCostToCutAStick/MinimumCostToCutAStick.py)）：题目难度(困难)，题目类型(数组_动态规划)
+
