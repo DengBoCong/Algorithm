@@ -137,3 +137,13 @@ $=link=$: 题目原题链接
 
 43.[切棍子的最小成本](https://leetcode-cn.com/problems/minimum-cost-to-cut-a-stick/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumCostToCutAStick/MinimumCostToCutAStick.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumCostToCutAStick/MinimumCostToCutAStick.py)）：题目难度(困难)，题目类型(数组_动态规划)
 
+44.[两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/TwoSumIvInputIsABst/TwoSumIvInputIsABst.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/TwoSumIvInputIsABst/TwoSumIvInputIsABst.py)）：题目难度(简单)，题目类型(树_深度优先搜索_广度优先搜索_二叉搜索树_哈希表_双指针_二叉树)
+
+45.[两数之和](https://leetcode-cn.com/problems/two-sum/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/TwoSum/TwoSum.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/TwoSum/TwoSum.py)）：题目难度(简单)，题目类型(数组_哈希表)
+
+46.[如果相邻两个颜色均相同则删除当前颜色](https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveColoredPiecesIfBothNeighborsAreTheSameColor/RemoveColoredPiecesIfBothNeighborsAreTheSameColor.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveColoredPiecesIfBothNeighborsAreTheSameColor/RemoveColoredPiecesIfBothNeighborsAreTheSameColor.py)）：题目难度(中等)，题目类型(贪心_数学_字符串_博弈)
+
+46.[字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/GreatestCommonDivisorOfStrings/GreatestCommonDivisorOfStrings.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/GreatestCommonDivisorOfStrings/GreatestCommonDivisorOfStrings.py)）：题目难度(简单)，题目类型(数学_字符串)
+
+47.[两数相加](https://leetcode-cn.com/problems/add-two-numbers/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/AddTwoNumbers/AddTwoNumbers.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/AddTwoNumbers/AddTwoNumbers.py)）：题目难度(中等)，题目类型(递归_链表_数学)
+
