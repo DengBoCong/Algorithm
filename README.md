@@ -147,3 +147,9 @@ $=link=$: 题目原题链接
 
 47.[两数相加](https://leetcode-cn.com/problems/add-two-numbers/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/AddTwoNumbers/AddTwoNumbers.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/AddTwoNumbers/AddTwoNumbers.py)）：题目难度(中等)，题目类型(递归_链表_数学)
 
+48.[字典序的第K小数字](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/KThSmallestInLexicographicalOrder/KThSmallestInLexicographicalOrder.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/KThSmallestInLexicographicalOrder/KThSmallestInLexicographicalOrder.py)）：题目难度(困难)，题目类型(字典树)
+
+49.[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReverseLinkedList/ReverseLinkedList.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReverseLinkedList/ReverseLinkedList.py)）：题目难度(简单)，题目类型(递归_链表)
+
+50.[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.py)）：题目难度(中等)，题目类型(哈希表_字符串_滑动窗口)
+
