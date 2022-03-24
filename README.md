@@ -153,3 +153,7 @@ $=link=$: 题目原题链接
 
 50.[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.py)）：题目难度(中等)，题目类型(哈希表_字符串_滑动窗口)
 
+51.[图片平滑器](https://leetcode-cn.com/problems/image-smoother/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ImageSmoother/ImageSmoother.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ImageSmoother/ImageSmoother.py)）：题目难度(简单)，题目类型(数组_矩阵)
+
+52.[LRU 缓存](https://leetcode-cn.com/problems/lru-cache/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LruCache/LruCache.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LruCache/LruCache.py)）：题目难度(中等)，题目类型(设计_哈希表_链表_双向链表)
+
