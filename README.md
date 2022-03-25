@@ -157,3 +157,11 @@ $=link=$: 题目原题链接
 
 52.[LRU 缓存](https://leetcode-cn.com/problems/lru-cache/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LruCache/LruCache.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LruCache/LruCache.py)）：题目难度(中等)，题目类型(设计_哈希表_链表_双向链表)
 
+53.[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/KthLargestElementInAnArray/KthLargestElementInAnArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/KthLargestElementInAnArray/KthLargestElementInAnArray.py)）：题目难度(中等)，题目类型(数组_分治_快速选择_排序_堆（优先队列）)
+
+54.[阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FactorialTrailingZeroes/FactorialTrailingZeroes.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FactorialTrailingZeroes/FactorialTrailingZeroes.py)）：题目难度(中等)，题目类型(数学)
+
+55.[K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReverseNodesInKGroup/ReverseNodesInKGroup.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReverseNodesInKGroup/ReverseNodesInKGroup.py)）：题目难度(困难)，题目类型(递归_链表)
+
+56.[三数之和](https://leetcode-cn.com/problems/3sum/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/3Sum/3Sum.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/3Sum/3Sum.py)）：题目难度(中等)，题目类型(数组_双指针_排序)
+
