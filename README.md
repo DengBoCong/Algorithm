@@ -165,3 +165,7 @@ $=link=$: 题目原题链接
 
 56.[三数之和](https://leetcode-cn.com/problems/3sum/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/3Sum/3Sum.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/3Sum/3Sum.py)）：题目难度(中等)，题目类型(数组_双指针_排序)
 
+57.[棒球比赛](https://leetcode-cn.com/problems/baseball-game/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BaseballGame/BaseballGame.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BaseballGame/BaseballGame.py)）：题目难度(简单)，题目类型(栈_数组_模拟)
+
+58.[排序数组](https://leetcode-cn.com/problems/sort-an-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SortAnArray/SortAnArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SortAnArray/SortAnArray.py)）：题目难度(中等)，题目类型(数组_分治_桶排序_计数排序_快速排序_堆排序_归并排序)
+
