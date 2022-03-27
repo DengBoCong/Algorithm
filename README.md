@@ -169,3 +169,21 @@ $=link=$: 题目原题链接
 
 58.[排序数组](https://leetcode-cn.com/problems/sort-an-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SortAnArray/SortAnArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SortAnArray/SortAnArray.py)）：题目难度(中等)，题目类型(数组_分治_桶排序_计数排序_快速排序_堆排序_归并排序)
 
+59.[找出缺失的观测数据](https://leetcode-cn.com/problems/find-missing-observations/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindMissingObservations/FindMissingObservations.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindMissingObservations/FindMissingObservations.py)）：题目难度(中等)，题目类型(数组_数学_模拟)
+
+60.[最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximumSubarray/MaximumSubarray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximumSubarray/MaximumSubarray.py)）：题目难度(简单)，题目类型(数组_分治_动态规划)
+
+61.[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MergeTwoSortedLists/MergeTwoSortedLists.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MergeTwoSortedLists/MergeTwoSortedLists.py)）：题目难度(简单)，题目类型(递归_链表)
+
+62.[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.py)）：题目难度(中等)，题目类型(数_广度优先搜索_二叉树)
+
+63.[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LinkedListCycle/LinkedListCycle.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LinkedListCycle/LinkedListCycle.py)）：题目难度(简单)，题目类型(哈希表_链表_双指针)
+
+64.[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.py)）：题目难度(简单)，题目类型(数组_动态规划)
+
+65.[二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.py)）：题目难度(中等)，题目类型(数_广度优先搜索_二叉树)
+
+66.[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MergeSortedArray/MergeSortedArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MergeSortedArray/MergeSortedArray.py)）：题目难度(简单)，题目类型(数组_双指针_排序)
+
+67.[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ValidParentheses/ValidParentheses.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ValidParentheses/ValidParentheses.py)）：题目难度(简单)，题目类型(栈_字符串)
+
