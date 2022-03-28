@@ -187,3 +187,11 @@ $=link=$: 题目原题链接
 
 67.[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ValidParentheses/ValidParentheses.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ValidParentheses/ValidParentheses.py)）：题目难度(简单)，题目类型(栈_字符串)
 
+68.[交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BinaryNumberWithAlternatingBits/BinaryNumberWithAlternatingBits.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BinaryNumberWithAlternatingBits/BinaryNumberWithAlternatingBits.py)）：题目难度(简单)，题目类型(位运算)
+
+69.[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LowestCommonAncestorOfABinaryTree/LowestCommonAncestorOfABinaryTree.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LowestCommonAncestorOfABinaryTree/LowestCommonAncestorOfABinaryTree.py)）：题目难度(中等)，题目类型(数_深度优先搜索_二叉树)
+
+70.[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestPalindromicSubstring/LongestPalindromicSubstring.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestPalindromicSubstring/LongestPalindromicSubstring.py)）：题目难度(中等)，题目类型(字符串_动态规划)
+
+71.[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SearchInRotatedSortedArray/SearchInRotatedSortedArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SearchInRotatedSortedArray/SearchInRotatedSortedArray.py)）：题目难度(中等)，题目类型(数组_二分查找)
+
