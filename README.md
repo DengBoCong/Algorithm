@@ -195,3 +195,11 @@ $=link=$: 题目原题链接
 
 71.[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SearchInRotatedSortedArray/SearchInRotatedSortedArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SearchInRotatedSortedArray/SearchInRotatedSortedArray.py)）：题目难度(中等)，题目类型(数组_二分查找)
 
+72.[考试的最大困扰度](https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximizeTheConfusionOfAnExam/MaximizeTheConfusionOfAnExam.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximizeTheConfusionOfAnExam/MaximizeTheConfusionOfAnExam.py)）：题目难度(中等)，题目类型(字符串_二分查找_前缀和_滑动窗口)
+
+73.[岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/NumberOfIslands/NumberOfIslands.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/NumberOfIslands/NumberOfIslands.py)）：题目难度(中等)，题目类型(深度优先搜索_广度优先搜索_并查集_数组_矩阵)
+
+74.[全排列](https://leetcode-cn.com/problems/permutations/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/Permutations/Permutations.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/Permutations/Permutations.py)）：题目难度(中等)，题目类型(数组_回溯)
+
+75.[字符串相加](https://leetcode-cn.com/problems/add-strings/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/AddStrings/AddStrings.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/AddStrings/AddStrings.py)）：题目难度(简单)，题目类型(数学_字符串_模拟)
+
