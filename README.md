@@ -203,3 +203,23 @@ $=link=$: 题目原题链接
 
 75.[字符串相加](https://leetcode-cn.com/problems/add-strings/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/AddStrings/AddStrings.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/AddStrings/AddStrings.py)）：题目难度(简单)，题目类型(数学_字符串_模拟)
 
+76.[找到处理最多请求的服务器](https://leetcode-cn.com/problems/find-servers-that-handled-most-number-of-requests/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindServersThatHandledMostNumberOfRequests/FindServersThatHandledMostNumberOfRequests.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindServersThatHandledMostNumberOfRequests/FindServersThatHandledMostNumberOfRequests.py)）：题目难度(困难)，题目类型(贪心_数组_有序集合_堆（优先队列）)
+
+77.[合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MergeKSortedLists/MergeKSortedLists.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MergeKSortedLists/MergeKSortedLists.py)）：题目难度(困难)，题目类型(链表_分治_堆（优先队列）_归并排序)
+
+78.[自除数](https://leetcode-cn.com/problems/self-dividing-numbers/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SelfDividingNumbers/SelfDividingNumbers.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SelfDividingNumbers/SelfDividingNumbers.py)）：题目难度(简单)，题目类型(数学)
+
+79.[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReverseLinkedListII/ReverseLinkedListII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReverseLinkedListII/ReverseLinkedListII.py)）：题目难度(中等)，题目类型(链表)
+
+80.[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SpiralMatrix/SpiralMatrix.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SpiralMatrix/SpiralMatrix.py)）：题目难度(中等)，题目类型(数学_矩阵_模拟)
+
+81.[二倍数对数组](https://leetcode-cn.com/problems/array-of-doubled-pairs/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ArrayOfDoubledPairs/ArrayOfDoubledPairs.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ArrayOfDoubledPairs/ArrayOfDoubledPairs.py)）：题目难度(中等)，题目类型(贪心_数组_哈希表_排序)
+
+82.[最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestIncreasingSubsequence/LongestIncreasingSubsequence.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestIncreasingSubsequence/LongestIncreasingSubsequence.py)）：题目难度(中等)，题目类型(数组_二分查找_动态规划)
+
+83.[接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/TrappingRainWater/TrappingRainWater.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/TrappingRainWater/TrappingRainWater.py)）：题目难度(困难)，题目类型(栈_数组_双指针_动态规划_单调栈)
+
+84.[二分查找](https://leetcode-cn.com/problems/binary-search/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BinarySearch/BinarySearch.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BinarySearch/BinarySearch.py)）：题目难度(简单)，题目类型(数组_二分查找)
+
+85.[重排链表](https://leetcode-cn.com/problems/reorder-list/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReorderList/ReorderList.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReorderList/ReorderList.py)）：题目难度(中等)，题目类型(栈_递归_链表_双指针)
+
