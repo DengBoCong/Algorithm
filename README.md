@@ -223,3 +223,13 @@ $=link=$: 题目原题链接
 
 85.[重排链表](https://leetcode-cn.com/problems/reorder-list/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReorderList/ReorderList.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReorderList/ReorderList.py)）：题目难度(中等)，题目类型(栈_递归_链表_双指针)
 
+86.[强密码检验器](https://leetcode-cn.com/problems/strong-password-checker/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/StrongPasswordChecker/StrongPasswordChecker.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/StrongPasswordChecker/StrongPasswordChecker.py)）：题目难度(困难)，题目类型(贪心_字符串_堆（优先队列）)
+
+87.[用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ImplementQueueUsingStacks/ImplementQueueUsingStacks.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ImplementQueueUsingStacks/ImplementQueueUsingStacks.py)）：题目难度(简单)，题目类型(栈_设计_队列)
+
+88.[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.py)）：题目难度(困难)，题目类型(树_深度优先搜索_动态规划_二叉树)
+
+89.[二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BinaryTreeRightSideView/BinaryTreeRightSideView.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BinaryTreeRightSideView/BinaryTreeRightSideView.py)）：题目难度(中等)，题目类型(树_深度优先搜索_广度优先搜索_二叉树)
+
+90.[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ClimbingStairs/ClimbingStairs.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ClimbingStairs/ClimbingStairs.py)）：题目难度(简单)，题目类型(记忆化搜索_数学_动态规划)
+
