@@ -233,3 +233,7 @@ $=link=$: 题目原题链接
 
 90.[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ClimbingStairs/ClimbingStairs.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ClimbingStairs/ClimbingStairs.py)）：题目难度(简单)，题目类型(记忆化搜索_数学_动态规划)
 
+91.[最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumHeightTrees/MinimumHeightTrees.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumHeightTrees/MinimumHeightTrees.py)）：题目难度(中等)，题目类型(深度优先搜索_广度优先搜索_图_拓扑排序)
+
+92.[旋转字符串](https://leetcode-cn.com/problems/rotate-string/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RotateString/RotateString.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RotateString/RotateString.py)）：题目难度(简单)，题目类型(字符串_字符串匹配)
+
