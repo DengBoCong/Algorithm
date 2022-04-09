@@ -237,3 +237,15 @@ $=link=$: 题目原题链接
 
 92.[旋转字符串](https://leetcode-cn.com/problems/rotate-string/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RotateString/RotateString.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RotateString/RotateString.py)）：题目难度(简单)，题目类型(字符串_字符串匹配)
 
+93.[到达终点](https://leetcode-cn.com/problems/reaching-points/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReachingPoints/ReachingPoints.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReachingPoints/ReachingPoints.py)）：题目难度(困难)，题目类型(数学)
+
+93.[搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SearchInRotatedSortedArrayII/SearchInRotatedSortedArrayII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SearchInRotatedSortedArrayII/SearchInRotatedSortedArrayII.py)）：题目难度(中等)，题目类型(数组_二分查找)
+
+94.[寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.py)）：题目难度(中等)，题目类型(数组_二分查找)
+
+95.[删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList.py)）：题目难度(中等)，题目类型(链表_双指针)
+
+96.[x 的平方根](https://leetcode-cn.com/problems/sqrtx/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/Sqrtx/Sqrtx.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/Sqrtx/Sqrtx.py)）：题目难度(简单)，题目类型(数学_二分查找)
+
+97.[删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.py)）：题目难度(中等)，题目类型(链表_双指针)
+
