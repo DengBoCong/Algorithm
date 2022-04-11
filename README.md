@@ -257,3 +257,9 @@ $=link=$: 题目原题链接
 
 101.[寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.py)）：题目难度(困难)，题目类型(数组_二分查找_分治)
 
+102.[统计各位数字都不同的数字个数](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CountNumbersWithUniqueDigits/CountNumbersWithUniqueDigits.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CountNumbersWithUniqueDigits/CountNumbersWithUniqueDigits.py)）：题目难度(中等)，题目类型(数学_动态规划_回溯)
+
+103.[字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/StringToIntegerAtoi/StringToIntegerAtoi.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/StringToIntegerAtoi/StringToIntegerAtoi.py)）：题目难度(中等)，题目类型(字符串)
+
+104.[排序链表](https://leetcode-cn.com/problems/sort-list/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SortList/SortList.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SortList/SortList.py)）：题目难度(中等)，题目类型(链表_双指针_分治_排序_归并排序)
+
