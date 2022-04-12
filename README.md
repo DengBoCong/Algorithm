@@ -263,3 +263,11 @@ $=link=$: 题目原题链接
 
 104.[排序链表](https://leetcode-cn.com/problems/sort-list/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SortList/SortList.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SortList/SortList.py)）：题目难度(中等)，题目类型(链表_双指针_分治_排序_归并排序)
 
+105.[写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/NumberOfLinesToWriteString/NumberOfLinesToWriteString.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/NumberOfLinesToWriteString/NumberOfLinesToWriteString.py)）：题目难度(简单)，题目类型(数组_字符串)
+
+106.[链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LianBiaoZhongDaoShuDiKgeJieDianLcof/LianBiaoZhongDaoShuDiKgeJieDianLcof.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LianBiaoZhongDaoShuDiKgeJieDianLcof/LianBiaoZhongDaoShuDiKgeJieDianLcof.py)）：题目难度(简单)，题目类型(链表_双指针)
+
+107.[最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestCommonSubsequence/LongestCommonSubsequence.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestCommonSubsequence/LongestCommonSubsequence.py)）：题目难度(中等)，题目类型(字符串_动态规划)
+
+108.[括号生成](https://leetcode-cn.com/problems/generate-parentheses/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/GenerateParentheses/GenerateParentheses.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/GenerateParentheses/GenerateParentheses.py)）：题目难度(中等)，题目类型(字符串_动态规划_回溯)
+
