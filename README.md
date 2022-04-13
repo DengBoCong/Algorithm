@@ -271,3 +271,7 @@ $=link=$: 题目原题链接
 
 108.[括号生成](https://leetcode-cn.com/problems/generate-parentheses/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/GenerateParentheses/GenerateParentheses.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/GenerateParentheses/GenerateParentheses.py)）：题目难度(中等)，题目类型(字符串_动态规划_回溯)
 
+109.[O(1) 时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/InsertDeleteGetrandomO1/InsertDeleteGetrandomO1.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/InsertDeleteGetrandomO1/InsertDeleteGetrandomO1.py)）：题目难度(中等)，题目类型(设计_数组_哈希表_数学_随机化)
+
+110.[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FirstMissingPositive/FirstMissingPositive.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FirstMissingPositive/FirstMissingPositive.py)）：题目难度(困难)，题目类型(数组_哈希表)
+
