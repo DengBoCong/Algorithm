@@ -275,3 +275,13 @@ $=link=$: 题目原题链接
 
 110.[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FirstMissingPositive/FirstMissingPositive.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FirstMissingPositive/FirstMissingPositive.py)）：题目难度(困难)，题目类型(数组_哈希表)
 
+111.[下一个排列](https://leetcode-cn.com/problems/next-permutation/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/NextPermutation/NextPermutation.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/NextPermutation/NextPermutation.py)）：题目难度(中等)，题目类型(数组_双指针)
+
+112.[最富有客户的资产总量](https://leetcode-cn.com/problems/richest-customer-wealth/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RichestCustomerWealth/RichestCustomerWealth.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RichestCustomerWealth/RichestCustomerWealth.py)）：题目难度(简单)，题目类型(数组_矩阵)
+
+113.[颠倒字符串中的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReverseWordsInAString/ReverseWordsInAString.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReverseWordsInAString/ReverseWordsInAString.py)）：题目难度(中等)，题目类型(双指针_字符串)
+
+114.[复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RestoreIpAddresses/RestoreIpAddresses.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RestoreIpAddresses/RestoreIpAddresses.py)）：题目难度(中等)，题目类型(字符串_回溯)
+
+115.[从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.py)）：题目难度(中等)，题目类型(树_数组_哈希表_分治_二叉树)
+
