@@ -295,3 +295,13 @@ $=link=$: 题目原题链接
 
 120.[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.py)）：题目难度(简单)，题目类型(树_深度优先搜索_广度优先搜索_二叉树)
 
+121.[最常见的单词](https://leetcode-cn.com/problems/most-common-word/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MostCommonWord/MostCommonWord.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MostCommonWord/MostCommonWord.py)）：题目难度(简单)，题目类型(哈希表_字符串_计数)
+
+122.[求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SumRootToLeafNumbers/SumRootToLeafNumbers.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SumRootToLeafNumbers/SumRootToLeafNumbers.py)）：题目难度(中等)，题目类型(树_深度优先搜索_二叉树)
+
+123.[最小栈](https://leetcode-cn.com/problems/min-stack/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinStack/MinStack.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinStack/MinStack.py)）：题目难度(简单)，题目类型(栈_设计)
+
+124.[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DiameterOfBinaryTree/DiameterOfBinaryTree.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DiameterOfBinaryTree/DiameterOfBinaryTree.py)）：题目难度(简单)，题目类型(树_深度优先搜索_二叉树)
+
+125.[最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestValidParentheses/LongestValidParentheses.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestValidParentheses/LongestValidParentheses.py)）：题目难度(困难)，题目类型(栈_字符串_动态规划)
+
