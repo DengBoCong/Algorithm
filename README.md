@@ -305,3 +305,13 @@ $=link=$: 题目原题链接
 
 125.[最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestValidParentheses/LongestValidParentheses.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestValidParentheses/LongestValidParentheses.py)）：题目难度(困难)，题目类型(栈_字符串_动态规划)
 
+126.[字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LexicographicalNumbers/LexicographicalNumbers.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LexicographicalNumbers/LexicographicalNumbers.py)）：题目难度(中等)，题目类型(深度优先搜索_字典树)
+
+127.[验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ValidateBinarySearchTree/ValidateBinarySearchTree.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ValidateBinarySearchTree/ValidateBinarySearchTree.py)）：题目难度(中等)，题目类型(树_深度优先搜索_二叉搜索树_二叉树)
+
+128.[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ShortestDistanceToACharacter/ShortestDistanceToACharacter.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ShortestDistanceToACharacter/ShortestDistanceToACharacter.py)）：题目难度(简单)，题目类型(数组_双指针_字符串)
+
+129.[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PathSumII/PathSumII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PathSumII/PathSumII.py)）：题目难度(中等)，题目类型(树_深度优先搜索_回溯_二叉树)
+
+130.[对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SymmetricTree/SymmetricTree.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SymmetricTree/SymmetricTree.py)）：题目难度(简单)，题目类型(树_深度优先搜索_广度优先搜索_二叉树)
+
