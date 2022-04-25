@@ -315,3 +315,7 @@ $=link=$: 题目原题链接
 
 130.[对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SymmetricTree/SymmetricTree.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SymmetricTree/SymmetricTree.py)）：题目难度(简单)，题目类型(树_深度优先搜索_广度优先搜索_二叉树)
 
+131.[文件的最长绝对路径](https://leetcode-cn.com/problems/longest-absolute-file-path/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestAbsoluteFilePath/LongestAbsoluteFilePath.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestAbsoluteFilePath/LongestAbsoluteFilePath.py)）：题目难度(中等)，题目类型(栈_深度优先搜索_字符串)
+
+132.[随机数索引](https://leetcode-cn.com/problems/random-pick-index/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RandomPickIndex/RandomPickIndex.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RandomPickIndex/RandomPickIndex.py)）：题目难度(中等)，题目类型(水塘抽样_哈希表_数学_随机化)
+
