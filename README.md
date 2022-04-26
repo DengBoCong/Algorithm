@@ -319,3 +319,9 @@ $=link=$: 题目原题链接
 
 132.[随机数索引](https://leetcode-cn.com/problems/random-pick-index/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RandomPickIndex/RandomPickIndex.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RandomPickIndex/RandomPickIndex.py)）：题目难度(中等)，题目类型(水塘抽样_哈希表_数学_随机化)
 
+133.[三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ProjectionAreaOf3dShapes/ProjectionAreaOf3dShapes.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ProjectionAreaOf3dShapes/ProjectionAreaOf3dShapes.py)）：题目难度(简单)，题目类型(几何_数组_数学_矩阵)
+
+134.[比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CompareVersionNumbers/CompareVersionNumbers.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CompareVersionNumbers/CompareVersionNumbers.py)）：题目难度(中等)，题目类型(双指针_字符串)
+
+135.[子集](https://leetcode-cn.com/problems/subsets/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/Subsets/Subsets.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/Subsets/Subsets.py)）：题目难度(中等)，题目类型(位运算_数组_回溯)
+
