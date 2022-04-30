@@ -325,3 +325,15 @@ $=link=$: 题目原题链接
 
 135.[子集](https://leetcode-cn.com/problems/subsets/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/Subsets/Subsets.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/Subsets/Subsets.py)）：题目难度(中等)，题目类型(位运算_数组_回溯)
 
+136.[太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PacificAtlanticWaterFlow/PacificAtlanticWaterFlow.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PacificAtlanticWaterFlow/PacificAtlanticWaterFlow.py)）：题目难度(中等)，题目类型(深度优先搜索_广度优先搜索_数组_矩阵)
+
+137.[按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SortArrayByParity/SortArrayByParity.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SortArrayByParity/SortArrayByParity.py)）：题目难度(简单)，题目类型(数组_双指针_排序)
+
+138.[子集 II](https://leetcode-cn.com/problems/subsets-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SubsetsII/SubsetsII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SubsetsII/SubsetsII.py)）：题目难度(中等)，题目类型(位运算_数组_回溯)
+
+139.[最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SmallestRangeI/SmallestRangeI.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SmallestRangeI/SmallestRangeI.py)）：题目难度(简单)，题目类型(数组_数学)
+
+140.[用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ImplementRand10UsingRand7/ImplementRand10UsingRand7.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ImplementRand10UsingRand7/ImplementRand10UsingRand7.py)）：题目难度(中等)，题目类型(数学_拒绝采样_概率与统计_随机化)
+
+141.[字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MultiplyStrings/MultiplyStrings.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MultiplyStrings/MultiplyStrings.py)）：题目难度(中等)，题目类型(数学_字符串_模拟)
+
