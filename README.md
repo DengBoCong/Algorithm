@@ -337,3 +337,11 @@ $=link=$: 题目原题链接
 
 141.[字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MultiplyStrings/MultiplyStrings.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MultiplyStrings/MultiplyStrings.py)）：题目难度(中等)，题目类型(数学_字符串_模拟)
 
+142.[两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/AllElementsInTwoBinarySearchTrees/AllElementsInTwoBinarySearchTrees.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/AllElementsInTwoBinarySearchTrees/AllElementsInTwoBinarySearchTrees.py)）：题目难度(中等)，题目类型(数_深度优先搜索_二叉搜索树_二叉树_排序)
+
+143.[零钱兑换](https://leetcode-cn.com/problems/coin-change/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CoinChange/CoinChange.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CoinChange/CoinChange.py)）：题目难度(中等)，题目类型(广度优先搜索_数组_动态规划)
+
+144.[最低票价](https://leetcode-cn.com/problems/minimum-cost-for-tickets/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumCostForTickets/MinimumCostForTickets.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumCostForTickets/MinimumCostForTickets.py)）：题目难度(中等)，题目类型(数组_动态规划)
+
+145.[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumPathSum/MinimumPathSum.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumPathSum/MinimumPathSum.py)）：题目难度(中等)，题目类型(数组_动态规划_矩阵)
+
