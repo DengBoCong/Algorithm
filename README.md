@@ -345,3 +345,15 @@ $=link=$: 题目原题链接
 
 145.[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumPathSum/MinimumPathSum.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumPathSum/MinimumPathSum.py)）：题目难度(中等)，题目类型(数组_动态规划_矩阵)
 
+146.[标签验证器](https://leetcode-cn.com/problems/tag-validator/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/TagValidator/TagValidator.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/TagValidator/TagValidator.py)）：题目难度(困难)，题目类型(栈_字符串)
+
+147.[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PalindromeLinkedList/PalindromeLinkedList.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PalindromeLinkedList/PalindromeLinkedList.py)）：题目难度(简单)，题目类型(栈_递归_链表_双指针)
+
+148.[路径总和](https://leetcode-cn.com/problems/path-sum/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PathSum/PathSum.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PathSum/PathSum.py)）：题目难度(简单)，题目类型(树_深度优先搜索_广度优先搜索_二叉树)
+
+149.[最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximumLengthOfRepeatedSubarray/MaximumLengthOfRepeatedSubarray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximumLengthOfRepeatedSubarray/MaximumLengthOfRepeatedSubarray.py)）：题目难度(中等)，题目类型(数组_二分查找_动态规划_滑动窗口_哈希函数_滚动哈希)
+
+150.[多数元素](https://leetcode-cn.com/problems/majority-element/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MajorityElement/MajorityElement.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MajorityElement/MajorityElement.py)）：题目难度(简单)，题目类型(数组_哈希表_分治_计数_排序)
+
+151.[求众数 II](https://leetcode-cn.com/problems/majority-element-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MajorityElementII/MajorityElementII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MajorityElementII/MajorityElementII.py)）：题目难度(中等)，题目类型(数组_哈希表_计数_排序)
+
