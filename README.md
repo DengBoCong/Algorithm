@@ -357,3 +357,13 @@ $=link=$: 题目原题链接
 
 151.[求众数 II](https://leetcode-cn.com/problems/majority-element-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MajorityElementII/MajorityElementII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MajorityElementII/MajorityElementII.py)）：题目难度(中等)，题目类型(数组_哈希表_计数_排序)
 
+152.[重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReorderDataInLogFiles/ReorderDataInLogFiles.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReorderDataInLogFiles/ReorderDataInLogFiles.py)）：题目难度(简单)，题目类型(数组_字符串_排序)
+
+153.[旋转图像](https://leetcode-cn.com/problems/rotate-image/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RotateImage/RotateImage.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RotateImage/RotateImage.py)）：题目难度(中等)，题目类型(数组_数学_矩阵)
+
+154.[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/InvertBinaryTree/InvertBinaryTree.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/InvertBinaryTree/InvertBinaryTree.py)）：题目难度(简单)，题目类型(树_深度优先搜素_广度优先搜索_二叉树)
+
+155.[组合总和](https://leetcode-cn.com/problems/combination-sum/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CombinationSum/CombinationSum.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CombinationSum/CombinationSum.py)）：题目难度(中等)，题目类型(数组_回溯)
+
+156.[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindFirstAndLastPositionOfElementInSortedArray/FindFirstAndLastPositionOfElementInSortedArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindFirstAndLastPositionOfElementInSortedArray/FindFirstAndLastPositionOfElementInSortedArray.py)）：题目难度(中等)，题目类型(数组_二分查找)
+
