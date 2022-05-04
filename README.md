@@ -367,3 +367,11 @@ $=link=$: 题目原题链接
 
 156.[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindFirstAndLastPositionOfElementInSortedArray/FindFirstAndLastPositionOfElementInSortedArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindFirstAndLastPositionOfElementInSortedArray/FindFirstAndLastPositionOfElementInSortedArray.py)）：题目难度(中等)，题目类型(数组_二分查找)
 
+157.[找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindTheWinnerOfTheCircularGame/FindTheWinnerOfTheCircularGame.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindTheWinnerOfTheCircularGame/FindTheWinnerOfTheCircularGame.py)）：题目难度(中等)，题目类型(递归_队列_数组_数学_模拟)
+
+158.[圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/YuanQuanZhongZuiHouShengXiaDeShuZiLcof/YuanQuanZhongZuiHouShengXiaDeShuZiLcof.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/YuanQuanZhongZuiHouShengXiaDeShuZiLcof/YuanQuanZhongZuiHouShengXiaDeShuZiLcof.py)）：题目难度(简单)，题目类型(递归_数学)
+
+159.[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.py)）：题目难度(简单)，题目类型(链表)
+
+160.[最大正方形](https://leetcode-cn.com/problems/maximal-square/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximalSquare/MaximalSquare.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximalSquare/MaximalSquare.py)）：题目难度(中等)，题目类型(数组_动态规划_矩阵)
+
