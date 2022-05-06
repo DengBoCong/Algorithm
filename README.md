@@ -375,3 +375,13 @@ $=link=$: 题目原题链接
 
 160.[最大正方形](https://leetcode-cn.com/problems/maximal-square/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximalSquare/MaximalSquare.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximalSquare/MaximalSquare.py)）：题目难度(中等)，题目类型(数组_动态规划_矩阵)
 
+161.[乘积小于 K 的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SubarrayProductLessThanK/SubarrayProductLessThanK.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SubarrayProductLessThanK/SubarrayProductLessThanK.py)）：题目难度(中等)，题目类型(数组_滑动窗口)
+
+162.[乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximumProductSubarray/MaximumProductSubarray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximumProductSubarray/MaximumProductSubarray.py)）：题目难度(中等)，题目类型(数组_动态规划)
+
+163.[和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SubarraySumEqualsK/SubarraySumEqualsK.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SubarraySumEqualsK/SubarraySumEqualsK.py)）：题目难度(中等)，题目类型(数组_哈希表_前缀和)
+
+164.[最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/NumberOfRecentCalls/NumberOfRecentCalls.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/NumberOfRecentCalls/NumberOfRecentCalls.py)）：题目难度(简单)，题目类型(设计_队列_数据流)
+
+165.[最大加号标志](https://leetcode-cn.com/problems/largest-plus-sign/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LargestPlusSign/LargestPlusSign.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LargestPlusSign/LargestPlusSign.py)）：题目难度(中等)，题目类型(数组_动态规划)
+
