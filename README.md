@@ -385,3 +385,13 @@ $=link=$: 题目原题链接
 
 165.[最大加号标志](https://leetcode-cn.com/problems/largest-plus-sign/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LargestPlusSign/LargestPlusSign.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LargestPlusSign/LargestPlusSign.py)）：题目难度(中等)，题目类型(数组_动态规划)
 
+166.[最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumGeneticMutation/MinimumGeneticMutation.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumGeneticMutation/MinimumGeneticMutation.py)）：题目难度(中等)，题目类型(广度优先搜索_哈希表_字符串)
+
+167.[数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindAllDuplicatesInAnArray/FindAllDuplicatesInAnArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindAllDuplicatesInAnArray/FindAllDuplicatesInAnArray.py)）：题目难度(中等)，题目类型(数组_哈希表)
+
+168.[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.py)）：题目难度(简单)，题目类型(数组_哈希表)
+
+169.[寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindPeakElement/FindPeakElement.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindPeakElement/FindPeakElement.py)）：题目难度(中等)，题目类型(数组_二分查找)
+
+170.[山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PeakIndexInAMountainArray/PeakIndexInAMountainArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PeakIndexInAMountainArray/PeakIndexInAMountainArray.py)）：题目难度(简单)，题目类型(数组_二分查找)
+
