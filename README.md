@@ -395,3 +395,11 @@ $=link=$: 题目原题链接
 
 170.[山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PeakIndexInAMountainArray/PeakIndexInAMountainArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PeakIndexInAMountainArray/PeakIndexInAMountainArray.py)）：题目难度(简单)，题目类型(数组_二分查找)
 
+171.[猫和老鼠 II](https://leetcode.cn/problems/cat-and-mouse-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CatAndMouseII/CatAndMouseII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CatAndMouseII/CatAndMouseII.py)）：题目难度(困难)，题目类型(广度优先搜索_图_记忆化搜索_数学_动态规划_博弈)
+
+172.[不同路径](https://leetcode.cn/problems/unique-paths/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/UniquePaths/UniquePaths.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/UniquePaths/UniquePaths.py)）：题目难度(中等)，题目类型(数学_动态规划_组合数学)
+
+173.[不同路径 II](https://leetcode.cn/problems/unique-paths-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/UniquePathsII/UniquePathsII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/UniquePathsII/UniquePathsII.py)）：题目难度(中等)，题目类型(数组_动态规划_矩阵)
+
+174.[地下城游戏](https://leetcode.cn/problems/dungeon-game/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DungeonGame/DungeonGame.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DungeonGame/DungeonGame.py)）：题目难度(困难)，题目类型(数组_动态规划_矩阵)
+
