@@ -403,3 +403,11 @@ $=link=$: 题目原题链接
 
 174.[地下城游戏](https://leetcode.cn/problems/dungeon-game/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DungeonGame/DungeonGame.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DungeonGame/DungeonGame.py)）：题目难度(困难)，题目类型(数组_动态规划_矩阵)
 
+175.[序列化和反序列化二叉搜索树](https://leetcode.cn/problems/serialize-and-deserialize-bst/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SerializeAndDeserializeBst/SerializeAndDeserializeBst.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SerializeAndDeserializeBst/SerializeAndDeserializeBst.py)）：题目难度(中等)，题目类型(树_深度优先搜索_广度优先搜索_设计_二叉搜索树_字符串_二叉树)
+
+176.[最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestConsecutiveSequence/LongestConsecutiveSequence.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestConsecutiveSequence/LongestConsecutiveSequence.py)）：题目难度(中等)，题目类型(并查集_数组_哈希表)
+
+177.[搜索二维矩阵 II](https://leetcode.cn/problems/search-a-2d-matrix-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SearchA2dMatrixII/SearchA2dMatrixII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SearchA2dMatrixII/SearchA2dMatrixII.py)）：题目难度(中等)，题目类型(数组_二分查找_分治_矩阵)
+
+178.[搜索二维矩阵](https://leetcode.cn/problems/search-a-2d-matrix/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SearchA2dMatrix/SearchA2dMatrix.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SearchA2dMatrix/SearchA2dMatrix.py)）：题目难度(中等)，题目类型(数组_二分查找_矩阵)
+
