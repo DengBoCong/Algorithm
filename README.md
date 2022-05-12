@@ -411,3 +411,7 @@ $=link=$: 题目原题链接
 
 178.[搜索二维矩阵](https://leetcode.cn/problems/search-a-2d-matrix/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SearchA2dMatrix/SearchA2dMatrix.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SearchA2dMatrix/SearchA2dMatrix.py)）：题目难度(中等)，题目类型(数组_二分查找_矩阵)
 
+179.[删列造序](https://leetcode.cn/problems/delete-columns-to-make-sorted/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DeleteColumnsToMakeSorted/DeleteColumnsToMakeSorted.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DeleteColumnsToMakeSorted/DeleteColumnsToMakeSorted.py)）：题目难度(简单)，题目类型(数组_字符串)
+
+180.[岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaxAreaOfIsland/MaxAreaOfIsland.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaxAreaOfIsland/MaxAreaOfIsland.py)）：题目难度(中等)，题目类型(深度优先搜索_广度优先搜索_并查集_数组_矩阵)
+
