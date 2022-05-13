@@ -415,3 +415,7 @@ $=link=$: 题目原题链接
 
 180.[岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaxAreaOfIsland/MaxAreaOfIsland.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaxAreaOfIsland/MaxAreaOfIsland.py)）：题目难度(中等)，题目类型(深度优先搜索_广度优先搜索_并查集_数组_矩阵)
 
+181.[岛屿的周长](https://leetcode.cn/problems/island-perimeter/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/IslandPerimeter/IslandPerimeter.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/IslandPerimeter/IslandPerimeter.py)）：题目难度(简单)，题目类型(深度优先搜索_广度优先搜索_数组_矩阵)
+
+182.[面试题 01.05. 一次编辑](https://leetcode.cn/problems/one-away-lcci/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/OneAwayLcci/OneAwayLcci.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/OneAwayLcci/OneAwayLcci.py)）：题目难度(中等)，题目类型(双指针_字符串)
+
