@@ -419,3 +419,9 @@ $=link=$: 题目原题链接
 
 182.[面试题 01.05. 一次编辑](https://leetcode.cn/problems/one-away-lcci/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/OneAwayLcci/OneAwayLcci.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/OneAwayLcci/OneAwayLcci.py)）：题目难度(中等)，题目类型(双指针_字符串)
 
+183.[贴纸拼词](https://leetcode.cn/problems/stickers-to-spell-word/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/StickersToSpellWord/StickersToSpellWord.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/StickersToSpellWord/StickersToSpellWord.py)）：题目难度(困难)，题目类型(位运算_动态规划_回溯_状态压缩)
+
+184.[字符串解码](https://leetcode.cn/problems/decode-string/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DecodeString/DecodeString.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DecodeString/DecodeString.py)）：题目难度(中等)，题目类型(栈_递归_字符串)
+
+185.[两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SwapNodesInPairs/SwapNodesInPairs.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SwapNodesInPairs/SwapNodesInPairs.py)）：题目难度(中等)，题目类型(递归_链表)
+
