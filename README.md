@@ -425,3 +425,13 @@ $=link=$: 题目原题链接
 
 185.[两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SwapNodesInPairs/SwapNodesInPairs.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SwapNodesInPairs/SwapNodesInPairs.py)）：题目难度(中等)，题目类型(递归_链表)
 
+186.[最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LargestTriangleArea/LargestTriangleArea.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LargestTriangleArea/LargestTriangleArea.py)）：题目难度(简单)，题目类型(几何_数组_数学)
+
+187.[基本计算器 II](https://leetcode.cn/problems/basic-calculator-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BasicCalculatorII/BasicCalculatorII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BasicCalculatorII/BasicCalculatorII.py)）：题目难度(中等)，题目类型(栈_数学_字符串)
+
+188.[二叉树最大宽度](https://leetcode.cn/problems/maximum-width-of-binary-tree/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximumWidthOfBinaryTree/MaximumWidthOfBinaryTree.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MaximumWidthOfBinaryTree/MaximumWidthOfBinaryTree.py)）：题目难度(中等)，题目类型(树_深度优先搜索_广度优先搜索_二叉树)
+
+189.[只出现一次的数字](https://leetcode.cn/problems/single-number/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SingleNumber/SingleNumber.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SingleNumber/SingleNumber.py)）：题目难度(简单)，题目类型(位运算_数)
+
+190.[买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.py)）：题目难度(中等)，题目类型(贪心_数组_动态规划)
+
