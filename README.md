@@ -435,3 +435,7 @@ $=link=$: 题目原题链接
 
 190.[买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.py)）：题目难度(中等)，题目类型(贪心_数组_动态规划)
 
+191.[面试题 04.06. 后继者](https://leetcode.cn/problems/successor-lcci/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SuccessorLcci/SuccessorLcci.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SuccessorLcci/SuccessorLcci.py)）：题目难度(中等)，题目类型(树_深度优先搜索_二叉搜索树_二叉树)
+
+192.[二叉搜索树与双向链表](https://leetcode.cn/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ErChaSouSuoShuYuShuangXiangLianBiaoLcof/ErChaSouSuoShuYuShuangXiangLianBiaoLcof.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ErChaSouSuoShuYuShuangXiangLianBiaoLcof/ErChaSouSuoShuYuShuangXiangLianBiaoLcof.py)）：题目难度(中等)，题目类型(栈_树_深度优先搜索_二叉搜索树_链表_二叉树_双向链表)
+
