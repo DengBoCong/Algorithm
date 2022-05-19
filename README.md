@@ -439,3 +439,7 @@ $=link=$: 题目原题链接
 
 192.[二叉搜索树与双向链表](https://leetcode.cn/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ErChaSouSuoShuYuShuangXiangLianBiaoLcof/ErChaSouSuoShuYuShuangXiangLianBiaoLcof.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ErChaSouSuoShuYuShuangXiangLianBiaoLcof/ErChaSouSuoShuYuShuangXiangLianBiaoLcof.py)）：题目难度(中等)，题目类型(栈_树_深度优先搜索_二叉搜索树_链表_二叉树_双向链表)
 
+193.[最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumMovesToEqualArrayElementsII/MinimumMovesToEqualArrayElementsII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumMovesToEqualArrayElementsII/MinimumMovesToEqualArrayElementsII.py)）：题目难度(中等)，题目类型(数组_数学_排序)
+
+194.[最小操作次数使数组元素相等](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumMovesToEqualArrayElements/MinimumMovesToEqualArrayElements.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumMovesToEqualArrayElements/MinimumMovesToEqualArrayElements.py)）：题目难度(简单)，题目类型(数组_数学)
+
