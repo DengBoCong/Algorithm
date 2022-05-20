@@ -443,3 +443,11 @@ $=link=$: 题目原题链接
 
 194.[最小操作次数使数组元素相等](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumMovesToEqualArrayElements/MinimumMovesToEqualArrayElements.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumMovesToEqualArrayElements/MinimumMovesToEqualArrayElements.py)）：题目难度(简单)，题目类型(数组_数学)
 
+195.[寻找右区间](https://leetcode.cn/problems/find-right-interval/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindRightInterval/FindRightInterval.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindRightInterval/FindRightInterval.py)）：题目难度(中等)，题目类型(数组_二分查找_排序)
+
+196.[复制带随机指针的链表](https://leetcode.cn/problems/copy-list-with-random-pointer/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CopyListWithRandomPointer/CopyListWithRandomPointer.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CopyListWithRandomPointer/CopyListWithRandomPointer.py)）：题目难度(中等)，题目类型(哈希表_链表)
+
+197.[打家劫舍](https://leetcode.cn/problems/house-robber/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/HouseRobber/HouseRobber.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/HouseRobber/HouseRobber.py)）：题目难度(中等)，题目类型(数组_动态规划)
+
+198.[打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/HouseRobberII/HouseRobberII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/HouseRobberII/HouseRobberII.py)）：题目难度(中等)，题目类型(数组_动态规划)
+
