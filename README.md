@@ -451,3 +451,11 @@ $=link=$: 题目原题链接
 
 198.[打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/HouseRobberII/HouseRobberII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/HouseRobberII/HouseRobberII.py)）：题目难度(中等)，题目类型(数组_动态规划)
 
+199.[在长度 2N 的数组中找出重复 N 次的元素](https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/NRepeatedElementInSize2nArray/NRepeatedElementInSize2nArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/NRepeatedElementInSize2nArray/NRepeatedElementInSize2nArray.py)）：题目难度(简单)，题目类型(数组_哈希表)
+
+200.[移动零](https://leetcode.cn/problems/move-zeroes/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MoveZeroes/MoveZeroes.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MoveZeroes/MoveZeroes.py)）：题目难度(简单)，题目类型(数组_双指针)
+
+201.[移除元素](https://leetcode.cn/problems/remove-element/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveElement/RemoveElement.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveElement/RemoveElement.py)）：题目难度(简单)，题目类型(数组_双指针)
+
+202.[长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumSizeSubarraySum/MinimumSizeSubarraySum.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumSizeSubarraySum/MinimumSizeSubarraySum.py)）：题目难度(中等)，题目类型(数组_二分查找_前缀和_滑动窗口)
+
