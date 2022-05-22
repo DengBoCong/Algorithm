@@ -459,3 +459,7 @@ $=link=$: 题目原题链接
 
 202.[长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumSizeSubarraySum/MinimumSizeSubarraySum.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumSizeSubarraySum/MinimumSizeSubarraySum.py)）：题目难度(中等)，题目类型(数组_二分查找_前缀和_滑动窗口)
 
+203.[我能赢吗](https://leetcode.cn/problems/can-i-win/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CanIWin/CanIWin.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CanIWin/CanIWin.py)）：题目难度(中等)，题目类型(位运算_记忆化搜索_数学_动态规划_状态压缩_博弈)
+
+204.[二叉树的序列化与反序列化](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SerializeAndDeserializeBinaryTree/SerializeAndDeserializeBinaryTree.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SerializeAndDeserializeBinaryTree/SerializeAndDeserializeBinaryTree.py)）：题目难度(困难)，题目类型(树_深度优先搜索_广度优先搜索_设计_字符串_二叉树)
+
