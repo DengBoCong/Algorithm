@@ -463,3 +463,11 @@ $=link=$: 题目原题链接
 
 204.[二叉树的序列化与反序列化](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SerializeAndDeserializeBinaryTree/SerializeAndDeserializeBinaryTree.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SerializeAndDeserializeBinaryTree/SerializeAndDeserializeBinaryTree.py)）：题目难度(困难)，题目类型(树_深度优先搜索_广度优先搜索_设计_字符串_二叉树)
 
+205.[为高尔夫比赛砍树](https://leetcode.cn/problems/cut-off-trees-for-golf-event/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CutOffTreesForGolfEvent/CutOffTreesForGolfEvent.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CutOffTreesForGolfEvent/CutOffTreesForGolfEvent.py)）：题目难度(困难)，题目类型(广度优先搜索_数组_矩阵_堆（优先队列）)
+
+206.[剑指 Offer 09. 用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/YongLiangGeZhanShiXianDuiLieLcof/YongLiangGeZhanShiXianDuiLieLcof.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/YongLiangGeZhanShiXianDuiLieLcof/YongLiangGeZhanShiXianDuiLieLcof.py)）：题目难度(简单)，题目类型(栈_设计_队列)
+
+207.[剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ErChaSouSuoShuDeDiKdaJieDianLcof/ErChaSouSuoShuDeDiKdaJieDianLcof.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ErChaSouSuoShuDeDiKdaJieDianLcof/ErChaSouSuoShuDeDiKdaJieDianLcof.py)）：题目难度(简单)，题目类型(树_深度优先搜索_二叉搜索树_二叉树)
+
+208.[二叉树的完全性检验](https://leetcode.cn/problems/check-completeness-of-a-binary-tree/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CheckCompletenessOfABinaryTree/CheckCompletenessOfABinaryTree.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CheckCompletenessOfABinaryTree/CheckCompletenessOfABinaryTree.py)）：题目难度(中等)，题目类型(树_广度优先搜索_二叉树)
+
