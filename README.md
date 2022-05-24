@@ -471,3 +471,7 @@ $=link=$: 题目原题链接
 
 208.[二叉树的完全性检验](https://leetcode.cn/problems/check-completeness-of-a-binary-tree/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CheckCompletenessOfABinaryTree/CheckCompletenessOfABinaryTree.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CheckCompletenessOfABinaryTree/CheckCompletenessOfABinaryTree.py)）：题目难度(中等)，题目类型(树_广度优先搜索_二叉树)
 
+209.[单值二叉树](https://leetcode.cn/problems/univalued-binary-tree/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/UnivaluedBinaryTree/UnivaluedBinaryTree.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/UnivaluedBinaryTree/UnivaluedBinaryTree.py)）：题目难度(简单)，题目类型(树_深度优先搜索_广度优先搜索_二叉树)
+
+210.[移掉 K 位数字](https://leetcode.cn/problems/remove-k-digits/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveKDigits/RemoveKDigits.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveKDigits/RemoveKDigits.py)）：题目难度(中等)，题目类型(栈_贪心_字符串_单调栈)
+
