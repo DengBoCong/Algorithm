@@ -475,3 +475,5 @@ $=link=$: 题目原题链接
 
 210.[移掉 K 位数字](https://leetcode.cn/problems/remove-k-digits/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveKDigits/RemoveKDigits.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveKDigits/RemoveKDigits.py)）：题目难度(中等)，题目类型(栈_贪心_字符串_单调栈)
 
+211.[面试题 17.11. 单词距离](https://leetcode.cn/problems/find-closest-lcci/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindClosestLcci/FindClosestLcci.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindClosestLcci/FindClosestLcci.py)）：题目难度(中等)，题目类型(数组_字符串)
+
