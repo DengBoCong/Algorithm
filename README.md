@@ -477,3 +477,9 @@ $=link=$: 题目原题链接
 
 211.[面试题 17.11. 单词距离](https://leetcode.cn/problems/find-closest-lcci/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindClosestLcci/FindClosestLcci.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindClosestLcci/FindClosestLcci.py)）：题目难度(中等)，题目类型(数组_字符串)
 
+212.[删除最外层的括号](https://leetcode.cn/problems/remove-outermost-parentheses/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveOutermostParentheses/RemoveOutermostParentheses.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveOutermostParentheses/RemoveOutermostParentheses.py)）：题目难度(简单)，题目类型(栈_字符串)
+
+213.[单词拆分](https://leetcode.cn/problems/word-break/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/WordBreak/WordBreak.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/WordBreak/WordBreak.py)）：题目难度(中等)，题目类型(字典树_记忆化搜索_哈希表_字符串_动态规划)
+
+214.[单词拆分 II](https://leetcode.cn/problems/word-break-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/WordBreakII/WordBreakII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/WordBreakII/WordBreakII.py)）：题目难度(困难)，题目类型(字典树_记忆化搜索_哈希表_字符串_动态规划_回溯)
+
