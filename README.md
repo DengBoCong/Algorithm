@@ -483,3 +483,9 @@ $=link=$: 题目原题链接
 
 214.[单词拆分 II](https://leetcode.cn/problems/word-break-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/WordBreakII/WordBreakII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/WordBreakII/WordBreakII.py)）：题目难度(困难)，题目类型(字典树_记忆化搜索_哈希表_字符串_动态规划_回溯)
 
+215.[验证IP地址](https://leetcode.cn/problems/validate-ip-address/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ValidateIpAddress/ValidateIpAddress.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ValidateIpAddress/ValidateIpAddress.py)）：题目难度(中等)，题目类型(字符串)
+
+216.[剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode.cn/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/QingWaTiaoTaiJieWenTiLcof/QingWaTiaoTaiJieWenTiLcof.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/QingWaTiaoTaiJieWenTiLcof/QingWaTiaoTaiJieWenTiLcof.py)）：题目难度(简单)，题目类型(记忆化搜索_数学_动态规划)
+
+217.[零钱兑换 II](https://leetcode.cn/problems/coin-change-2/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CoinChange2/CoinChange2.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CoinChange2/CoinChange2.py)）：题目难度(中等)，题目类型(数组_动态规划)
+
