@@ -491,3 +491,5 @@ $=link=$: 题目原题链接
 
 218.[从根到叶的二进制数之和](https://leetcode.cn/problems/sum-of-root-to-leaf-binary-numbers/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SumOfRootToLeafBinaryNumbers/SumOfRootToLeafBinaryNumbers.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SumOfRootToLeafBinaryNumbers/SumOfRootToLeafBinaryNumbers.py)）：题目难度(简单)，题目类型(树_深度优先搜索_二叉树)
 
+219.[课程表](https://leetcode.cn/problems/course-schedule/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CourseSchedule/CourseSchedule.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CourseSchedule/CourseSchedule.py)）：题目难度(中等)，题目类型(深度优先搜索_广度优先搜索_图_拓扑排序)
+
