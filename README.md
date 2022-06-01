@@ -493,3 +493,7 @@ $=link=$: 题目原题链接
 
 219.[课程表](https://leetcode.cn/problems/course-schedule/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CourseSchedule/CourseSchedule.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CourseSchedule/CourseSchedule.py)）：题目难度(中等)，题目类型(深度优先搜索_广度优先搜索_图_拓扑排序)
 
+220.[火柴拼正方形](https://leetcode.cn/problems/matchsticks-to-square/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MatchsticksToSquare/MatchsticksToSquare.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MatchsticksToSquare/MatchsticksToSquare.py)）：题目难度(中等)，题目类型(位运算_数组_动态规划_回溯_状态压缩)
+
+221.[剑指 Offer 51. 数组中的逆序对](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ShuZuZhongDeNiXuDuiLcof/ShuZuZhongDeNiXuDuiLcof.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ShuZuZhongDeNiXuDuiLcof/ShuZuZhongDeNiXuDuiLcof.py)）：题目难度(困难)，题目类型(树状数组_线段树_数组_二分查找_分治_有序集合_归并排序)
+
