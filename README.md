@@ -497,3 +497,7 @@ $=link=$: 题目原题链接
 
 221.[剑指 Offer 51. 数组中的逆序对](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ShuZuZhongDeNiXuDuiLcof/ShuZuZhongDeNiXuDuiLcof.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ShuZuZhongDeNiXuDuiLcof/ShuZuZhongDeNiXuDuiLcof.py)）：题目难度(困难)，题目类型(树状数组_线段树_数组_二分查找_分治_有序集合_归并排序)
 
+222.[有效的回旋镖](https://leetcode.cn/problems/valid-boomerang/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ValidBoomerang/ValidBoomerang.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ValidBoomerang/ValidBoomerang.py)）：题目难度(简单)，题目类型(几何_数组_数学)
+
+223.[每日温度](https://leetcode.cn/problems/daily-temperatures/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DailyTemperatures/DailyTemperatures.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DailyTemperatures/DailyTemperatures.py)）：题目难度(中等)，题目类型(栈_数组_单调栈)
+
