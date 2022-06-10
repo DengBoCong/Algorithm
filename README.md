@@ -501,3 +501,7 @@ $=link=$: 题目原题链接
 
 223.[每日温度](https://leetcode.cn/problems/daily-temperatures/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DailyTemperatures/DailyTemperatures.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DailyTemperatures/DailyTemperatures.py)）：题目难度(中等)，题目类型(栈_数组_单调栈)
 
+224.[统计不同回文子序列](https://leetcode.cn/problems/count-different-palindromic-subsequences/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CountDifferentPalindromicSubsequences/CountDifferentPalindromicSubsequences.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/CountDifferentPalindromicSubsequences/CountDifferentPalindromicSubsequences.py)）：题目难度(困难)，题目类型(字符串_动态规划)
+
+225.[单词搜索](https://leetcode.cn/problems/word-search/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/WordSearch/WordSearch.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/WordSearch/WordSearch.py)）：题目难度(中等)，题目类型(数组_回溯_矩阵)
+
