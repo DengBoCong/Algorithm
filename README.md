@@ -505,3 +505,5 @@ $=link=$: 题目原题链接
 
 225.[单词搜索](https://leetcode.cn/problems/word-search/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/WordSearch/WordSearch.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/WordSearch/WordSearch.py)）：题目难度(中等)，题目类型(数组_回溯_矩阵)
 
+226.[将字符串翻转到单调递增](https://leetcode.cn/problems/flip-string-to-monotone-increasing/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FlipStringToMonotoneIncreasing/FlipStringToMonotoneIncreasing.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FlipStringToMonotoneIncreasing/FlipStringToMonotoneIncreasing.py)）：题目难度(中等)，题目类型(字符串_动态规划)
+
