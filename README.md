@@ -507,3 +507,7 @@ $=link=$: 题目原题链接
 
 226.[将字符串翻转到单调递增](https://leetcode.cn/problems/flip-string-to-monotone-increasing/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FlipStringToMonotoneIncreasing/FlipStringToMonotoneIncreasing.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FlipStringToMonotoneIncreasing/FlipStringToMonotoneIncreasing.py)）：题目难度(中等)，题目类型(字符串_动态规划)
 
+227.[查找和替换模式](https://leetcode.cn/problems/find-and-replace-pattern/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindAndReplacePattern/FindAndReplacePattern.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindAndReplacePattern/FindAndReplacePattern.py)）：题目难度(中等)，题目类型(数组_哈希表_字符串)
+
+228.[全排列 II](https://leetcode.cn/problems/permutations-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PermutationsII/PermutationsII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PermutationsII/PermutationsII.py)）：题目难度(中等)，题目类型(数组_回溯)
+
