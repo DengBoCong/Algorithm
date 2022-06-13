@@ -511,3 +511,9 @@ $=link=$: 题目原题链接
 
 228.[全排列 II](https://leetcode.cn/problems/permutations-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PermutationsII/PermutationsII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PermutationsII/PermutationsII.py)）：题目难度(中等)，题目类型(数组_回溯)
 
+229.[高度检查器](https://leetcode.cn/problems/height-checker/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/HeightChecker/HeightChecker.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/HeightChecker/HeightChecker.py)）：题目难度(简单)，题目类型(数组_计数排序_排序)
+
+230.[Pow(x, n)](https://leetcode.cn/problems/powx-n/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PowxN/PowxN.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PowxN/PowxN.py)）：题目难度(中等)，题目类型(递归_数学)
+
+231.[螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SpiralMatrixII/SpiralMatrixII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SpiralMatrixII/SpiralMatrixII.py)）：题目难度(中等)，题目类型(数组_矩阵_模拟)
+
