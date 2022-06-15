@@ -517,3 +517,7 @@ $=link=$: 题目原题链接
 
 231.[螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SpiralMatrixII/SpiralMatrixII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SpiralMatrixII/SpiralMatrixII.py)）：题目难度(中等)，题目类型(数组_矩阵_模拟)
 
+232.[找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindKThSmallestPairDistance/FindKThSmallestPairDistance.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindKThSmallestPairDistance/FindKThSmallestPairDistance.py)）：题目难度(困难)，题目类型(数组_双指针_二分查找_排序)
+
+233.[整数反转](https://leetcode.cn/problems/reverse-integer/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReverseInteger/ReverseInteger.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReverseInteger/ReverseInteger.py)）：题目难度(中等)，题目类型(数学)
+
