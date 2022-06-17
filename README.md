@@ -521,3 +521,5 @@ $=link=$: 题目原题链接
 
 233.[整数反转](https://leetcode.cn/problems/reverse-integer/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReverseInteger/ReverseInteger.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ReverseInteger/ReverseInteger.py)）：题目难度(中等)，题目类型(数学)
 
+234.[复写零](https://leetcode.cn/problems/duplicate-zeros/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DuplicateZeros/DuplicateZeros.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DuplicateZeros/DuplicateZeros.py)）：题目难度(简单)，题目类型(数组_双指针)
+
