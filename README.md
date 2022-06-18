@@ -523,3 +523,7 @@ $=link=$: 题目原题链接
 
 234.[复写零](https://leetcode.cn/problems/duplicate-zeros/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DuplicateZeros/DuplicateZeros.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DuplicateZeros/DuplicateZeros.py)）：题目难度(简单)，题目类型(数组_双指针)
 
+235.[剑指 Offer II 029. 排序的循环链表](https://leetcode.cn/problems/4ueAj6/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/4ueAj6/4ueAj6.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/4ueAj6/4ueAj6.py)）：题目难度(中等)，题目类型(链表)
+
+236.[剑指 Offer 40. 最小的k个数](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ZuiXiaoDeKgeShuLcof/ZuiXiaoDeKgeShuLcof.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ZuiXiaoDeKgeShuLcof/ZuiXiaoDeKgeShuLcof.py)）：题目难度(简单)，题目类型(数组_分治_快速选择_排序_堆（优先队列）)
+
