@@ -527,3 +527,9 @@ $=link=$: 题目原题链接
 
 236.[剑指 Offer 40. 最小的k个数](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ZuiXiaoDeKgeShuLcof/ZuiXiaoDeKgeShuLcof.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ZuiXiaoDeKgeShuLcof/ZuiXiaoDeKgeShuLcof.py)）：题目难度(简单)，题目类型(数组_分治_快速选择_排序_堆（优先队列）)
 
+237.[出现次数最多的子树元素和](https://leetcode.cn/problems/most-frequent-subtree-sum/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MostFrequentSubtreeSum/MostFrequentSubtreeSum.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MostFrequentSubtreeSum/MostFrequentSubtreeSum.py)）：题目难度(中等)，题目类型(树_深度优先搜索_哈希表_二叉树)
+
+238.[调整数组顺序使奇数位于偶数前面](https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DiaoZhengShuZuShunXuShiQiShuWeiYuOuShuQianMianLcof/DiaoZhengShuZuShunXuShiQiShuWeiYuOuShuQianMianLcof.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DiaoZhengShuZuShunXuShiQiShuWeiYuOuShuQianMianLcof/DiaoZhengShuZuShunXuShiQiShuWeiYuOuShuQianMianLcof.py)）：题目难度(简单)，题目类型(数组_双指针_排序)
+
+239.[跳跃游戏](https://leetcode.cn/problems/jump-game/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/JumpGame/JumpGame.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/JumpGame/JumpGame.py)）：题目难度(中等)，题目类型(贪心_数组_动态规划)
+
