@@ -533,3 +533,15 @@ $=link=$: 题目原题链接
 
 239.[跳跃游戏](https://leetcode.cn/problems/jump-game/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/JumpGame/JumpGame.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/JumpGame/JumpGame.py)）：题目难度(中等)，题目类型(贪心_数组_动态规划)
 
+240.[二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/KthSmallestElementInABst/KthSmallestElementInABst.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/KthSmallestElementInABst/KthSmallestElementInABst.py)）：题目难度(中等)，题目类型(树_深度优先搜索_二叉搜索树_二叉树)
+
+241.[买卖股票的最佳时机 III](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.py)）：题目难度(困难)，题目类型(数组_动态规划)
+
+242.[分发糖果](https://leetcode.cn/problems/candy/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/Candy/Candy.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/Candy/Candy.py)）：题目难度(困难)，题目类型(贪心_数组)
+
+243.[找树左下角的值](https://leetcode.cn/problems/find-bottom-left-tree-value/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindBottomLeftTreeValue/FindBottomLeftTreeValue.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindBottomLeftTreeValue/FindBottomLeftTreeValue.py)）：题目难度(中等)，题目类型(树_深度优先搜索_广度优先搜索_二叉树)
+
+244.[删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.py)）：题目难度(简单)，题目类型(数组_双指针)
+
+245.[剑指 Offer 42. 连续子数组的最大和](https://leetcode.cn/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LianXuZiShuZuDeZuiDaHeLcof/LianXuZiShuZuDeZuiDaHeLcof.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LianXuZiShuZuDeZuiDaHeLcof/LianXuZiShuZuDeZuiDaHeLcof.py)）：题目难度(简单)，题目类型(数组_分治_动态规划)
+
