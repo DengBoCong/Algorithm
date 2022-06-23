@@ -545,3 +545,7 @@ $=link=$: 题目原题链接
 
 245.[剑指 Offer 42. 连续子数组的最大和](https://leetcode.cn/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LianXuZiShuZuDeZuiDaHeLcof/LianXuZiShuZuDeZuiDaHeLcof.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LianXuZiShuZuDeZuiDaHeLcof/LianXuZiShuZuDeZuiDaHeLcof.py)）：题目难度(简单)，题目类型(数组_分治_动态规划)
 
+246.[串联所有单词的子串](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SubstringWithConcatenationOfAllWords/SubstringWithConcatenationOfAllWords.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SubstringWithConcatenationOfAllWords/SubstringWithConcatenationOfAllWords.py)）：题目难度(困难)，题目类型(哈希表_字符串_滑动窗口)
+
+247.[盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ContainerWithMostWater/ContainerWithMostWater.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ContainerWithMostWater/ContainerWithMostWater.py)）：题目难度(中等)，题目类型(贪心_数组_双指针)
+
