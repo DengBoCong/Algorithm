@@ -549,3 +549,9 @@ $=link=$: 题目原题链接
 
 247.[盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ContainerWithMostWater/ContainerWithMostWater.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ContainerWithMostWater/ContainerWithMostWater.py)）：题目难度(中等)，题目类型(贪心_数组_双指针)
 
+248.[在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindLargestValueInEachTreeRow/FindLargestValueInEachTreeRow.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindLargestValueInEachTreeRow/FindLargestValueInEachTreeRow.py)）：题目难度(中等)，题目类型(树_深度优先搜索_广度优先搜索_二叉树)
+
+249.[删除二叉搜索树中的节点](https://leetcode.cn/problems/delete-node-in-a-bst/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DeleteNodeInABst/DeleteNodeInABst.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DeleteNodeInABst/DeleteNodeInABst.py)）：题目难度(中等)，题目类型(树_二叉搜索树_二叉树)
+
+250.[验证回文串](https://leetcode.cn/problems/valid-palindrome/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ValidPalindrome/ValidPalindrome.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ValidPalindrome/ValidPalindrome.py)）：题目难度(简单)，题目类型(双指针_字符串)
+
