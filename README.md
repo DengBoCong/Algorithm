@@ -555,3 +555,7 @@ $=link=$: 题目原题链接
 
 250.[验证回文串](https://leetcode.cn/problems/valid-palindrome/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ValidPalindrome/ValidPalindrome.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ValidPalindrome/ValidPalindrome.py)）：题目难度(简单)，题目类型(双指针_字符串)
 
+251.[粉刷房子](https://leetcode.cn/problems/JEj789/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/JEj789/JEj789.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/JEj789/JEj789.py)）：题目难度(中等)，题目类型(数组_动态规划)
+
+252.[奇偶链表](https://leetcode.cn/problems/odd-even-linked-list/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/OddEvenLinkedList/OddEvenLinkedList.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/OddEvenLinkedList/OddEvenLinkedList.py)）：题目难度(中等)，题目类型(链表)
+
