@@ -559,3 +559,7 @@ $=link=$: 题目原题链接
 
 252.[奇偶链表](https://leetcode.cn/problems/odd-even-linked-list/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/OddEvenLinkedList/OddEvenLinkedList.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/OddEvenLinkedList/OddEvenLinkedList.py)）：题目难度(中等)，题目类型(链表)
 
+253.[黑名单中的随机数](https://leetcode.cn/problems/random-pick-with-blacklist/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RandomPickWithBlacklist/RandomPickWithBlacklist.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RandomPickWithBlacklist/RandomPickWithBlacklist.py)）：题目难度(困难)，题目类型(哈希表_数学_二分查找_排序_随机化)
+
+254.[用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ImplementStackUsingQueues/ImplementStackUsingQueues.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ImplementStackUsingQueues/ImplementStackUsingQueues.py)）：题目难度(简单)，题目类型(栈_设计_队列)
+
