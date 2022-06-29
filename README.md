@@ -563,3 +563,13 @@ $=link=$: 题目原题链接
 
 254.[用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ImplementStackUsingQueues/ImplementStackUsingQueues.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ImplementStackUsingQueues/ImplementStackUsingQueues.py)）：题目难度(简单)，题目类型(栈_设计_队列)
 
+255.[剑指 Offer 27. 二叉树的镜像](https://leetcode.cn/problems/er-cha-shu-de-jing-xiang-lcof/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ErChaShuDeJingXiangLcof/ErChaShuDeJingXiangLcof.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ErChaShuDeJingXiangLcof/ErChaShuDeJingXiangLcof.py)）：题目难度(简单)，题目类型(树_深度优先搜索_广度优先搜索_二叉树)
+
+256.[摆动排序 II](https://leetcode.cn/problems/wiggle-sort-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/WiggleSortII/WiggleSortII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/WiggleSortII/WiggleSortII.py)）：题目难度(中等)，题目类型(数组_分治_快速选择_排序)
+
+257.[TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/EncodeAndDecodeTinyurl/EncodeAndDecodeTinyurl.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/EncodeAndDecodeTinyurl/EncodeAndDecodeTinyurl.py)）：题目难度(中等)，题目类型(设计_哈希表_字符串_哈希函数)
+
+258.[另一棵树的子树](https://leetcode.cn/problems/subtree-of-another-tree/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SubtreeOfAnotherTree/SubtreeOfAnotherTree.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/SubtreeOfAnotherTree/SubtreeOfAnotherTree.py)）：题目难度(简单)，题目类型(树_深度优先搜索_二叉树_字符串匹配_哈希函数)
+
+259.[剑指 Offer 04. 二维数组中的查找](https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ErWeiShuZuZhongDeChaZhaoLcof/ErWeiShuZuZhongDeChaZhaoLcof.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ErWeiShuZuZhongDeChaZhaoLcof/ErWeiShuZuZhongDeChaZhaoLcof.py)）：题目难度(中等)，题目类型(数组_二分查找_分治_矩阵)
+
