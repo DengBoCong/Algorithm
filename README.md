@@ -573,3 +573,7 @@ $=link=$: 题目原题链接
 
 259.[剑指 Offer 04. 二维数组中的查找](https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ErWeiShuZuZhongDeChaZhaoLcof/ErWeiShuZuZhongDeChaZhaoLcof.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ErWeiShuZuZhongDeChaZhaoLcof/ErWeiShuZuZhongDeChaZhaoLcof.py)）：题目难度(中等)，题目类型(数组_二分查找_分治_矩阵)
 
+260.[质数排列](https://leetcode.cn/problems/prime-arrangements/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PrimeArrangements/PrimeArrangements.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PrimeArrangements/PrimeArrangements.py)）：题目难度(简单)，题目类型(数学)
+
+261.[打乱数组](https://leetcode.cn/problems/shuffle-an-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ShuffleAnArray/ShuffleAnArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ShuffleAnArray/ShuffleAnArray.py)）：题目难度(中等)，题目类型(数组_数学_随机化)
+
