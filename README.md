@@ -577,3 +577,9 @@ $=link=$: 题目原题链接
 
 261.[打乱数组](https://leetcode.cn/problems/shuffle-an-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ShuffleAnArray/ShuffleAnArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ShuffleAnArray/ShuffleAnArray.py)）：题目难度(中等)，题目类型(数组_数学_随机化)
 
+262.[我的日程安排表 I](https://leetcode.cn/problems/my-calendar-i/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MyCalendarI/MyCalendarI.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MyCalendarI/MyCalendarI.py)）：题目难度(中等)，题目类型(设计_线段树_二分查找_有序集合)
+
+263.[二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.py)）：题目难度(中等)，题目类型(栈_树_深度优先搜索_链表_二叉树)
+
+264.[矩阵中的最长递增路径](https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.py)）：题目难度(困难)，题目类型(深度优先搜索_广度优先搜索_图_拓扑排序_记忆化搜索_动态规划)
+
