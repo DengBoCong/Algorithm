@@ -583,3 +583,13 @@ $=link=$: 题目原题链接
 
 264.[矩阵中的最长递增路径](https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LongestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.py)）：题目难度(困难)，题目类型(深度优先搜索_广度优先搜索_图_拓扑排序_记忆化搜索_动态规划)
 
+265.[数据流的中位数](https://leetcode.cn/problems/find-median-from-data-stream/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindMedianFromDataStream/FindMedianFromDataStream.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindMedianFromDataStream/FindMedianFromDataStream.py)）：题目难度(困难)，题目类型(设计_双指针_数据流_排序_堆（优先队列）)
+
+266.[轮转数组](https://leetcode.cn/problems/rotate-array/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RotateArray/RotateArray.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/RotateArray/RotateArray.py)）：题目难度(中等)，题目类型(数组_数学_双指针)
+
+267.[玩筹码](https://leetcode.cn/problems/minimum-cost-to-move-chips-to-the-same-position/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumCostToMoveChipsToTheSamePosition/MinimumCostToMoveChipsToTheSamePosition.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/MinimumCostToMoveChipsToTheSamePosition/MinimumCostToMoveChipsToTheSamePosition.py)）：题目难度(简单)，题目类型(贪心_数组_数学)
+
+268.[解码方法](https://leetcode.cn/problems/decode-ways/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DecodeWays/DecodeWays.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DecodeWays/DecodeWays.py)）：题目难度(中等)，题目类型(字符串_动态规划)
+
+268.[寻找重复数](https://leetcode.cn/problems/find-the-duplicate-number/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindTheDuplicateNumber/FindTheDuplicateNumber.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindTheDuplicateNumber/FindTheDuplicateNumber.py)）：题目难度(中等)，题目类型(位运算_数组_双指针_二分查找)
+
