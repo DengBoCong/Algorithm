@@ -591,5 +591,5 @@ $=link=$: 题目原题链接
 
 268.[解码方法](https://leetcode.cn/problems/decode-ways/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DecodeWays/DecodeWays.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/DecodeWays/DecodeWays.py)）：题目难度(中等)，题目类型(字符串_动态规划)
 
-268.[寻找重复数](https://leetcode.cn/problems/find-the-duplicate-number/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindTheDuplicateNumber/FindTheDuplicateNumber.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindTheDuplicateNumber/FindTheDuplicateNumber.py)）：题目难度(中等)，题目类型(位运算_数组_双指针_二分查找)
+269.[寻找重复数](https://leetcode.cn/problems/find-the-duplicate-number/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindTheDuplicateNumber/FindTheDuplicateNumber.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindTheDuplicateNumber/FindTheDuplicateNumber.py)）：题目难度(中等)，题目类型(位运算_数组_双指针_二分查找)
 
