@@ -593,3 +593,11 @@ $=link=$: 题目原题链接
 
 269.[寻找重复数](https://leetcode.cn/problems/find-the-duplicate-number/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindTheDuplicateNumber/FindTheDuplicateNumber.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/FindTheDuplicateNumber/FindTheDuplicateNumber.py)）：题目难度(中等)，题目类型(位运算_数组_双指针_二分查找)
 
+270.[最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LengthOfLongestFibonacciSubsequence/LengthOfLongestFibonacciSubsequence.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/LengthOfLongestFibonacciSubsequence/LengthOfLongestFibonacciSubsequence.py)）：题目难度(中等)，题目类型(数组_哈希表_动态规划)
+
+271.[两数相加 II](https://leetcode.cn/problems/add-two-numbers-ii/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/AddTwoNumbersII/AddTwoNumbersII.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/AddTwoNumbersII/AddTwoNumbersII.py)）：题目难度(中等)，题目类型(栈_链表_数学)
+
+272.[实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ImplementTriePrefixTree/ImplementTriePrefixTree.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/ImplementTriePrefixTree/ImplementTriePrefixTree.py)）：题目难度(中等)，题目类型(设计_字典树_哈希表_字符串)
+
+273.[回文数](https://leetcode.cn/problems/palindrome-number/)（[Java解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PalindromeNumber/PalindromeNumber.java) | [Python解法](https://github.com/DengBoCong/Algorithm/blob/master/core/PalindromeNumber/PalindromeNumber.py)）：题目难度(简单)，题目类型(数学)
+
